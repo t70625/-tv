@@ -48,6 +48,8 @@ https://livear.cgtn.com/1000a/prog_index.m3u8
 http://58.19.13.92:9901/tsfile/live/1037_1.m3u8
 #EXTINF:-1 group-title="中央電視台付費頻道" tvg-id="CHC家庭影院频道" tvg-logo="https://live.fanmingming.com/tv/CHC家庭影院.png",CHC家庭影院频道
 https://iptv.luas.edu.cn/liverespath/449d51febadb152094085d373b9af94a6ac5f1dd/e54a85c393-0-0-6b7edb011f653e636fe3aaaa916ce31c/index.m3u8
+#EXTINF:-1 group-title="中央電視台付費頻道" tvg-id="CHC高清電影" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/CHC%E9%AB%98%E6%B8%85%E7%94%B5%E5%BD%B1.png",CHC高清電影
+https://iptv.luas.edu.cn/liverespath/bca6167afdef7fc773405c38e695b342c1d1eca0/index.m3u8
 #EXTINF:-1 group-title="中央電視台付費頻道" tvg-id="中国天气" tvg-logo="https://live.fanmingming.com/tv/中国天气.png",中国天气
 http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
 #EXTINF:-1 group-title="中央電視台付費頻道" tvg-id="中國環球電視"  ,中國環球電視
