@@ -121,8 +121,12 @@ http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 https://myun-hw-s3.myun.tv/melj80jz/lxx27bol/1551285536499984128.m3u8
 #EXTINF:-1 group-title="香港台" tvg-logo="http://tv.haoqu99.com/d/file/2016/0921/smallaa82904eb024279ca456acad0ffc01ce1474737314.jpg",鳳凰衛視中文台
 https://edge2.laotv.la/live/PhxChinese/index.m3u8
-#EXTINF:-1 group-title="香港台" tvg-logo="http://tv.haoqu99.com/d/file/2016/1023/3dbd7f69c75486247711623f4720885c.jpg",鳳凰衛視咨詢台
+#EXTINF:-1 group-title="香港台" tvg-logo="http://tv.haoqu99.com/d/file/2016/1023/3dbd7f69c75486247711623f4720885c.jpg",鳳凰衛視資訊台
 https://edge1.laotv.la/live/PhoenixNews/index.m3u8
+#EXTINF:-1 group-title="香港台" tvg-logo="http://tv.haoqu99.com/d/file/2016/1023/6e088a50619e38d5f572909304640a63.jpg",鳳凰衛視香港台
+http://php.17186.eu.org/phtv/fhhk.m3u8
+
+https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream2/streamPlaylist.m3u8
 #EXTINF:-1 group-title="香港台",香港 港台电视32
 https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
 #EXTINF:-1 group-title="香港台",香港 香港電台普通話台（廣播）
@@ -140,8 +144,16 @@ http://61.244.22.4/ch5/info_ch5.live/playlist.m3u8
 https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
 
 
-#EXTINF:-1 group-title="黑龍江台" tvg-id="黑龙江卫视" tvg-logo="https://live.fanmingming.com/tv/黑龙江卫视.png",黑龙江卫视
+#EXTINF:-1 group-title="黑龍江台" tvg-id="黑龙江卫视" tvg-logo="https://live.fanmingming.com/tv/黑龙江卫视.png",黑龙江卫视 HLJTV-1
 http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225802/index.m3u8
+#EXTINF:-1 group-title="黑龍江台" tvg-id="黑龙江文體" tvg-logo="http://tv.haoqu99.com/d/file/2016/0623/20160623114133434.jpg",黑龙江文體 HLJTV-3
+https://idclive.hljtv.com:4430/live/hljwy_hd.m3u8
+#EXTINF:-1 group-title="黑龍江台" tvg-id="黑龙江都市" tvg-logo="http://tv.haoqu99.com/d/file/2016/0623/20160623113805611.jpg",黑龙江都市 HLJTV-4
+https://idclive.hljtv.com:4430/live/dushi_hd.m3u8
+#EXTINF:-1 group-title="黑龍江台" tvg-id="黑龙江新聞法治" tvg-logo="http://tv.haoqu99.com/d/file/2016/0623/20160623113610555.jpg",黑龙江新聞法治 HLJTV-5
+https://idclive.hljtv.com:4430/live/hljxw_hd.m3u8
+#EXTINF:-1 group-title="黑龍江台" tvg-id="黑龙江農業科教" tvg-logo="http://tv.haoqu99.com/d/file/2016/0623/20160623113356882.jpg",黑龙江農業科教 HLJTV-6
+https://idclive.hljtv.com:4430/live/hljgg_hd.m3u8
 #EXTINF:-1 group-title="黑龍江台" tvg-id="哈尔滨新闻综合频道" tvg-logo="http://tv.haoqu99.com/d/file/2016/1011/4ae5cacd4a79528b86f631ef4646d404.jpg",哈尔滨新闻综合频道
 http://stream.hrbtv.net/xwzh/sd/live.m3u8
 #EXTINF:-1 group-title="黑龍江台" tvg-id="哈尔滨生活频道" tvg-logo="http://tv.haoqu99.com/d/file/2016/1011/7c1c8279c7433182e47a6aaefa3d3687.jpg",哈尔滨生活频道
@@ -150,6 +162,8 @@ http://stream.hrbtv.net/shpd/sd/live.m3u8
 http://stream.hrbtv.net/ylpd/sd/live.m3u8
 #EXTINF:-1 group-title="黑龍江台" tvg-id="哈尔滨影视频道" tvg-logo="http://tv.haoqu99.com/d/file/2016/1011/95f38e639def77b673a8f409db85d7c2.jpg",哈尔滨影视频道
 http://stream.hrbtv.net/yspd/sd/live.m3u8
+
+
 
 #EXTINF:-1 group-title="吉林台" tvg-id="吉林卫视" tvg-logo="https://live.fanmingming.com/tv/吉林卫视.png",吉林卫视
 http://111.59.63.32:9901/tsfile/live/1043_1.m3u8
