@@ -50,6 +50,8 @@ http://58.19.13.92:9901/tsfile/live/1037_1.m3u8
 https://iptv.luas.edu.cn/liverespath/449d51febadb152094085d373b9af94a6ac5f1dd/e54a85c393-0-0-6b7edb011f653e636fe3aaaa916ce31c/index.m3u8
 #EXTINF:-1 group-title="中央電視台付費頻道" tvg-id="CHC高清電影" tvg-logo="https://live.fanmingming.com/tv/CHC高清电影.png",CHC高清電影
 https://iptv.luas.edu.cn/liverespath/bca6167afdef7fc773405c38e695b342c1d1eca0/index.m3u8
+#EXTINF:-1 group-title="中央電視台付費頻道" tvg-id="世界地理" tvg-logo="https://live.fanmingming.com/tv/世界地理.png",CCTV-世界地理
+https://iptv.luas.edu.cn/liverespath/ed97b8c80f70e495182e4082d79af981692f1d4e/9ce0cc0d72-0-0-8ed7791456745a97cb732d630b7644d8/index.m3u8
 #EXTINF:-1 group-title="中央電視台付費頻道" tvg-id="中国天气" tvg-logo="https://live.fanmingming.com/tv/中国天气.png",中国天气
 http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
 #EXTINF:-1 group-title="中央電視台付費頻道" tvg-id="中國環球電視" tvg-logo="https://pic.baike.soso.com/ugc/baikepic2/6111/20180616003115-703624960_jpeg_800_600_130896.jpg" ,中國環球電視
@@ -142,13 +144,13 @@ https://rthkaudio6-lh.akamaihd.net/i/radiopth_1@355869/index_56_a-p.m3u8
 #EXTINF:-1 group-title="香港台",香港 香港佛陀
 http://js1.amtb.cn/liveedge/_definst_/livetv/chunklist.m3u8
 
-#EXTINF:-1 group-title="澳門台",澳視
+#EXTINF:-1 group-title="澳門台" tvg-logo="https://live.fanmingming.com/tv/澳视澳门.png",澳視
 http://61.244.22.4/ch3/ch3.live/playelist.m3u8
-#EXTINF:-1 group-title="澳門台",澳視澳門
+#EXTINF:-1 group-title="澳門台" tvg-logo="https://live.fanmingming.com/tv/澳视澳门.png",澳視澳門
 http://61.244.22.4/ch1/ch1.live/playelist.m3u8
-#EXTINF:-1 group-title="澳門台",澳視咨訊
+#EXTINF:-1 group-title="澳門台" tvg-logo="https://live.fanmingming.com/tv/澳视澳门.png",澳視咨訊
 http://61.244.22.4/ch5/info_ch5.live/playlist.m3u8
-#EXTINF:-1 group-title="澳門台",澳亞衛視
+#EXTINF:-1 group-title="澳門台" tvg-logo="https://live.fanmingming.com/tv/澳亚卫视.png",澳亞衛視
 https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
 
 
@@ -1181,12 +1183,14 @@ http://spacetv.in/stream/WUQP6BVK17/56.m3u8
 #EXTINF:-1 group-title="外蒙古台" tvg-id="BloombergTVMongolia.mn" tvg-logo="https://i.imgur.com/OuogLHx.png" ,美國彭博財經頻道蒙語（高清）
 https://cdn3.skygo.mn/live/disk1/BloombergMon/HLS-FTA/BloombergMon.m3u8
 
+#EXTINF:-1 group-title="教育電視台" tvg-id="中国教育电视台一套" tvg-logo="https://live.fanmingming.com/tv/CETV1.png",中国教育电视台一套 CETV-1
+https://iptv.luas.edu.cn/liverespath/85558d86e1bcab9405a28515bc414ba3676ecbde/b3d4330996-0-0-50a37ef378641779cfa25c211638203b/index.m3u8
 #EXTINF:-1 group-title="教育電視台" tvg-id="中国教育电视台二套" tvg-logo="https://live.fanmingming.com/tv/CETV2.png",中国教育电视台二套 CETV-2
 https://txylivehd.centv.cn/showto/cetv2.m3u8
 #EXTINF:-1 group-title="教育電視台" tvg-id="中国教育电视台三套" tvg-logo="https://live.fanmingming.com/tv/CETV3.png",中国教育电视台三套 CETV-3
 https://iptv.luas.edu.cn/liverespath/3a13f3b554cd6c3764599392bb43650e4e015b87/84d91c0626-0-0-738f63a5615990888e791da6a56c7655/index.m3u8
 #EXTINF:-1 group-title="教育電視台" tvg-id="中国教育电视台四套" tvg-logo="https://live.fanmingming.com/tv/CETV4.png",中国教育电视台四套 CETV-4
-https://txylivehd.centv.cn/showto/cetv4.m3u8
+https://iptv.luas.edu.cn/liverespath/d9fd740848ee6bc5d883832bba7cafb90524390e/7bbaa2f074-0-0-74a0900f276ab7a943937fced10b07a6/index.m3u8
 #EXTINF:-1 group-title="教育電視台" tvg-logo="https://www.cec-tv.com.cn/template/eyou/pc/images/head_bg2.jpg",中国国际教育1台：
 http://play.cec-tv.com.cn/channel/cec-tv1.m3u8
  #EXTINF:-1 group-title="教育電視台" tvg-logo="https://www.cec-tv.com.cn/template/eyou/pc/images/head_bg2.jpg",中国国际教育2台：
