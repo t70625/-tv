@@ -48,22 +48,22 @@ https://livear.cgtn.com/1000a/prog_index.m3u8
 http://58.19.13.92:9901/tsfile/live/1037_1.m3u8
 #EXTINF:-1 group-title="中央電視台付費頻道" tvg-id="CHC家庭影院频道" tvg-logo="https://live.fanmingming.com/tv/CHC家庭影院.png",CHC家庭影院频道
 https://iptv.luas.edu.cn/liverespath/449d51febadb152094085d373b9af94a6ac5f1dd/e54a85c393-0-0-6b7edb011f653e636fe3aaaa916ce31c/index.m3u8
-#EXTINF:-1 group-title="中央電視台付費頻道" tvg-id="CHC高清電影" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/CHC高清电影.png",CHC高清電影
+#EXTINF:-1 group-title="中央電視台付費頻道" tvg-id="CHC高清電影" tvg-logo="https://live.fanmingming.com/tv/CHC高清电影.png",CHC高清電影
 https://iptv.luas.edu.cn/liverespath/bca6167afdef7fc773405c38e695b342c1d1eca0/index.m3u8
 #EXTINF:-1 group-title="中央電視台付費頻道" tvg-id="中国天气" tvg-logo="https://live.fanmingming.com/tv/中国天气.png",中国天气
 http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
-#EXTINF:-1 group-title="中央電視台付費頻道" tvg-id="中國環球電視"  ,中國環球電視
+#EXTINF:-1 group-title="中央電視台付費頻道" tvg-id="中國環球電視" tvg-logo="https://pic.baike.soso.com/ugc/baikepic2/6111/20180616003115-703624960_jpeg_800_600_130896.jpg" ,中國環球電視
 http://live.cgtn.com/500/prog_index.m3u8
 
 #EXTINF:-1 group-title="北京台" tvg-id="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png",BTV-1北京卫视
 http://58.19.13.92:9901/tsfile/live/1017_1.m3u8
-#EXTINF:-1 group-title="北京台" tvg-id="北京体育休闲频道" tvg-logo="http://tv.haoqu99.com/d/file/2022/1019/smalleaff23569497dc384636a9cafd917125.jpg",BTV-3 北京体育休闲频道
+#EXTINF:-1 group-title="北京台" tvg-id="北京体育休闲频道" tvg-logo="https://live.fanmingming.com/tv/北京体育休闲.png",BTV-3 北京体育休闲频道
 https://iptv.luas.edu.cn/liverespath/f837576f59a881e17cdd29040feea764e8c6dfd0/587bf2500b-0-0-56cf84117da9fa8dcdd5007a852c66c9/index.m3u8
-#EXTINF:-1 group-title="北京台" tvg-id="北京影视频道" tvg-logo="http://tv.haoqu99.com/d/file/2014/0512/20140512033629551.jpg",BTV-4 北京影视频道
+#EXTINF:-1 group-title="北京台" tvg-id="北京影视频道" tvg-logo="https://live.fanmingming.com/tv/北京影视.png",BTV-4 北京影视频道
 https://iptv.luas.edu.cn/liverespath/d68ca2a45a66f1289325852228ee748974c431ca/9bcafd4e4b-0-0-6330233de6fb5c0c501b7ade481185dd/index.m3u8
-#EXTINF:-1 group-title="北京台" tvg-id="北京生活频道" tvg-logo="http://tv.haoqu99.com/d/file/2014/0512/20140512033703686.jpg",BTV-7 北京生活频道
+#EXTINF:-1 group-title="北京台" tvg-id="北京生活频道" tvg-logo="https://live.fanmingming.com/tv/北京生活.png",BTV-7 北京生活频道
 https://iptv.luas.edu.cn/liverespath/89ed1379f4c4cc9a436aacabc882365f512a7595/efc99de71e-0-0-f050641c7ff11fec570bc02230c83bb0/index.m3u8
-#EXTINF:-1 group-title="北京台" tvg-id="北京纪实科教频道" tvg-logo="http://tv.haoqu99.com/d/file/2022/1019/small6a03ab230cac01c856d8b32c93e60682.jpg",BTV-11 北京纪实科教频道
+#EXTINF:-1 group-title="北京台" tvg-id="北京纪实科教频道" tvg-logo="https://live.fanmingming.com/tv/北京纪实科教.png",BTV-11 北京纪实科教频道
 https://iptv.luas.edu.cn/liverespath/9535e4def9ec36aaf65f8f87a8af664b81f4bf23/0ebb7cfba9-0-0-f517cb754aaeb41e1d25edc5fb5371fa/index.m3u8
 #EXTINF:-1 group-title="北京台" tvg-id="石景山电视台" tvg-logo="http://tv.haoqu99.com/d/file/2018/0704/small45f8c0a862f56e1fb0a1740f5c628f751530693077.jpg",石景山电视台
 http://live.sjsrm.com/bjsjs/sd/live.m3u8
@@ -89,7 +89,7 @@ https://pili-live-hls.wdit.com.cn/wditlive/c038f4fafbdf4f97ba74c74ad67259b931ee.
 
 #EXTINF:-1 group-title="天津台" tvg-id="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png",天津卫视
 http://221.213.43.82:8888/newlive/live/hls/42/live.m3u8
-#EXTINF:-1  group-title="天津台" ,宝坻一套
+#EXTINF:-1  group-title="天津台" tvg-logo="http://tv.haoqu99.com/d/file/2018/0320/small207fd382c57bd91f2404940e392676511521518700.jpg",宝坻一套
 https://hb2stream1.baoxinwen.com/d6387fc7a8836e78/6385068498053235715_1597997122.m3u8?auth_key=1893456000-0-0-93ea48b07ddd03f4904079b7659e81a4
 
 #EXTINF:-1 group-title="重慶台" tvg-id="重庆卫视" tvg-logo="https://live.fanmingming.com/tv/重庆卫视.png",重庆卫视
@@ -115,17 +115,17 @@ https://qxlmlive9.cbg.cn/applive/zxtv2/chunklist.m3u8
 #EXTINF:-1 group-title="重慶台" tvg-id="忠县文旅频道" tvg-logo="http://tv.haoqu99.com/d/file/2017/0630/small6e79735514de66fb5657ab8f93ea27391498832153.jpg",忠县文旅频道
 https://qxlmlive9.cbg.cn/applive/zxtv2/chunklist.m3u8
 
-#EXTINF:-1 group-title="香港台" tvg-logo="http://tv.haoqu99.com/d/file/2016/0922/small26a02aa95faa4a0ea0f217651a4f11411474553718.jpg",香港 香港卫视
+#EXTINF:-1 group-title="香港台" tvg-logo="https://live.fanmingming.com/tv/香港卫视.png",香港 香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-#EXTINF:-1 group-title="香港台" tvg-logo="http://tv.haoqu99.com/d/file/2016/0922/small26a02aa95faa4a0ea0f217651a4f11411474553718.jpg",香港 香港卫视
+#EXTINF:-1 group-title="香港台" tvg-logo="https://live.fanmingming.com/tv/香港卫视.png",香港 香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq.flv
-#EXTINF:-1 group-title="香港台" tvg-logo="http://tv.haoqu99.com/d/file/2016/0922/small26a02aa95faa4a0ea0f217651a4f11411474553718.jpg",香港 香港卫视文旅台-6
+#EXTINF:-1 group-title="香港台" tvg-logo="https://live.fanmingming.com/tv/香港卫视.png",香港 香港卫视文旅台-6
 https://myun-hw-s3.myun.tv/melj80jz/lxx27bol/1551285536499984128.m3u8
-#EXTINF:-1 group-title="香港台" tvg-logo="http://tv.haoqu99.com/d/file/2016/0921/smallaa82904eb024279ca456acad0ffc01ce1474737314.jpg",鳳凰衛視中文台
+#EXTINF:-1 group-title="香港台" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png",鳳凰衛視中文台
 https://edge2.laotv.la/live/PhxChinese/index.m3u8
-#EXTINF:-1 group-title="香港台" tvg-logo="http://tv.haoqu99.com/d/file/2016/1023/3dbd7f69c75486247711623f4720885c.jpg",鳳凰衛視資訊台
+#EXTINF:-1 group-title="香港台" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png",鳳凰衛視資訊台
 https://edge1.laotv.la/live/PhoenixNews/index.m3u8
-#EXTINF:-1 group-title="香港台" tvg-logo="http://tv.haoqu99.com/d/file/2016/1023/6e088a50619e38d5f572909304640a63.jpg",鳳凰衛視香港台
+#EXTINF:-1 group-title="香港台" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png",鳳凰衛視香港台
 http://php.17186.eu.org/phtv/fhhk.m3u8
 
 https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream2/streamPlaylist.m3u8
