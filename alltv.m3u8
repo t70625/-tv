@@ -132,6 +132,8 @@ http://61.244.22.4/ch3/ch3.live/playelist.m3u8
 http://61.244.22.4/ch1/ch1.live/playelist.m3u8
 #EXTINF:-1 group-title="澳門台",澳視咨訊
 http://61.244.22.4/ch5/info_ch5.live/playlist.m3u8
+#EXTINF:-1 group-title="澳門台",澳亞衛視
+https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
 
 
 #EXTINF:-1 group-title="黑龍江台" tvg-id="黑龙江卫视" tvg-logo="https://live.fanmingming.com/tv/黑龙江卫视.png",黑龙江卫视
@@ -164,12 +166,12 @@ http://stream1.jlntv.cn/dbxq/playlist.m3u8
 #EXTINF:-1 group-title="吉林台" tvg-id="吉林家有购物电视购物" tvg-logo="http://tv.haoqu99.com/d/file/2016/1023/749ccf27d043ff8ce70da64bdbde9283.jpg",吉林家有购物电视购物
 http://stream1.jlntv.cn/jygw/playlist.m3u8
 #EXTINF:-1 group-title="吉林台" tvg-id="延边卫视" tvg-logo="http://tv.haoqu99.com/d/file/2016/1020/162de1a70b0fd0924285f87d70ff8c2c.jpg",延边卫视
-http://live.ybtvyun.com/video/s10006-28bc40431485/index.m3u8
+http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
 #EXTINF:-1 group-title="吉林台" tvg-id="延边一套新闻综合频道" tvg-logo="http://tv.haoqu99.com/d/file/2016/1020/b46df47da4ad3be4c585d53affd029da.jpg",延边一套新闻综合频道
 https://live.ybtvyun.com/video/s10006-9ccd00054351/index.m3u8
 #EXTINF:-1 group-title="吉林台" tvg-id="延边二套汉语综合频道" tvg-logo="http://tv.haoqu99.com/d/file/2016/1021/34e5586e08864b4033141ed7b2d63e15.jpg",延边二套汉语综合频道
 https://live.ybtvyun.com/video/s10006-1c8f0ebfee9f/index.m3u8
-#EXTINF:-1 group-title="吉林台" tvg-id="延边二套汉语综合频道" status="online" tvg-logo="http://tv.haoqu99.com/d/file/2016/1020/162de1a70b0fd0924285f87d70ff8c2c.jpg",延边二套汉语综合频道（備用）
+#EXTINF:-1 group-title="吉林台" tvg-id="延边二套汉语综合频道" status="online" tvg-logo="http://tv.haoqu99.com/d/file/2016/1021/34e5586e08864b4033141ed7b2d63e15.jpg",延边二套汉语综合频道（備用）
 http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8
  
 #EXTINF:-1 group-title="遼寧台" tvg-id="辽宁卫视" tvg-logo="https://live.fanmingming.com/tv/辽宁卫视.png",辽宁卫视
@@ -963,7 +965,6 @@ https://liveplay.xjbs.cn/liveback/xjtvs-11.m3u8?auth_key=1707092625-0-0-69823fb8
 https://liveplay.xjbs.cn/liveback/xjtvs-12.m3u8?auth_key=1707092625-0-0-44c365262e9d6af70e27c0894cfb3dd2
 #EXTINF:-1 group-title="新疆台" tvg-id="兵团卫视" tvg-logo="https://live.fanmingming.com/tv/兵团卫视.png",兵团卫视
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226214/index.m3u8
-
 #EXTINF:-1 group-title="新疆台" tvg-id="烏魯木齊電視台" tvg-logo="http://tv.haoqu99.com/d/file/2016/1103/b5ee4daff5efe60abe5f459aba37ebd7.gif",烏魯木齊綜合 UTV-1
 http://pili-live-hls.xjwlmqapp2019.sobeylive.com/xjwlmqapp2019/xwzh.m3u8
 #EXTINF:-1 group-title="新疆台" tvg-id="烏魯木齊電視台" tvg-logo="http://tv.haoqu99.com/d/file/2016/1103/ae3a9400e08a3cd00041763416043db4.gif",烏魯木齊維語 UTV-2
@@ -972,7 +973,6 @@ http://pili-live-hls.xjwlmqapp2019.sobeylive.com/xjwlmqapp2019/wy.m3u8
 http://pili-live-hls.xjwlmqapp2019.sobeylive.com/xjwlmqapp2019/ys.m3u8
 #EXTINF:-1 group-title="新疆台" tvg-id="烏魯木齊電視台" tvg-logo="http://tv.haoqu99.com/d/file/2019/1229/small3dc9f0441b47ef4b009f27cf574118bd1577592697.gif",烏魯木齊都市生活 UTV-4
 http://pili-live-hls.xjwlmqapp2019.sobeylive.com/xjwlmqapp2019/shfw.m3u8
-
 #EXTINF:-1 group-title="新疆台" tvg-id="哈密电视台1套" tvg-logo="http://tv.haoqu99.com/d/file/2018/0319/smalla39fa085c140dd0cda01ae0623effda51521440468.jpg",哈密电视台1套
 http://stream.hmgbtv.com/hm1/hd/live.m3u8
 #EXTINF:-1 group-title="新疆台" tvg-id="哈密电视台2套" tvg-logo="http://tv.haoqu99.com/d/file/2018/0319/small53bff747a6bdf0101ab35f9b7ff7b62d1521440574.jpg",哈密电视台2套
