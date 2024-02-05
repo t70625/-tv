@@ -2417,9 +2417,9 @@ http://mmitv.top/pltv/huya.php?id=11601970
 
 
 
-#EXTINF:-1 group-title="日本台" tvg-id="http://gg.gg/HaNoiIPTV-NHK_World" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/NHK%20World%20Japan.png",日本 NHK WORLD（1通道）
+#EXTINF:-1 group-title="日本台" tvg-id="http://gg.gg/HaNoiIPTV-NHK_World" tvg-logo="https://live.fanmingming.com/tv/NHKWorld.png",日本 NHK WORLD（1通道）
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
-#EXTINF:-1 group-title="日本台" tvg-id="http://gg.gg/HaNoiIPTV-NHK_World" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/NHK%20World%20Japan.png",日本 NHK WORLD（2通道）
+#EXTINF:-1 group-title="日本台" tvg-id="http://gg.gg/HaNoiIPTV-NHK_World" tvg-logo="https://live.fanmingming.com/tv/NHKWorld.png",日本 NHK WORLD（2通道）
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 #EXTINF:-1 group-title="日本台",日テレNEWS24 全天新闻
 https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
