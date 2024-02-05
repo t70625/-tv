@@ -127,10 +127,16 @@ https://edge2.laotv.la/live/PhxChinese/index.m3u8
 https://edge1.laotv.la/live/PhoenixNews/index.m3u8
 #EXTINF:-1 group-title="香港台" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png",鳳凰衛視香港台
 http://php.17186.eu.org/phtv/fhhk.m3u8
-
+#EXTINF:-1 group-title="香港台" tvg-logo="http://gbm.123tv.cn/uploadfile/2023/08-1691323272.jpg",香港 港台电视31
 https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream2/streamPlaylist.m3u8
-#EXTINF:-1 group-title="香港台",香港 港台电视32
+#EXTINF:-1 group-title="香港台" tvg-logo="http://gbm.123tv.cn/uploadfile/2023/08-1691323272.jpg",香港 港台电视32
 https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
+#EXTINF:-1 group-title="香港台" tvg-logo="http://gbm.123tv.cn/uploadfile/2023/08-1691325213.jpg",香港 港台电视33
+https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8
+#EXTINF:-1 group-title="香港台" tvg-logo="http://gbm.123tv.cn/uploadfile/2023/08-1691326333.jpg",香港 港台电视34
+https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPlaylist.m3u8
+#EXTINF:-1 group-title="香港台" tvg-logo="http://gbm.123tv.cn/uploadfile/2023/08-1691326645.jpg",香港 港台电视35
+https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
 #EXTINF:-1 group-title="香港台",香港 香港電台普通話台（廣播）
 https://rthkaudio6-lh.akamaihd.net/i/radiopth_1@355869/index_56_a-p.m3u8
 #EXTINF:-1 group-title="香港台",香港 香港佛陀
