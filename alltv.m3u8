@@ -2500,11 +2500,40 @@ https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
 #EXTINF:-1 group-title="韓國台",국방国防TV
 http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
 
+#EXTINF:-1 group-title="新加坡" tvg-id="CNAInternational" tvg-logo="https://i.imgur.com/xWglicB.png",新加坡 国际亞洲新聞
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+#EXTINF:-1 group-title="新加坡" tvg-id="CNAInternational" tvg-logo="https://i.imgur.com/xWglicB.png",新加坡 国际亞洲新聞
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+#EXTINF:-1 group-title="新加坡" tvg-id="CNAInternational" tvg-logo="https://i.imgur.com/xWglicB.png",新加坡 国际亞洲新聞
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+#EXTINF:-1 group-title="新加坡" tvg-id="ZooMoo" tvg-logo="https://i.imgur.com/ciTJrnl.png" group-title="Kids",ZooMoo  兒童台
+https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
 
-#EXTINF:-1 group-title="外國台",新加坡 国际
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-#EXTINF:-1 group-title="外國台",新加坡 亞洲新聞
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+#EXTINF:-1 tvg-id="NTM.ru" tvg-logo="https://i.imgur.com/AH50pGT.png" group-title="俄羅斯台",NTM
+https://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="NVKSakha.ru" tvg-logo="https://i.imgur.com/LwXNUhf.png" group-title="俄羅斯台",NVK Sakha 薩哈
+https://live-saha.cdnvideo.ru/saha/saha/playlist.m3u8
+#EXTINF:-1 group-title="俄羅斯台",俄罗斯 Astrakhan 24 (Opt-2)
+http://streaming.astrakhan.ru/astrakhan24/index.m3u8
+#EXTINF:-1 group-title="俄羅斯台",俄罗斯 First Music (Opt-3)
+http://rtmp.one.by:1200
+#EXTINF:-1 group-title="俄羅斯台",俄罗斯RBC (Opt-1)
+http://92.50.128.180/utv/1358/index.m3u8
+#EXTINF:-1 group-title="俄羅斯台",俄罗斯 RBC (Opt-2)
+http://online.video.rbc.ru/online/rbctv_480p/index.m3u8
+#EXTINF:-1 group-title="俄羅斯台",俄罗斯 RBC (Opt-3)
+http://online.video.rbc.ru/online/rbctv_576p/index.m3u8
+#EXTINF:-1 group-title="俄羅斯台",俄罗斯 Shanson TV (Opt-1)
+http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8
+#EXTINF:-1 group-title="俄羅斯台",俄罗斯 Tivikom Ulan-Udje
+http://tvcom.stream.intelema.ru/tvcom/studio/index.m3u8
+#EXTINF:-1 group-title="俄羅斯台",俄罗斯 TRO Soyuz
+http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
+#EXTINF:-1 group-title="俄羅斯台",俄罗斯 UniverTV(576p)
+http://cdn.universmotri.ru/live/mq.sdp/playlist.m3u8
+#EXTINF:-1 group-title="俄羅斯台",俄罗斯 ТВК24
+http://air.tvk6.ru/tvk24/playlist.m3u8
+
 #EXTINF:-1 group-title="外國台",孟加拉国 EkuseyTV
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 group-title="外國台",印度 9XM(480p)
@@ -2625,27 +2654,6 @@ http://185.210.20.13:8080/0.m3u8
 https://unlimited1-us.dps.live/tv5/tv5.smil/playlist.m3u8
 #EXTINF:-1 group-title="外國台",西班牙 TVG
 http://europa-crtvg.flumotion.com/crtvg/europa_med/chunks.m3u8
-#EXTINF:-1 group-title="外國台",俄罗斯 Astrakhan 24 (Opt-2)
-http://streaming.astrakhan.ru/astrakhan24/index.m3u8
-#EXTINF:-1 group-title="外國台",俄罗斯 First Music (Opt-3)
-http://rtmp.one.by:1200
-#EXTINF:-1 group-title="外國台",俄罗斯RBC (Opt-1)
-http://92.50.128.180/utv/1358/index.m3u8
-#EXTINF:-1 group-title="外國台",俄罗斯 RBC (Opt-2)
-http://online.video.rbc.ru/online/rbctv_480p/index.m3u8
-#EXTINF:-1 group-title="外國台",俄罗斯 RBC (Opt-3)
-http://online.video.rbc.ru/online/rbctv_576p/index.m3u8
-#EXTINF:-1 group-title="外國台",俄罗斯 Shanson TV (Opt-1)
-http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8
-#EXTINF:-1 group-title="外國台",俄罗斯 Tivikom Ulan-Udje
-http://tvcom.stream.intelema.ru/tvcom/studio/index.m3u8
-#EXTINF:-1 group-title="外國台",俄罗斯 TRO Soyuz
-http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
-#EXTINF:-1 group-title="外國台",俄罗斯 UniverTV(576p)
-http://cdn.universmotri.ru/live/mq.sdp/playlist.m3u8
-#EXTINF:-1 group-title="外國台",俄罗斯 ТВК24
-http://air.tvk6.ru/tvk24/playlist.m3u8
-
 #EXTINF:-1 group-title="外國台",白俄罗斯 FirstMusicChannelBielorrusia
 http://hz1.teleport.cc/HLS/SD.m3u8
 #EXTINF:-1 group-title="外國台",乌克兰 7канал
