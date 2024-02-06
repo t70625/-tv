@@ -5771,6 +5771,8 @@ https://alpha.tv.online.tm/legacyhls/ch002_720/index.m3u8?checkedby:iptvcat.com
 http://live-atameken.cdnvideo.ru/atameken/atameken.sdp/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://mtrk.kz/wp-content/themes/mtrk/images/logo2023_25y.png" group-title="哈薩克斯坦台",北哈薩克新聞台 МТРК
 https://tvcdn01.oktv.kz/tv/mtrk/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/%D0%9C%D0%B8%D1%80_%D0%A2%D0%92_logo.svg" group-title="哈薩克斯坦台",和平電視台 МИР
+https://streaming.televizor-24-tochka.ru/live/22.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-logo="https://tv1.kg/css/newmin/logotop.png" group-title="吉爾吉斯台",TV1 KG 比什凱克
 http://212.2.225.30:1935/live/site.stream/playlist.m3u8?checkedby:iptvcat.com
@@ -5795,7 +5797,6 @@ http://news1.live14.com/stream/news1_hi.m3u8
 http://thaipbs-live.cdn.byteark.com/live-en/playlist_720p/index.m3u8
 #EXTINF:-1 group-title="其他外國台",泰国 PBS-公共三台 HD
 http://thaipbs-live.cdn.byteark.com/live/playlist_720p/index.m3u8
-
 #EXTINF:-1 group-title="其他外國台",英國 BBCWorldNews
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 #EXTINF:-1 group-title="其他外國台",加拿大 The Shopping Channel
@@ -5808,7 +5809,6 @@ https://dee7mwgg9dzvl.cloudfront.net/hls/uvagut/playlist.m3u8
 https://5864df9ceac85.streamlock.net/germanpictures-live/mp4:streamschedule/playlist.m3u8
 #EXTINF:-1 group-title="其他外國台",德国 Baden TV (720p)
 https://cdn.icu.de/rtplive/btv.stream/playlist.m3u8
-
 #EXTINF:-1 group-title="其他外國台",西班牙 TV Galicia Europa
 http://europa-crtvg.flumotion.com/playlist.m3u8
 #EXTINF:-1 group-title="其他外國台",西班牙 betevé(1080p)
@@ -5885,8 +5885,6 @@ https://liveopen.siliconweb.com/openTvLive/openEcclessia/playlist.m3u8
 http://live.cretetv.gr:1935/cretetv/myStream/f1tv.m3u8
 #EXTINF:-1 group-title="其他外國台",匈牙利 Hegyvidek Tv Budapest
 http://tv.hegyvidek.hu/stream_mpeg.flv
-
-
 #EXTINF:-1 group-title="其他外國台",伊朗PBC Tapesh TV
 http://iptv.tapesh.tv/tapesh/playlist.m3u8
 #EXTINF:-1 group-title="其他外國台",伊朗 MohabatTV(540p)[676*540][676*540]
@@ -5915,11 +5913,11 @@ https://master.starmena-cloud.com/hls/yemenshabab.m3u8
 https://video.yementdy.tv/hls/yementoday.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/半岛新闻.png" group-title="其他外國台",半岛新闻台（英語）（通道1）
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/半岛新闻.png" group-title="其他外國台",,半岛新闻台（英語）（通道2）
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/半岛新闻.png" group-title="其他外國台",半岛新闻台（英語）（通道2）
 https://live-hls-aje-ak.getaj.net/AJE/01.m3u8?zshijd
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/半岛新闻.png" group-title="其他外國台",,半岛新闻台（英語）（通道3）
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/半岛新闻.png" group-title="其他外國台",半岛新闻台（英語）（通道3）
 https://live-hls-web-aje.getaj.net/AJE/02.m3u8?zshijdp
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/半岛新闻.png" group-title="其他外國台",,半岛新闻台（阿拉伯語）
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/半岛新闻.png" group-title="其他外國台",半岛新闻台（阿拉伯語）
 http://live-hls-web-aja.getaj.net/AJA/02.m3u8?zshijd
 #EXTINF:-1 tvg-id="RedBullTV.at" tvg-logo="https://i.imgur.com/BcN8B3D.png" group-title="其他外國台",Red Bull TV 紅牛體育台
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
