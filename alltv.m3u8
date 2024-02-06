@@ -5541,17 +5541,11 @@ http://streaming.toutech.net:1935/live/mp4:jawharafm.sdp/playlist.m3u8
 http://htvmada.mada.ps:8888/nabluslive/index.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/半岛新闻.png" group-title="其他外國台",半岛新闻台（英語）（通道1）
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/半岛新闻.png" group-title="其他外國台",,半岛新闻台（英語）（通道2）
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/半岛新闻.png" group-title="其他外國台",半岛新闻台（英語）（通道2）
 https://live-hls-aje-ak.getaj.net/AJE/01.m3u8?zshijd
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/半岛新闻.png" group-title="其他外國台",,半岛新闻台（英語）（通道3）
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/半岛新闻.png" group-title="其他外國台",半岛新闻台（英語）（通道3）
 https://live-hls-web-aje.getaj.net/AJE/02.m3u8?zshijdp
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/半岛新闻.png" group-title="其他外國台",,半岛新闻台（阿拉伯語）
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/半岛新闻.png" group-title="其他外國台",半岛新闻台（阿拉伯語）
 http://live-hls-web-aja.getaj.net/AJA/02.m3u8?zshijd
-#EXTINF:-1 group-title="其他外國台" tvg-id="https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cnn.smil/manifest.mpd" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/CNN.png",CNN
-http://gg.gg/HaNoiIPTV-CNN
-#EXTINF:-1 group-title="其他外國台" tvg-id="https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/bbcworldnews.smil/manifest.mpd" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/BBC%20NEWS.png",BBC NEWS
-http://gg.gg/HaNoiIPTV-BBC_News
-#EXTINF:-1 group-title="其他外國台" tvg-id="https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/bloomberg.smil/manifest.mpd" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Bloomberg.png",BLOOMBERG
-http://gg.gg/HaNoiIPTV-Bloomberg
-#EXTINF:-1 group-title="其他外國台" tvg-id="http://gg.gg/HaNoiIPTV-ABC_Australia" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/ABC%20AUSTRALIA.png",ABC AUSTRALIA
+
 
