@@ -2466,15 +2466,15 @@ http://mmitv.top/pltv/huya.php?id=11601970
 
 
 
-#EXTINF:-1 group-title="日本台" tvg-id="http://gg.gg/HaNoiIPTV-NHK_World",NHK BSP4K
+#EXTINF:-1 group-title="日本台" tvg-logo="https://live.fanmingming.com/tv/NHKWorld.png",NHK BSP4K
 https://list.iptvcat.com/my_list/s/6c83e24cf9f6215ba65e6ffe15aa68fc.m3u8
-#EXTINF:-1 group-title="日本台" tvg-id="http://gg.gg/HaNoiIPTV-NHK_World",NHK E (東京)
+#EXTINF:-1 group-title="日本台" tvg-logo="https://live.fanmingming.com/tv/NHKWorld.png",NHK E (東京)
 https://list.iptvcat.com/my_list/s/f8ca65d00ffcea0bc1f6e6571edfdc90.m3u8
-#EXTINF:-1 group-title="日本台" tvg-id="http://gg.gg/HaNoiIPTV-NHK_World",NHK G (大阪)
+#EXTINF:-1 group-title="日本台" tvg-logo="https://live.fanmingming.com/tv/NHKWorld.png",NHK G (大阪)
 https://list.iptvcat.com/my_list/s/6843b74b145802ca90246abf70aa962b.m3u8
-#EXTINF:-1 group-title="日本台" tvg-id="http://gg.gg/HaNoiIPTV-NHK_World" tvg-logo="https://live.fanmingming.com/tv/NHKWorld.png",日本 NHK WORLD（1通道）
+#EXTINF:-1 group-title="日本台"  tvg-logo="https://live.fanmingming.com/tv/NHKWorld.png",日本 NHK WORLD（1通道）
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
-#EXTINF:-1 group-title="日本台" tvg-id="http://gg.gg/HaNoiIPTV-NHK_World" tvg-logo="https://live.fanmingming.com/tv/NHKWorld.png",日本 NHK WORLD（2通道）
+#EXTINF:-1 group-title="日本台"  tvg-logo="https://live.fanmingming.com/tv/NHKWorld.png",日本 NHK WORLD（2通道）
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 #EXTINF:-1 group-title="日本台",日テレNEWS24 全天新闻
 https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
