@@ -5771,6 +5771,9 @@ http://live-atameken.cdnvideo.ru/atameken/atameken.sdp/playlist.m3u8?checkedby:i
 #EXTINF:-1 tvg-logo="https://mtrk.kz/wp-content/themes/mtrk/images/logo2023_25y.png" group-title="哈薩克斯坦台",北哈薩克新聞台 МТРК
 https://tvcdn01.oktv.kz/tv/mtrk/playlist.m3u8?checkedby:iptvcat.com
 
+#EXTINF:-1 tvg-logo="https://tv1.kg/css/newmin/logotop.png" group-title="吉爾吉斯台",TV1 KG 比什凱克
+http://212.2.225.30:1935/live/site.stream/playlist.m3u8?checkedby:iptvcat.com
+
 #EXTINF:-1 group-title="其他外國台",孟加拉国 EkuseyTV
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 group-title="其他外國台",印度 9XM(480p)
