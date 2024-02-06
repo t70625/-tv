@@ -1210,7 +1210,7 @@ http://play.cec-tv.com.cn/channel/cec-tv2.m3u8
  #EXTINF:-1 group-title="教育電視台" tvg-logo="https://www.cec-tv.com.cn/template/eyou/pc/images/head_bg2.jpg",中国国际教育3台：
 http://play.cec-tv.com.cn/channel/cec-tv3.m3u8
 
-#EXTINF:-1 group-title="外國中文台" tvg-logo="http://gbm.123tv.cn/uploadfile/2023/10-1696728147.jpg",俄罗斯 TVBRICS中文台
+#EXTINF:-1 group-title="外國中文台" group-title="俄羅斯台" tvg-logo="http://gbm.123tv.cn/uploadfile/2023/10-1696728147.jpg",俄罗斯 TVBRICS中文台
 http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 group-title="娛樂频道",斗鱼4K
@@ -2515,6 +2515,31 @@ https://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
 https://live-saha.cdnvideo.ru/saha/saha/playlist.m3u8
 #EXTINF:-1 tvg-id="NikaTV.ru" tvg-logo="https://i.imgur.com/dccsFAu.png" group-title="俄羅斯台",Nika TV
 https://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="SamaraGIS.ru" tvg-logo="https://samaragis.ru/wp-includes/images/logo.png" group-title="俄羅斯台",Samara-GIS
+http://45.67.57.9:8080/new/new/playlist.m3u8
+#EXTINF:-1 tvg-id="TVRain.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Tvrain.svg/512px-Tvrain.svg.png" group-title="俄羅斯台",TV Rain
+https://1527562093.rsc.cdn77.org/transcode/ngrp:ses_all/playlist.m3u8
+#EXTINF:-1 tvg-id="Tivikom.ru" tvg-logo="https://i.imgur.com/qcJ4EBl.png" group-title="俄羅斯台",Tivikom
+http://tvcom.stream.intelema.ru/tvcom/studio/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BRIDGEDeluxe.ru" tvg-logo="https://i.imgur.com/EazL8w7.png" group-title="羅斯台",BRIDGE 音乐台 Deluxe
+https://strm.yandex.ru/kal/bridgetvdeluxe/bridgetvdeluxe0.m3u8
+#EXTINF:-1 tvg-id="BRIDGEHits.ru" tvg-logo="https://i.imgur.com/sIW9oR4.png" group-title="羅斯台",BRIDGE 音乐台 Hits
+https://strm.yandex.ru/kal/bridgetvhits/bridgetvhits0.m3u8
+#EXTINF:-1 tvg-id="BRIDGERock.ru" tvg-logo="https://i.imgur.com/MHuwct2.png" group-title="羅斯台",BRIDGE 音乐台 Rock
+https://strm.yandex.ru/kal/bridge_tv_fresh/bridge_tv_fresh0.m3u8
+#EXTINF:-1 tvg-id="BRIDGERussianHit.ru" tvg-logo="https://i.imgur.com/f9xdIlN.png" group-title="羅斯台",BRIDGE 音乐台 Russian Hit
+https://strm.yandex.ru/kal/bridgetv_russkiyhit/bridgetv_russkiyhit0.m3u8
+#EXTINF:-1 tvg-id="BRIDGESchlager.ru" tvg-logo="https://i.imgur.com/a9DXkMN.png" group-title="羅斯台",BRIDGE 音乐台 Schlager
+https://strm.yandex.ru/kal/bridgetv_shlyager/bridgetv_shlyager0.m3u8
+#EXTINF:-1 tvg-id="RTDocumentaryEnglish.ru" tvg-logo="https://i.imgur.com/aeu5zIC.png" group-title="俄羅斯台",RT Documentary English
+https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
+#EXTINF:-1 tvg-id="RTDocumentaryRussian.ru" tvg-logo="https://i.imgur.com/aeu5zIC.png" group-title="俄羅斯台",RT Documentary Russian
+https://hls.rt.com/hls/rtdru.m3u8
+#EXTINF:-1 tvg-id="NashaSibir.ru" tvg-logo="https://i.imgur.com/uXOz2d9.png" group-title="俄羅斯台",Nasha 西伯利亚
+https://strm.yandex.ru/kal/sibir/sibir0.m3u8
+#EXTINF:-1 tvg-id="RTArabic.ru" tvg-logo="https://i.imgur.com/G8vGrn1.png" group-title="俄羅斯台",RT Arabic
+https://rt-arb.rttv.com/dvr/rtarab/playlist.m3u8
 #EXTINF:-1 group-title="俄羅斯台",俄罗斯 Astrakhan 24 (Opt-2)
 http://streaming.astrakhan.ru/astrakhan24/index.m3u8
 #EXTINF:-1 group-title="俄羅斯台",俄罗斯 First Music (Opt-3)
