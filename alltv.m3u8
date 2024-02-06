@@ -5743,6 +5743,11 @@ http://stream.taksimbilisim.com:1935/tv41/smil:tv41.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="UUTV1.tr" tvg-logo="https://i.imgur.com/H5kOQz5.png" group-title="其他外國台",ÜÜ TV 1 于斯屈達爾大學1
 https://uskudarunv.mediatriple.net/uskudarunv/uskudar1/playlist.m3u8
 
+#EXTINF:0 tvg-country="KZ" tvg-logo="" group-title="哈薩克斯坦台",經濟商業台 Atameken Business
+http://live-atameken.cdnvideo.ru/atameken/atameken.sdp/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="KZ" tvg-logo="" group-title="哈薩克斯坦台",哈薩克和平台 МТРК
+https://tvcdn01.oktv.kz/tv/mtrk/playlist.m3u8?checkedby:iptvcat.com
+
 #EXTINF:-1 group-title="其他外國台",孟加拉国 EkuseyTV
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 group-title="其他外國台",印度 9XM(480p)
