@@ -2626,10 +2626,7 @@ https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
 #EXTINF:-1 group-title="韓國台",국방国防TV
 http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
 
-
-#EXTINF:-1 tvg-id="KoreanCentralTelevision.kp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_of_the_Korean_Central_Television.svg/320px-Logo_of_the_Korean_Central_Television.svg.png" group-title="朝鮮台", 朝鮮中央電視台(測試)
-https://tv.nknews.org/tvhls/stream.m3u8
-#EXTINF:-1 tvg-id="KoreanCentralTelevision.kp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_of_the_Korean_Central_Television.svg/320px-Logo_of_the_Korean_Central_Television.svg.png" group-title="朝鮮台", 朝鮮中央電視台(測試)
+#EXTINF:-1 tvg-id="KoreanCentralTelevision.kp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_of_the_Korean_Central_Television.svg/320px-Logo_of_the_Korean_Central_Television.svg.png" group-title="朝鮮台", 朝鮮中央電視台
 https://tv.nknews.org/tvdash/stream.mpd
 
 
