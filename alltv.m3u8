@@ -5726,7 +5726,7 @@ http://cdn-berattv.yayin.com.tr/berattv/berattv/playlist.m3u8
 http://stream.taksimbilisim.com:1935/kanal33/bant1/playlist.m3u8
 #EXTINF:-1 group-title="土耳其台",TV 41 (270p)
 http://stream.taksimbilisim.com:1935/tv41/smil:tv41.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="UUTV1.tr" tvg-logo="https://i.imgur.com/H5kOQz5.png" group-title="其他外國台",ÜÜ TV 1 于斯屈達爾大學1
+#EXTINF:-1 tvg-id="UUTV1.tr" tvg-logo="https://i.imgur.com/H5kOQz5.png" group-title="土耳其台",ÜÜ TV 1 于斯屈達爾大學1
 https://uskudarunv.mediatriple.net/uskudarunv/uskudar1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://tdh.gov.tm/static/logo/7.png" group-title="土庫曼斯坦台",土庫曼斯坦電視台
