@@ -5503,6 +5503,44 @@ https://cs.ebmcdn.net/eastbay-live-hs-1/fcps/mp4:fcps/playlist.m3u8
 http://media.smc-host.com:1935/cycnow.com/cyc2/playlist.m3u8
 
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="亞美尼亞台" ,ԱԶԱՏՈՒԹՅՈՒՆ ԹԻՎԻ 自由電視台
+http://ott-cdn.ucom.am/s3/index.m3u8
+#EXTINF:-1 tvg-id="Armenia1.am" tvg-logo="https://i.imgur.com/HIwJ4lc.png" group-title="亞美尼亞台",Առաջին ալիք 第一頻道
+https://amtv1.livestreamingcdn.com/am2abr/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="亞美尼亞台" ,ԱՐՄԵՆԻԱ 1 ՊՐԵՄԻՈՒՄ 亞美尼亞 1 高清台
+http://ott-cdn.ucom.am/s83/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="亞美尼亞台" ,ԱՐՄԵՆԻԱ 亞美尼亞電視台
+http://ott-cdn.ucom.am/s4/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="亞美尼亞台" ,ԱՐՄԵՆԻԱ-ՀԱՅԿԻՆՈ 亚美尼亚-海基诺
+http://ott-cdn.ucom.am/s22/index.m3u8
+#EXTINF:-1 tvg-id="DAR21.am" tvg-logo="https://i.imgur.com/F7YP7cX.png" group-title="Music" ,ԴԱՐ21 21世紀台
+http://ott-cdn.ucom.am/s10/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="亞美尼亞台" ,ԵՐԿԻՐ ՄԵԴԻԱ 地球傳媒
+http://ott-cdn.ucom.am/s7/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="亞美尼亞台" ,ԹԱՎԱ ԹԻՎԻ PAN數字頻道
+http://ott-cdn.ucom.am/s53/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="亞美尼亞台" ,ԼԱՎՖՀԱՔ 好技巧頻道
+http://ott-cdn.ucom.am/s48/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="亞美尼亞台" ,ԽԱՂԱԼԻՔ 玩具台
+http://ott-cdn.ucom.am/s74/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="亞美尼亞台" ,ԿԵՆՏՐՈՆ 中央台
+http://ott-cdn.ucom.am/s5/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="亞美尼亞台" ,ԿԻՆՈՄԱՆ 電影人
+http://ott-cdn.ucom.am/s94/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="亞美尼亞台" ,ՀԱՅ ԹԻՎԻ 亞美尼亞數字
+http://ott-cdn.ucom.am/s73/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="亞美尼亞台" ,ՆՈՐ ՀԱՅԱՍՏԱՆ 亞美尼亞電視台
+http://ott-cdn.ucom.am/s12/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="亞美尼亞台" ,ՇՈՂԱԿԱԹ 輻射頻道
+http://ott-cdn.ucom.am/s13/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="亞美尼亞台" ,ՋԱՆ ԹԻՎԻ 简·蒂维頻道
+http://ott-cdn.ucom.am/s42/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="亞美尼亞台" ,ՍԻՆԵՄԱՆ 電影頻道
+http://ott-cdn.ucom.am/s66/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="亞美尼亞台" ,ՏՈՒՆՏՈՒՆԻԿ 主持人頻道
+http://ott-cdn.ucom.am/s46/index.m3u8
+
+
 #EXTINF:-1 group-title="其他外國台",孟加拉国 EkuseyTV
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 group-title="其他外國台",印度 9XM(480p)
@@ -5618,6 +5656,8 @@ http://167.114.133.205:1935/live/pinguinotv_360p/playlist.m3u8
 http://streaming03.zas.media:1935/redemaoamiga/redemaoamiga/live.m3u8
 #EXTINF:-1 group-title="其他外國台",巴西 RedeMãoAmiga(720p)
 http://cdn.vms.grupoz.cl/lapintanatv/content/5a7c8e25e19d3e641aca9fb2/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="MnauTV.cz" tvg-logo="https://i.imgur.com/deVHJKS.png" group-title="其他外國台",捷克 Mňau TV (1080p)
+https://5ca49f2417d90.streamlock.net/mnau/livestream/playlist.m3u8
 #EXTINF:-1 group-title="其他外國台",捷克Retro (Opt-1)
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 #EXTINF:-1 group-title="其他外國台",斯洛伐克TV 8
@@ -5680,6 +5720,8 @@ https://59d39900ebfb8.streamlock.net/bahartv/bahartv/playlist.m3u8
 http://streaming.toutech.net:1935/live/mp4:jawharafm.sdp/playlist.m3u8
 #EXTINF:-1 group-title="其他外國台",巴勒斯坦 NablusTV 纳布卢斯官方电视频道
 http://htvmada.mada.ps:8888/nabluslive/index.m3u8
+#EXTINF:-1 tvg-id="MMSomaliTV.uk" tvg-logo="https://i.imgur.com/wnpe5i8.png" group-title="其他外國台",索馬里 MM Somali TV
+https://cdn.mediavisionuk.com:9000/MMTV/index.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/半岛新闻.png" group-title="其他外國台",半岛新闻台（英語）（通道1）
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/半岛新闻.png" group-title="其他外國台",,半岛新闻台（英語）（通道2）
