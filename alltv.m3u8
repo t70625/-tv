@@ -2466,13 +2466,21 @@ http://mmitv.top/pltv/huya.php?id=11601970
 
 
 
+#EXTINF:-1 group-title="日本台" tvg-id="http://gg.gg/HaNoiIPTV-NHK_World",NHK BSP4K
+https://list.iptvcat.com/my_list/s/6c83e24cf9f6215ba65e6ffe15aa68fc.m3u8
+#EXTINF:-1 group-title="日本台" tvg-id="http://gg.gg/HaNoiIPTV-NHK_World",NHK E (東京)
+https://list.iptvcat.com/my_list/s/f8ca65d00ffcea0bc1f6e6571edfdc90.m3u8
+#EXTINF:-1 group-title="日本台" tvg-id="http://gg.gg/HaNoiIPTV-NHK_World",NHK G (大阪)
+https://list.iptvcat.com/my_list/s/6843b74b145802ca90246abf70aa962b.m3u8
 #EXTINF:-1 group-title="日本台" tvg-id="http://gg.gg/HaNoiIPTV-NHK_World" tvg-logo="https://live.fanmingming.com/tv/NHKWorld.png",日本 NHK WORLD（1通道）
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
 #EXTINF:-1 group-title="日本台" tvg-id="http://gg.gg/HaNoiIPTV-NHK_World" tvg-logo="https://live.fanmingming.com/tv/NHKWorld.png",日本 NHK WORLD（2通道）
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 #EXTINF:-1 group-title="日本台",日テレNEWS24 全天新闻
 https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
-#EXTINF:-1 group-title="日本台",日本 QVC Japan
+#EXTINF:-1 group-title="日本台",QVCジャパン QVC Japan（1通道）
+https://list.iptvcat.com/my_list/s/5b57b55e9bec5390ee0075e92ba6f525.m3u8
+#EXTINF:-1 group-title="日本台",QVCジャパン QVC Japan（2通道）
 http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
 #EXTINF:-1 group-title="日本台",日本购物2通道
 http://stream1.shopch.jp/HLS/out2/prog_index.m3u8
@@ -2480,6 +2488,96 @@ http://stream1.shopch.jp/HLS/out2/prog_index.m3u8
 http://stream1.shopch.jp/HLS/out3/prog_index.m3u8
 #EXTINF:-1 group-title="日本台",日本购物4通道
 http://stream1.shopch.jp/HLS/out4/prog_index.m3u8
+#EXTINF:-1 group-title="日本台",日本 富士TV
+https://list.iptvcat.com/my_list/s/00c1344ec540c5af044cd3df96e8acd0.m3u8
+#EXTINF:-1 group-title="日本台",日本 富士TV NEXT
+https://list.iptvcat.com/my_list/s/59c9a46687565871da26b28c29c98759.m3u8
+#EXTINF:-1 group-title="日本台",日本民間放送 ABC
+https://list.iptvcat.com/my_list/s/56d5eb1198b241d4856c48ca8467cada.m3u8
+#EXTINF:-1 group-title="日本台",BBC亞太
+https://list.iptvcat.com/my_list/s/e42ce3479c971b25bcaf441d8a81b3a3.m3u8
+#EXTINF:-1 group-title="日本台",朝日電視台 Asahi
+https://list.iptvcat.com/my_list/s/4c479f7c1d548592afa5ae60e836877e.m3u8
+#EXTINF:-1 group-title="日本台",日本電視Nippon TV
+https://list.iptvcat.com/my_list/s/7cda4e7686ccba35e2c223797b320f6e.m3u8
+#EXTINF:-1 group-title="日本台",日本TBS 東京電視台
+https://list.iptvcat.com/my_list/s/f1dd2b61d8b97a21f4b415b5137334e3.m3u8
+#EXTINF:-1 group-title="日本台", TV 東京
+https://list.iptvcat.com/my_list/s/e435cc7ca5fd6eac84db1f958c24af34.m3u8
+#EXTINF:-1 group-title="日本台", CNN 日本
+https://list.iptvcat.com/my_list/s/0d2f4e86c0c8d99f788d993181ab9946.m3u8
+#EXTINF:-1 group-title="日本台", 日本卡通網
+https://list.iptvcat.com/my_list/s/d425b809055929b7a3742bb7d22a573f.m3u8
+#EXTINF:-1 group-title="日本台", 銀河頻道
+https://list.iptvcat.com/my_list/s/d589c00dc6321c1005c60a2f1ed80b20.m3u8
+#EXTINF:-1 group-title="日本台",迪士尼日本頻道 Disney Channel Japan
+https://list.iptvcat.com/my_list/s/ed1e1317829227c883c5de3f9979416b.m3u8
+#EXTINF:-1 group-title="日本台",迪士尼青年頻道 Disney Junior
+https://list.iptvcat.com/my_list/s/2572d2a39ec5a641fa4218bd10750dd3.m3u8
+#EXTINF:-1 group-title="日本台",衛星劇場
+https://list.iptvcat.com/my_list/s/70c9cd75bccb781c2e37f0d4a8d96a13.m3u8
+#EXTINF:-1 group-title="日本台",家庭劇場
+https://list.iptvcat.com/my_list/s/4b9c4a8608d12b01996da2b7255adeb5.m3u8
+#EXTINF:-1 group-title="日本台",垂钓频道
+https://list.iptvcat.com/my_list/s/cfbd826856e10d9f6a65d8606b67d765.m3u8
+#EXTINF:-1 group-title="日本台",ガキの使い 英語
+https://list.iptvcat.com/my_list/s/0df41e9fc06e7d9a6f19b5dc988b1491.m3u8
+#EXTINF:-1 group-title="日本台",GAORAスポーツ
+https://list.iptvcat.com/my_list/s/8476655d1b8d1c28e72ae18469b50958.m3u8
+#EXTINF:-1 group-title="日本台",家庭劇院頻道
+https://list.iptvcat.com/my_list/s/73dfb244c15c7b2a6bcb7ab4478d39a6.m3u8
+#EXTINF:-1 group-title="日本台",日本體育1 J Sports 1
+https://list.iptvcat.com/my_list/s/81c1be12082e9acd446285a6b78f7b97.m3u8
+#EXTINF:-1 group-title="日本台",日本體育2 J Sports 2
+https://list.iptvcat.com/my_list/s/7edd9b4881ad0c5adc1fc764636dca4b.m3u8
+#EXTINF:-1 group-title="日本台",日本體育3 J Sports 3
+https://list.iptvcat.com/my_list/s/253c0eddfadd875d92cdc2c8772f0ab6.m3u8
+#EXTINF:-1 group-title="日本台",日本體育4 J Sports 4
+https://list.iptvcat.com/my_list/s/9985cbf073001cec66a9dcfda0ca8639.m3u8
+#EXTINF:-1 group-title="日本台",時代劇専門 jidaigeki senmon
+https://list.iptvcat.com/my_list/s/a43f414c050b4836ca57619c5aed0e4a.m3u8
+#EXTINF:-1 group-title="日本台",関西電視台
+https://list.iptvcat.com/my_list/s/8101515fa48be2e7b0d6fd03af312518.m3u8
+#EXTINF:-1 group-title="日本台",歌謡ポップ
+https://list.iptvcat.com/my_list/s/12d14bde7db6c048dda7d326bbba9de2.m3u8
+#EXTINF:-1 group-title="日本台",兒童頻道 Kids Station
+https://list.iptvcat.com/my_list/s/c256fc60c3ca3692c2a3a0c7509b6368.m3u8
+#EXTINF:-1 group-title="日本台",LaLa TV
+https://list.iptvcat.com/my_list/s/9ab75a0fef4741b192b952a4d4b9325f.m3u8
+#EXTINF:-1 group-title="日本台",每日放送 MBS
+https://list.iptvcat.com/my_list/s/38a001f29f1bf203821af9631845af44.m3u8
+#EXTINF:-1 group-title="日本台",モンドTV MONDO TV
+https://list.iptvcat.com/my_list/s/f012e23a7f83801a3eb17426b5294386.m3u8
+#EXTINF:-1 group-title="日本台",Movie Plus
+https://list.iptvcat.com/my_list/s/c3d41bd9e2b0301a06f7083ba12f0f5c.m3u8
+#EXTINF:-1 group-title="日本台",日本音樂
+https://list.iptvcat.com/my_list/s/2d8dd657d44ace7d609034adaaed594a.m3u8
+#EXTINF:-1 group-title="日本台",Nittele G Plus
+https://list.iptvcat.com/my_list/s/fda3b66cd2116cf98a41ec2cb756096f.m3u8
+#EXTINF:-1 group-title="日本台",スペースシャワー Space Shower TV
+https://list.iptvcat.com/my_list/s/51957af728ce19729b0b769fee6ed310.m3u8
+#EXTINF:-1 group-title="日本台",星1 Star 1
+https://list.iptvcat.com/my_list/s/87de67dd8baefbe10ac8833552b64959.m3u8
+#EXTINF:-1 group-title="日本台",星2 Star 2
+https://list.iptvcat.com/my_list/s/2b5add7b4e1d45c0d69e36acdb5d92ee.m3u8
+#EXTINF:-1 group-title="日本台",星3 Star 3
+https://list.iptvcat.com/my_list/s/7bc18c8f4c4e2316d508cdb2a420bd97.m3u8
+#EXTINF:-1 group-title="日本台",太陽電視頻道 Sun TV
+https://list.iptvcat.com/my_list/s/a5a453072196d55a1bcf1c5b3723e64d.m3u8
+#EXTINF:-1 group-title="日本台",宝塚歌劇専門チャンネル TAKARAZUKA SKY STAGE
+https://list.iptvcat.com/my_list/s/aa1b9d4834230538e2d5d5def78e4178.m3u8
+#EXTINF:-1 group-title="日本台",大阪電視台
+https://list.iptvcat.com/my_list/s/91e0b6d7fb8994b410f7d0b996417763.m3u8
+#EXTINF:-1 group-title="日本台",旅遊頻道
+https://list.iptvcat.com/my_list/s/e867f3a5236e7a55c38f2042ad11220d.m3u8
+#EXTINF:-1 group-title="日本台",東映頻道
+https://list.iptvcat.com/my_list/s/41ac933ef1ac24702d0a3138ed70eff4.m3u8
+#EXTINF:-1 group-title="日本台",東京都會電視台1	Tokyo MX1
+https://list.iptvcat.com/my_list/s/0bd7b4c87240bd0194e740115eb2d6b6.m3u8
+#EXTINF:-1 group-title="日本台",WOWOW電影台
+https://list.iptvcat.com/my_list/s/b74ff6fd67edd05a3b045611d9d7c741.m3u8
+#EXTINF:-1 group-title="日本台",讀賣テレビ放送 YTV 
+https://list.iptvcat.com/my_list/s/90ba5c2854e24dbc590d908dd00faab5.m3u8
 
 #EXTINF:-1 group-title="韓國台",韩国-BBS佛教广播
 http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1216149699.m3u8
