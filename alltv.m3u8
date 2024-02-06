@@ -5539,7 +5539,25 @@ http://ott-cdn.ucom.am/s42/index.m3u8
 http://ott-cdn.ucom.am/s66/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="亞美尼亞台" ,ՏՈՒՆՏՈՒՆԻԿ 主持人頻道
 http://ott-cdn.ucom.am/s46/index.m3u8
+#EXTINF:-1 tvg-id="ATV.am" tvg-logo="https://i.imgur.com/xrqFEou.png" group-title="亞美尼亞台" ,АTV ԱԹԻՎԻ
+http://ott-cdn.ucom.am/s8/index.m3u8
 
+#EXTINF:-1 group-title="土耳其台", Cay TV
+http://stream2.taksimbilisim.com:1935/caytv/bant1/CAYTV.m3u8
+#EXTINF:-1 group-title="土耳其台",IBBTV(1080p)
+http://wowza.istweb.tv:1935/webtv/webtv_wowza1/playlist.m3u8
+#EXTINF:-1 group-title="土耳其台",Semerkand TV
+https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/playlist.m3u8
+#EXTINF:-1 group-title="土耳其台",TGRT BELGESEL
+https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe462afc6a0e.smil/playlist.m3u8
+#EXTINF:-1 group-title="土耳其台",Berat TV (720p) [Not 24/7]
+http://cdn-berattv.yayin.com.tr/berattv/berattv/playlist.m3u8
+#EXTINF:-1 group-title="土耳其台",KANAL 33
+http://stream.taksimbilisim.com:1935/kanal33/bant1/playlist.m3u8
+#EXTINF:-1 group-title="土耳其台",TV 41 (270p)
+http://stream.taksimbilisim.com:1935/tv41/smil:tv41.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="UUTV1.tr" tvg-logo="https://i.imgur.com/H5kOQz5.png" group-title="其他外國台",ÜÜ TV 1 于斯屈達爾大學1
+https://uskudarunv.mediatriple.net/uskudarunv/uskudar1/playlist.m3u8
 
 #EXTINF:-1 group-title="其他外國台",孟加拉国 EkuseyTV
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
@@ -5568,6 +5586,8 @@ http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
 #EXTINF:-1 group-title="其他外國台",加拿大 Pardesi TV
 http://stream.pardesitv.online/pardesi/index.m3u8
+#EXTINF:-1 tvg-id="UvagutTV.ca" tvg-logo="https://i.imgur.com/RR7ATr2.png" group-title="其他外國台",Uvagut TV 加拿大因紐特語頻道
+https://dee7mwgg9dzvl.cloudfront.net/hls/uvagut/playlist.m3u8
 #EXTINF:-1 group-title="其他外國台",德国 OF-TVOffenbach(720p)
 https://5864df9ceac85.streamlock.net/germanpictures-live/mp4:streamschedule/playlist.m3u8
 #EXTINF:-1 group-title="其他外國台",德国 Baden TV (720p)
@@ -5682,22 +5702,13 @@ http://live.streams.ovh:1935/NGradio/NGradio/playlist.m3u8
 https://5c389faa13be3.streamlock.net:9553/onweb/live/playlist.m3u8
 #EXTINF:-1 group-title="其他外國台",希腊 ZerounoTV(720p)
 http://5db313b643fd8.streamlock.net:1935/ZerounoTV/ZerounoTV/playlist.m3u8
+#EXTINF:-1 tvg-id="EcclesiaTV.gr" tvg-logo="https://i.imgur.com/QQSSMZx.png" group-title="其他外國台",希腊 Εκκλησία教會台
+https://liveopen.siliconweb.com/openTvLive/openEcclessia/playlist.m3u8
+#EXTINF:-1 tvg-id="KritiTV.gr" tvg-logo="https://i.imgur.com/X7jKwYl.png" group-title="其他外國台",希腊 Κρήτη TV 克里特岛
+http://live.cretetv.gr:1935/cretetv/myStream/f1tv.m3u8
 #EXTINF:-1 group-title="其他外國台",匈牙利 Hegyvidek Tv Budapest
 http://tv.hegyvidek.hu/stream_mpeg.flv
-#EXTINF:-1 group-title="其他外國台",土耳其 Cay TV
-http://stream2.taksimbilisim.com:1935/caytv/bant1/CAYTV.m3u8
-#EXTINF:-1 group-title="其他外國台",土耳其 IBBTV(1080p)
-http://wowza.istweb.tv:1935/webtv/webtv_wowza1/playlist.m3u8
-#EXTINF:-1 group-title="其他外國台",土耳其 Semerkand TV
-https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/playlist.m3u8
-#EXTINF:-1 group-title="其他外國台",土耳其 TGRT BELGESEL
-https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe462afc6a0e.smil/playlist.m3u8
-#EXTINF:-1 group-title="其他外國台",土耳其 Berat TV (720p) [Not 24/7]
-http://cdn-berattv.yayin.com.tr/berattv/berattv/playlist.m3u8
-#EXTINF:-1 group-title="其他外國台",土耳其 KANAL 33
-http://stream.taksimbilisim.com:1935/kanal33/bant1/playlist.m3u8
-#EXTINF:-1 group-title="其他外國台",土耳其 TV 41 (270p)
-http://stream.taksimbilisim.com:1935/tv41/smil:tv41.smil/playlist.m3u8
+
 #EXTINF:-1 group-title="其他外國台",土库曼斯坦 Turkmenistan Sport
 http://217.174.225.146/hls/ch004_720/index.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
 #EXTINF:-1 group-title="其他外國台",伊朗PBC Tapesh TV
@@ -5722,6 +5733,10 @@ http://streaming.toutech.net:1935/live/mp4:jawharafm.sdp/playlist.m3u8
 http://htvmada.mada.ps:8888/nabluslive/index.m3u8
 #EXTINF:-1 tvg-id="MMSomaliTV.uk" tvg-logo="https://i.imgur.com/wnpe5i8.png" group-title="其他外國台",索馬里 MM Somali TV
 https://cdn.mediavisionuk.com:9000/MMTV/index.m3u8
+#EXTINF:-1 tvg-id="YemenShababChannel.ye" tvg-logo="https://i.imgur.com/H5Oi2NS.png" group-title="其他外國台",也門 Shabab Channel
+https://master.starmena-cloud.com/hls/yemenshabab.m3u8
+#EXTINF:-1 tvg-id="YemenTodayTV.ye" tvg-logo="https://i.imgur.com/8TzcJu5.png" group-title="其他外國台",也門 今日電視台
+https://video.yementdy.tv/hls/yementoday.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/半岛新闻.png" group-title="其他外國台",半岛新闻台（英語）（通道1）
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/半岛新闻.png" group-title="其他外國台",,半岛新闻台（英語）（通道2）
