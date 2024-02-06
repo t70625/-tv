@@ -157,6 +157,8 @@ https://uc6.i-cable.com/live_freedirect/opentvhd002_h.live/playlist.m3u8?checked
 https://rthkaudio6-lh.akamaihd.net/i/radiopth_1@355869/index_56_a-p.m3u8
 #EXTINF:-1 group-title="香港台",香港 香港佛陀
 http://js1.amtb.cn/liveedge/_definst_/livetv/chunklist.m3u8
+#EXTINF:-1 tvg-id="PetClubTV.hk" tvg-logo="https://i.imgur.com/ykPNNwQ.png" group-title="香港台",寵物頻道 Pet Club TV
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-samsungnz/playlist.m3u8
 
 #EXTINF:-1 group-title="澳門台" tvg-logo="https://live.fanmingming.com/tv/澳视澳门.png",澳視
 http://61.244.22.4/ch3/ch3.live/playelist.m3u8
@@ -785,7 +787,6 @@ http://ali-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8
 http://ali-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8
 #EXTINF:-1 group-title="浙江台" tvg-id="浙江少兒 ZJTV-9" tvg-logo="https://live.fanmingming.com/tv/浙江数码时代.png",浙江数码时代
 http://ali-m-l.cztv.com/channels/lantian/channel09/1080p.m3u8
-
 #EXTINF:-1 group-title="浙江台" tvg-id="杭州综合频道" tvg-logo="http://tv.haoqu99.com/d/file/2016/0619/20160619034738537.jpg",杭州综合频道
 https://live.hoolo.tv/hztv1/playlist.m3u8?auth_key=1706332772-0-0-5235d8c33531e387f332efb11c8fe102
 #EXTINF:-1 group-title="浙江台" tvg-id="杭州西湖明珠频道" tvg-logo="http://tv.haoqu99.com/d/file/2016/0619/20160619034941446.jpg",杭州西湖明珠频道
@@ -2646,6 +2647,11 @@ http://1.222.207.80:1935/live/cjbtv/chunklist_w1357270949.m3u8
 https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
 #EXTINF:-1 group-title="韓國台",국방国防TV
 http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="KoreanCentralTelevision.kp" tvg-logo="https://i.imgur.com/p02AEOF.png" group-title="朝鮮台", 朝鮮中央電視台
+https://tv.nknews.org/tvhls/stream.m3u8
+
 
 #EXTINF:-1 group-title="新加坡" tvg-id="CNAInternational" tvg-logo="https://i.imgur.com/xWglicB.png",新加坡 国际亞洲新聞
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
