@@ -5513,7 +5513,7 @@ http://ott-cdn.ucom.am/s83/index.m3u8
 http://ott-cdn.ucom.am/s4/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="亞美尼亞台" ,ԱՐՄԵՆԻԱ-ՀԱՅԿԻՆՈ 亚美尼亚-海基诺
 http://ott-cdn.ucom.am/s22/index.m3u8
-#EXTINF:-1 tvg-id="DAR21.am" tvg-logo="https://i.imgur.com/F7YP7cX.png" group-title="Music" ,ԴԱՐ21 21世紀台
+#EXTINF:-1 tvg-id="DAR21.am" tvg-logo="https://i.imgur.com/F7YP7cX.png" group-title="亞美尼亞台" ,ԴԱՐ21 21世紀台
 http://ott-cdn.ucom.am/s10/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="亞美尼亞台" ,ԵՐԿԻՐ ՄԵԴԻԱ 地球傳媒
 http://ott-cdn.ucom.am/s7/index.m3u8
