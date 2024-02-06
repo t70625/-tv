@@ -5751,6 +5751,21 @@ http://stream.taksimbilisim.com:1935/tv41/smil:tv41.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="UUTV1.tr" tvg-logo="https://i.imgur.com/H5kOQz5.png" group-title="其他外國台",ÜÜ TV 1 于斯屈達爾大學1
 https://uskudarunv.mediatriple.net/uskudarunv/uskudar1/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://tdh.gov.tm/static/logo/7.png" group-title="土庫曼斯坦台",土庫曼斯坦電視台
+http://alpha.tv.online.tm/hls/ch007_400/index.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="土庫曼斯坦台" ,塞坦塔體育台
+http://217.174.225.146/hls/ch004_720/index.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="土庫曼斯坦台" tvg-logo="http://webtvonlive.com/wp-content/uploads/T%C3%BCrkmen-Owazy-webtvonlive-com.jpg",土庫曼之聲
+https://alpha.tv.online.tm/legacyhls/ch005_720/index.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="土庫曼斯坦台" tvg-logo="http://webtvonlive.com/wp-content/uploads/Miras-webtvonlive-com.jpg" ,遺產電視台
+https://alpha.tv.online.tm/legacyhls/ch003_720/index.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="土庫曼斯坦台" tvg-logo="http://webtvonlive.com/wp-content/uploads/Asgabat-webtvonlive-com.jpg" ,阿什哈巴德電視台
+https://alpha.tv.online.tm/legacyhls/ch006_720/index.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="土庫曼斯坦台" tvg-logo="http://webtvonlive.com/wp-content/uploads/altyn_asyr_tv-webtvonlive-com.jpg" ,鎏金歲月台
+#EXTINF:-1 group-title="土庫曼斯坦台" https://alpha.tv.online.tm/legacyhls/ch001_720/index.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="土庫曼斯坦台" tvg-logo="http://webtvonlive.com/wp-content/uploads/Yaslyk-webtvonlive-com.jpg" ,青年電視台
+https://alpha.tv.online.tm/legacyhls/ch002_720/index.m3u8?checkedby:iptvcat.com
+
 #EXTINF:-1 tvg-logo="https://2017.catradeforum.org/wp-content/uploads/2017/09/atamekenlogo4.png" group-title="哈薩克斯坦台",哈薩克經濟商業台 Atameken Business
 http://live-atameken.cdnvideo.ru/atameken/atameken.sdp/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://mtrk.kz/wp-content/themes/mtrk/images/logo2023_25y.png" group-title="哈薩克斯坦台",北哈薩克新聞台 МТРК
@@ -5867,8 +5882,7 @@ http://live.cretetv.gr:1935/cretetv/myStream/f1tv.m3u8
 #EXTINF:-1 group-title="其他外國台",匈牙利 Hegyvidek Tv Budapest
 http://tv.hegyvidek.hu/stream_mpeg.flv
 
-#EXTINF:-1 group-title="其他外國台",土库曼斯坦 Turkmenistan Sport
-http://217.174.225.146/hls/ch004_720/index.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
+
 #EXTINF:-1 group-title="其他外國台",伊朗PBC Tapesh TV
 http://iptv.tapesh.tv/tapesh/playlist.m3u8
 #EXTINF:-1 group-title="其他外國台",伊朗 MohabatTV(540p)[676*540][676*540]
