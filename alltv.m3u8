@@ -5755,4 +5755,5 @@ http://live-hls-web-aja.getaj.net/AJA/02.m3u8?zshijd
 #EXTINF:-1 tvg-id="RedBullTV.at" tvg-logo="https://i.imgur.com/BcN8B3D.png" group-title="其他外國台",Red Bull TV 紅牛體育台
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
-
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="臨時",孤注一掷清晰版
+https://hd.ijycnd.com/play/zbqmMMkb/index.m3u8
