@@ -101,6 +101,8 @@ https://pili-live-hls.wdit.com.cn/wditlive/c038f4fafbdf4f97ba74c74ad67259b931ee.
 http://221.213.43.82:8888/newlive/live/hls/42/live.m3u8
 #EXTINF:-1  group-title="天津台" tvg-logo="http://tv.haoqu99.com/d/file/2018/0320/small207fd382c57bd91f2404940e392676511521518700.jpg",宝坻一套
 https://hb2stream1.baoxinwen.com/d6387fc7a8836e78/6385068498053235715_1597997122.m3u8?auth_key=1893456000-0-0-93ea48b07ddd03f4904079b7659e81a4
+#EXTINF:-1 tvg-id="" tvg-logo="http://tv.haoqu99.com/d/file/2018/0320/smallab7fa29f5beadb4d8ddd68a726a948ce1521519698.jpg" group-title="天津台",西青新闻综合
+http://221.238.209.44:81/hls/live1.m3u8
 
 #EXTINF:-1 group-title="重慶台" tvg-id="重庆卫视" tvg-logo="https://live.fanmingming.com/tv/重庆卫视.png",重庆卫视
 http://221.213.43.82:8888/newlive/live/hls/31/live.m3u8
