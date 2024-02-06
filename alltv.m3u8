@@ -141,7 +141,7 @@ https://edge1.laotv.la/live/PhoenixNews/index.m3u8
 http://php.17186.eu.org/phtv/fhhk.m3u8
 #EXTINF:-1 group-title="香港台" tvg-logo="http://gbm.123tv.cn/uploadfile/2023/08-1691323272.jpg",香港 港台电视31
 https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream2/streamPlaylist.m3u8
-#EXTINF:-1 group-title="香港台" tvg-logo="http://gbm.123tv.cn/uploadfile/2023/08-1691323272.jpg",香港 港台电视32
+#EXTINF:-1 group-title="香港台" tvg-logo="http://gbm.123tv.cn/uploadfile/2023/08-1691324503.jpg",香港 港台电视32
 https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
 #EXTINF:-1 group-title="香港台" tvg-logo="http://gbm.123tv.cn/uploadfile/2023/08-1691325213.jpg",香港 港台电视33
 https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8
@@ -758,8 +758,28 @@ http://yangzhong-tv-hls.cm.jstv.com/yangzhong-tv/xwzh.m3u8
 #EXTINF:-1 group-title="江蘇台" tvg-id="扬中党建民生频道" tvg-logo="http://tv.haoqu99.com/e/data/images/notemp.gif",扬中党建民生频道
 http://yangzhong-tv-hls.cm.jstv.com/yangzhong-tv/yzdj.m3u8
 
+
 #EXTINF:-1 group-title="浙江台" tvg-id="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png",浙江卫视
 http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
+#EXTINF:-1 group-title="浙江台" tvg-id="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png",浙江卫视
+https://iptv.luas.edu.cn/liverespath/5e4641d8137dc2479cd69b40426193c757e2aa4f/index.m3u8
+#EXTINF:-1 group-title="浙江台" tvg-id="浙江 ZJTV-2" tvg-logo="https://live.fanmingming.com/tv/钱江都市.png",钱江都市 ZJTV-2
+http://ali-m-l.cztv.com/channels/lantian/channel02/1080p.m3u8
+#EXTINF:-1 group-title="浙江台" tvg-id="浙江 ZJTV-3" tvg-logo="https://live.fanmingming.com/tv/浙江经济生活.png",經濟生活 ZJTV-3
+http://ali-m-l.cztv.com/channels/lantian/channel03/1080p.m3u8
+#EXTINF:-1 group-title="浙江台" tvg-id="浙江 ZJTV-4" tvg-logo="https://live.fanmingming.com/tv/浙江教科影视.png",浙江教科 ZJTV-4
+http://ali-m-l.cztv.com/channels/lantian/channel04/1080p.m3u8
+#EXTINF:-1 group-title="浙江台" tvg-id="浙江 ZJTV-5" tvg-logo="http://tv.haoqu99.com/d/file/2016/0619/20160619033257904.jpg",浙江影视娛樂 ZJTV-5
+http://ali-m-l.cztv.com/channels/lantian/channel05/1080p.m3u8
+#EXTINF:-1 group-title="浙江台" tvg-id="浙江 ZJTV-6" tvg-logo="https://live.fanmingming.com/tv/浙江民生休闲.png",浙江民生休闲 ZJTV-6
+http://ali-m-l.cztv.com/channels/lantian/channel06/1080p.m3u8
+#EXTINF:-1 group-title="浙江台" tvg-id="浙江 ZJTV-7" tvg-logo="https://live.fanmingming.com/tv/浙江新闻.png",浙江新闻  ZJTV-7
+http://ali-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8
+#EXTINF:-1 group-title="浙江台" tvg-id="浙江少兒 ZJTV-8" tvg-logo="https://live.fanmingming.com/tv/浙江少儿.png",浙江少兒頻道
+http://ali-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8
+#EXTINF:-1 group-title="浙江台" tvg-id="浙江少兒 ZJTV-9" tvg-logo="https://live.fanmingming.com/tv/浙江数码时代.png",浙江数码时代
+http://ali-m-l.cztv.com/channels/lantian/channel09/1080p.m3u8
+
 #EXTINF:-1 group-title="浙江台" tvg-id="杭州综合频道" tvg-logo="http://tv.haoqu99.com/d/file/2016/0619/20160619034738537.jpg",杭州综合频道
 https://live.hoolo.tv/hztv1/playlist.m3u8?auth_key=1706332772-0-0-5235d8c33531e387f332efb11c8fe102
 #EXTINF:-1 group-title="浙江台" tvg-id="杭州西湖明珠频道" tvg-logo="http://tv.haoqu99.com/d/file/2016/0619/20160619034941446.jpg",杭州西湖明珠频道
@@ -1511,11 +1531,6 @@ https://gcalic.v.myalicdn.com/gc/bsszxbdlg_1/index.m3u8?contentid=2820180516001
 https://gctxyc.liveplay.myqcloud.com/gc/bsszxbdlg_1/index.m3u8
 #EXTINF:-1 group-title="全國風景總覽",內蒙古 九曲錫林河
 https://gctxyc.liveplay.myqcloud.com/gc/tyhjtynl_1/index.m3u8?contentid=2820180516001
-
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="臨時節目",孤注一掷清晰版
-https://hd.ijycnd.com/play/zbqmMMkb/index.m3u8
 
 
 
