@@ -2648,7 +2648,7 @@ https://streaming.astrakhan.ru/telplushd/playlist.m3u8
 http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Volga/hls/1920x1080@4504/playlist.m3u8
 #EXTINF:-1 tvg-id="RBKTV.ru" tvg-logo="https://i.imgur.com/CwhmJby.png" group-title="俄羅斯台",RBK-TV
 http://92.50.128.180/utv/1358/index.m3u8
-#EXTINF:-1 tvg-id="TopSecret.ru" tvg-logo="https://i.imgur.com/HM4xy4G.png" group-title="俄羅斯台",Top Secret
+#EXTINF:-1 tvg-id="TopSecret.ru" tvg-logo="https://i.imgur.com/HM4xy4G.png" group-title="俄羅斯台",Top Secret 高級機密
 https://strm.yandex.ru/kal/sovsec/sovsec0.m3u8
 #EXTINF:-1 tvg-id="2x2.ru" tvg-logo="https://i.imgur.com/fhQFLEl.png" group-title="俄羅斯台",2x2
 https://bl.uma.media/live/317805/HLS/4614144_3/2/1/playlist.m3u8
@@ -2664,9 +2664,32 @@ https://www.gtk.tv/hls/gtyar.m3u8
 http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="MusicBoxGold.ru" tvg-logo="https://i.imgur.com/3arWh0k.png" group-title="俄羅斯台",MusicBox Gold 黃金音樂盒子
 https://strm.yandex.ru/kal/musicboxgold/musicboxgold0.m3u8
-
-
-
+#EXTINF:-1 tvg-id="RadioShanson.ru" tvg-logo="https://i.imgur.com/lbqM3K2.png" group-title="俄羅斯台",Radio Shanson
+http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8
+#EXTINF:-1 tvg-id="RussianMusicBox.ru" tvg-logo="https://i.imgur.com/ZkJ3Rh9.png" group-title="俄羅斯台",Russian MusicBox
+https://strm.yandex.ru/kal/rmbox/rmbox0.m3u8
+#EXTINF:-1 tvg-id="StranaFM.ru" tvg-logo="https://i.imgur.com/WsPlKJJ.png" group-title="俄羅斯台",Strana FM
+http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="Dialogiorybalke.ru" tvg-logo="https://i.imgur.com/OuBtnGU.png" group-title="俄羅斯台",Dialogi o rybalke
+https://strm.yandex.ru/kal/dialogi/dialogi0.m3u8
+#EXTINF:-1 tvg-id="Konniymir.ru" tvg-logo="https://i.imgur.com/X6otbK0.png" group-title="俄羅斯台",Konniy mir
+http://cdn-01.bonus-tv.ru/konnyimir/playlist.m3u8
+#EXTINF:-1 tvg-id="3ABNRussia.ru" tvg-logo="https://i.imgur.com/4fhBbam.png" group-title="俄羅斯台",3ABN Russia
+https://hls.tv.3angels.ru/stream.m3u8
+#EXTINF:-1 tvg-id="NebesaTV7.ru" tvg-logo="https://www.nebesatv7.com/wp-content/themes/tv7-theme/assets/img/logo_nebesa_short.png" group-title="俄羅斯台",Nebesa TV7
+https://vod.tv7.fi/tv7-ru/tv7-ru.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="HuzurTV.ru" tvg-logo="https://i.imgur.com/Abg1fct.png" group-title="俄羅斯台",Huzur TV
+https://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/playlist.m3u8
+#EXTINF:-1 tvg-id="A1.ru" tvg-logo="https://i.imgur.com/2pAHdAi.png" group-title="俄羅斯台",A1
+http://31.148.48.15:80/A1/index.m3u8
+#EXTINF:-1 tvg-id="Leomax24.ru" tvg-logo="https://i.imgur.com/qU9ohQu.png" group-title="俄羅斯台",Leomax 24 電視購物
+https://tvshops.bonus-tv.ru/cdn/shop24/playlist.m3u8
+#EXTINF:-1 tvg-id="Yuvelirochka.ru" tvg-logo="https://i.imgur.com/IcWtXCZ.png" group-title="俄羅斯台",Yuvelirochka電視購物
+https://live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka_720p3/playlist.m3u8
+#EXTINF:-1 tvg-id="AstrahanRuSport.ru" tvg-logo="https://i.imgur.com/BKaEtqL.png" group-title="俄羅斯台",Astrahan.Ru Sport
+https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
+#EXTINF:-1 tvg-id="NashaSibir.ru" tvg-logo="https://i.imgur.com/uXOz2d9.png" group-title="俄羅斯台",Nasha Sibir
+https://strm.yandex.ru/kal/sibir/sibir0.m3u8
 #EXTINF:-1 group-title="俄羅斯台",俄罗斯 Astrakhan 24 (Opt-2)
 http://streaming.astrakhan.ru/astrakhan24/index.m3u8
 #EXTINF:-1 group-title="俄羅斯台",俄罗斯 First Music (Opt-3)
