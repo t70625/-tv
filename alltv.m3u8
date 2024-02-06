@@ -1210,11 +1210,8 @@ http://play.cec-tv.com.cn/channel/cec-tv2.m3u8
  #EXTINF:-1 group-title="教育電視台" tvg-logo="https://www.cec-tv.com.cn/template/eyou/pc/images/head_bg2.jpg",中国国际教育3台：
 http://play.cec-tv.com.cn/channel/cec-tv3.m3u8
 
-#EXTINF:-1 group-title="外國中文台" group-title="俄羅斯台" tvg-logo="http://gbm.123tv.cn/uploadfile/2023/10-1696728147.jpg",俄罗斯 TVBRICS中文台
+#EXTINF:-1 group-title="外國中文台" tvg-logo="http://gbm.123tv.cn/uploadfile/2023/10-1696728147.jpg",俄罗斯 TVBRICS中文台
 http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
-
-#EXTINF:-1 group-title="娛樂频道",斗鱼4K
-http://epg.112114.xyz/douyu/9249162
 
 #EXTINF:-1 group-title="熊猫频道",熊猫频道 24H直播：
 https://gcwbndks.v.kcdnvip.com/gcwbnd/ipanda1000_2/index.m3u8
@@ -1589,7 +1586,9 @@ https://txmov2.a.kwimgs.com/upic/2022/02/01/11/BMjAyMjAyMDExMTEwMjNfNDAzMDAxOTlf
 #EXTINF:-1 group-title="春節聯歡晚會" ,2023年春節聯歡晚會
 https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQ2MTZfMF8z_b_B4851f43f5a2bc2871a9b0ec87294a6e7.mp4
 
-#EXTINF:-1 group-title="斗魚輪播" ,余庆年
+#EXTINF:-1 group-title="斗魚輪播",斗鱼4K
+http://epg.112114.xyz/douyu/9249162
+#EXTINF:-1 group-title="斗魚輪播" ,电视剧
 http://43.224.33.165:35455/douyu/5908256
 #EXTINF:-1 group-title="斗魚輪播" ,邵氏影院
 http://43.138.170.29:35455/douyu/4246519
