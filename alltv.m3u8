@@ -51,7 +51,38 @@ https://iptv.luas.edu.cn/liverespath/449d51febadb152094085d373b9af94a6ac5f1dd/e5
 #EXTINF:-1 group-title="中央電視台付費頻道" tvg-id="CHC高清電影" tvg-logo="https://live.fanmingming.com/tv/CHC高清电影.png",CHC高清電影
 https://iptv.luas.edu.cn/liverespath/bca6167afdef7fc773405c38e695b342c1d1eca0/index.m3u8
 #EXTINF:-1 group-title="中央電視台付費頻道" tvg-id="世界地理" tvg-logo="https://live.fanmingming.com/tv/世界地理.png",CCTV-世界地理
-https://iptv.luas.edu.cn/liverespath/ed97b8c80f70e495182e4082d79af981692f1d4e/9ce
+https://iptv.luas.edu.cn/liverespath/ed97b8c80f70e495182e4082d79af981692f1d4e/9ce0cc0d72-0-0-8ed7791456745a97cb732d630b7644d8/index.m3u8
+#EXTINF:-1 group-title="中央電視台付費頻道" tvg-id="中国天气" tvg-logo="https://live.fanmingming.com/tv/中国天气.png",中国天气
+http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
+#EXTINF:-1 group-title="中央電視台付費頻道" tvg-id="中國環球電視" tvg-logo="https://pic.baike.soso.com/ugc/baikepic2/6111/20180616003115-703624960_jpeg_800_600_130896.jpg" ,中國環球電視
+http://live.cgtn.com/500/prog_index.m3u8
+
+#EXTINF:-1 group-title="北京台" tvg-id="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png",北京卫视 BTV-1
+http://58.19.13.92:9901/tsfile/live/1017_1.m3u8
+#EXTINF:-1 group-title="北京台" tvg-id="北京文艺" tvg-logo="https://live.fanmingming.com/tv/北京文艺.png",北京文艺频道 BTV-2
+https://iptv.luas.edu.cn/liverespath/d733639566a36d59f45cfa348b5807b7d94b02a1/c3f6049cb5-0-0-ffde3dcfe3aea67305be4be8016b975d/index.m3u8
+#EXTINF:-1 group-title="北京台" tvg-id="北京体育休闲频道" tvg-logo="https://live.fanmingming.com/tv/北京体育休闲.png",北京体育休闲频道 BTV-3
+https://iptv.luas.edu.cn/liverespath/f837576f59a881e17cdd29040feea764e8c6dfd0/587bf2500b-0-0-56cf84117da9fa8dcdd5007a852c66c9/index.m3u8
+#EXTINF:-1 group-title="北京台" tvg-id="北京影视频道" tvg-logo="https://live.fanmingming.com/tv/北京影视.png",北京影视频道 BTV-4
+https://iptv.luas.edu.cn/liverespath/d68ca2a45a66f1289325852228ee748974c431ca/9bcafd4e4b-0-0-6330233de6fb5c0c501b7ade481185dd/index.m3u8
+#EXTINF:-1 group-title="北京台" tvg-id="北京财经频道" tvg-logo="https://live.fanmingming.com/tv/北京财经.png",北京财经频道BTV-5
+https://iptv.luas.edu.cn/liverespath/da4b2d170d47e48cfd4dcd6db27b7088a876aa30/baf90a0413-0-0-4d1e6828cd809d77f4a65a9201509a9f/index.m3u8
+#EXTINF:-1 group-title="北京台" tvg-id="北京生活频道" tvg-logo="https://live.fanmingming.com/tv/北京生活.png",北京生活频道 BTV-7
+https://iptv.luas.edu.cn/liverespath/89ed1379f4c4cc9a436aacabc882365f512a7595/efc99de71e-0-0-f050641c7ff11fec570bc02230c83bb0/index.m3u8
+#EXTINF:-1 group-title="北京台" tvg-id="北京新闻频道" tvg-logo="https://live.fanmingming.com/tv/北京新闻.png",北京新闻频道 BTV-8
+https://iptv.luas.edu.cn/liverespath/b19542a8760e5fc0346098925cbafdd9e23395f4/a51d6e01b4-0-0-dda6773561a4c0b6eb8581fcbbd8199e/index.m3u8
+#EXTINF:-1 group-title="北京台" tvg-id="北京卡酷少儿频道" tvg-logo="https://live.fanmingming.com/tv/卡酷少儿.png",北京卡酷少儿频道 BTV-10
+https://iptv.luas.edu.cn/liverespath/b928229e615248d7a2c6f9ea047f25cf37a3a0af/d770d68ec5-0-0-7d670d763d0e413242eee895bced8b76/index.m3u8
+#EXTINF:-1 group-title="北京台" tvg-id="北京纪实科教频道" tvg-logo="https://live.fanmingming.com/tv/北京纪实科教.png",北京纪实科教频道 BTV-11
+https://iptv.luas.edu.cn/liverespath/9535e4def9ec36aaf65f8f87a8af664b81f4bf23/0ebb7cfba9-0-0-f517cb754aaeb41e1d25edc5fb5371fa/index.m3u8
+#EXTINF:-1 group-title="北京台" tvg-id="石景山电视台" tvg-logo="http://tv.haoqu99.com/d/file/2018/0704/small45f8c0a862f56e1fb0a1740f5c628f751530693077.jpg",石景山电视台
+http://live.sjsrm.com/bjsjs/sd/live.m3u8
+#EXTINF:-1 group-title="北京台" tvg-id="房山电视台" tvg-logo="http://tv.haoqu99.com/d/file/2022/0326/smallf7e7002ad94212bda9fa70cacc4482af1648266813.jpg",房山电视台
+http://live.funhillrm.com/5/sd/live.m3u8
+
+#EXTINF:-1 group-title="上海台" tvg-id="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png",东方卫视
+http://221.213.43.82:8888/newlive/live/hls/20/live.m3u8
+#EXTINF:-1 group-title="上海台" tvg-id="上海新闻综合频道" tvg-logo="http://tv.haoqu99.com/d/file/2014/0101/20140101121833107.jpg",上海新闻综合频道
 https://volc-stream.kksmg.com/live/xwzh/index.m3u8?volcSecret=4e04360567cfdc669e825f2fede62e52&volcTime=1706416260
 #EXTINF:-1 group-title="上海台" tvg-id="上海第一财经频道" tvg-logo="http://tv.haoqu99.com/d/file/2014/0101/20140101122047673.jpg",上海第一财经频道
 https://tencent-stream.kksmg.com/live/dycj.m3u8?txSecret=7bda21ebbd31458c24e2af91a35dfe5d&txTime=65b5d88a
