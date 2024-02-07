@@ -1,6 +1,11 @@
 #EXTM3U
-#EXTINF:-1 group-title="中央電視台" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png",CCTV-1 綜合頻道
+#EXTINF:-1 group-title="中央電視台" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png",CCTV-1 綜合頻道 HD
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
+#EXTINF:-1 group-title="中央電視台" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png",CCTV-1 綜合頻道 HD
+https://iptv.luas.edu.cn/liverespath/b455c7a019d404d571655c457e0ee8a9440a7802/9b64ee8539-0-0-eec709f29d65da3d0671b8d0233a6889/index.m3u8
+#EXTINF:-1 group-title="中央電視台" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png",CCTV-1 綜合頻道
+https://iptv.luas.edu.cn/liverespath/ddd8a0727fb304df5adb6926e09d6000ecd0e322/96cc478d58-0-0-88718f319a5dfdb85d80693932c0cc45/index.m3u8
+
 #EXTINF:-1 group-title="中央電視台" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png",CCTV-2 財經頻道
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
 #EXTINF:-1 group-title="中央電視台" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png",CCTV-3 綜藝頻道
