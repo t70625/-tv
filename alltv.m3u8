@@ -5616,42 +5616,61 @@ http://media.smc-host.com:1935/cycnow.com/cyc2/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="" group-title="亞美尼亞台" ,ԱԶԱՏՈՒԹՅՈՒՆ ԹԻՎԻ 自由電視台
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s3/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HIwJ4lc.png" group-title="亞美尼亞台",Առաջին ալիք 第一頻道
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
 https://amtv1.livestreamingcdn.com/am2abr/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="亞美尼亞台" ,ԱՐՄԵՆԻԱ 1 ՊՐԵՄԻՈՒՄ 亞美尼亞 1 高清台
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s83/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="亞美尼亞台" ,ԱՐՄԵՆԻԱ 亞美尼亞電視台
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s4/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="亞美尼亞台" ,ԱՐՄԵՆԻԱ-ՀԱՅԿԻՆՈ 亚美尼亚-海基诺
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s22/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/F7YP7cX.png" group-title="亞美尼亞台" ,ԴԱՐ21 21世紀台
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s10/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="亞美尼亞台" ,ԵՐԿԻՐ ՄԵԴԻԱ 地球傳媒
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s7/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="亞美尼亞台" ,ԹԱՎԱ ԹԻՎԻ PAN數字頻道
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s53/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="亞美尼亞台" ,ԼԱՎՖՀԱՔ 好技巧頻道
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s48/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="亞美尼亞台" ,ԽԱՂԱԼԻՔ 玩具台
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s74/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="亞美尼亞台" ,ԿԵՆՏՐՈՆ 中央台
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s5/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="亞美尼亞台" ,ԿԻՆՈՄԱՆ 電影人
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s94/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="亞美尼亞台" ,ՀԱՅ ԹԻՎԻ 亞美尼亞數字
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s73/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="亞美尼亞台" ,ՆՈՐ ՀԱՅԱՍՏԱՆ 亞美尼亞電視台
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s12/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="亞美尼亞台" ,ՇՈՂԱԿԱԹ 輻射頻道
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s13/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="亞美尼亞台" ,ՋԱՆ ԹԻՎԻ 简·蒂维頻道
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s42/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="亞美尼亞台" ,ՍԻՆԵՄԱՆ 電影頻道
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s66/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="亞美尼亞台" ,ՏՈՒՆՏՈՒՆԻԿ 主持人頻道
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s46/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xrqFEou.png" group-title="亞美尼亞台" ,АTV ԱԹԻՎԻ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s8/index.m3u8
 
 #EXTINF:-1 group-title="義大利台",意大利 Canale 2 Altamura
