@@ -5786,6 +5786,14 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1707350574/ei/z
 #EXTINF:-1 tvg-logo="https://ptv.com.pk/user/assets/images/ptvFamilyNew/ptv-familyNationalPeshawar.jpg" group-title="巴基斯坦台",PTV NATIONAL 白沙瓦（手機Dev IPTV速度+）
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1707352003/ei/Y8vDZcLML4z-7OsPup6voAo/ip/172.233.84.154/id/2wYLxQDE0r8.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fwx0CUCCFgrdhh0LxHogP8Y3FcZ7PWFbgvxbjUH0cYk/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAPnnvwiHAX-bqUEMltkfVOlI2k0oNbvFa6STkKrQo6h7AiEA6EgFk0u-kX1vpze-8X_woqadl3he1tlsl2irfk-MEBY%3D/file/index.m3u8
 
+#EXTINF:-1 tvg-country="PK" tvg-logo="https://www.alehsaan.tv/wp-content/uploads/2023/11/cropped-Untitled-design.png" group-title="巴基斯坦台",慈善電視台 Al Ehsaan TV
+https://cdn.bmstudiopk.com/alehsaan/live/playlist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-country="PK" tvg-logo="https://i.imgur.com/IJH47fJ.png" group-title="巴基斯坦台",Discover Pakistan
+https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8?checkedby:iptvcat.com
+
+
+
 #EXTINF:-1 group-title="其他外國台",孟加拉国 EkuseyTV
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 group-title="其他外國台",印度 9XM(480p)
