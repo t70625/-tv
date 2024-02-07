@@ -2,41 +2,41 @@
 
 #EXTINF:-1 group-title="中央電視台" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png",CCTV-1 綜合頻道 HD
 https://iptv.luas.edu.cn/liverespath/b455c7a019d404d571655c457e0ee8a9440a7802/9b64ee8539-0-0-eec709f29d65da3d0671b8d0233a6889/index.m3u8
-#EXTINF:-1 group-title="中央電視台" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png",CCTV-1 綜合頻道 HD (回播)
+#EXTINF:-1 group-title="中央電視台" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png",CCTV-1 綜合頻道 HD (緩衝)
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
-#EXTINF:-1 group-title="中央電視台" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png",CCTV-2 財經頻道 HD(回播)
+#EXTINF:-1 group-title="中央電視台" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png",CCTV-2 財經頻道 HD(緩衝)
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
-#EXTINF:-1 group-title="中央電視台" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png",CCTV-3 綜藝頻道 HD(回播)
+#EXTINF:-1 group-title="中央電視台" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png",CCTV-3 綜藝頻道 HD(緩衝)
 http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226397/1.m3u8
-#EXTINF:-1 group-title="中央電視台" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png",CCTV-4 中文國際頻道 HD(回播)
+#EXTINF:-1 group-title="中央電視台" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png",CCTV-4 中文國際頻道 HD(緩衝)
 http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
-#EXTINF:-1 group-title="中央電視台" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png",CCTV-5 體育頻道 HD(回播)
+#EXTINF:-1 group-title="中央電視台" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png",CCTV-5 體育頻道 HD(緩衝)
 http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
-#EXTINF:-1 group-title="中央電視台" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png",CCTV-5+ 體育賽事頻道 HD(回播)
+#EXTINF:-1 group-title="中央電視台" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png",CCTV-5+ 體育賽事頻道 HD(緩衝)
 http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8
-#EXTINF:-1 group-title="中央電視台" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png",CCTV-6 電影頻道 HD(回播)
+#EXTINF:-1 group-title="中央電視台" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png",CCTV-6 電影頻道 HD(緩衝)
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226393/index.m3u8
-#EXTINF:-1 group-title="中央電視台" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png",CCTV-7 國防軍事頻道 HD(回播)
+#EXTINF:-1 group-title="中央電視台" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png",CCTV-7 國防軍事頻道 HD(緩衝)
 http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226192/index.m3u8
-#EXTINF:-1 group-title="中央電視台" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png",CCTV-8 電視劇頻道 HD(回播)
+#EXTINF:-1 group-title="中央電視台" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png",CCTV-8 電視劇頻道 HD(緩衝)
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8
 #EXTINF:-1 group-title="中央電視台" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png",CCTV-9 紀錄頻道 HD
 http://1.195.111.251:11190/tsfile/live/0009_1.m3u8
-#EXTINF:-1 group-title="中央電視台" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png",CCTV-10 科教頻道 HD(回播)
+#EXTINF:-1 group-title="中央電視台" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png",CCTV-10 科教頻道 HD(緩衝)
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226189/1.m3u8
 #EXTINF:-1 group-title="中央電視台" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png",CCTV-11 戲曲頻道 HD
 http://221.213.43.82:8888/newlive/live/hls/13/live.m3u8
 #EXTINF:-1 group-title="中央電視台" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png",CCTV-12 社會與法頻道 HD
 https://iptv.luas.edu.cn/liverespath/fb84bde1de15cdb0308a7910cebc0497594ae94e/ad8e843cf1-0-0-abdf1d623c1773f9b0e9986f4b27b120/index.m3u8
-#EXTINF:-1 group-title="中央電視台" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png",CCTV-13 新聞頻道 HD(回播)
+#EXTINF:-1 group-title="中央電視台" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png",CCTV-13 新聞頻道 HD(緩衝)
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
 #EXTINF:-1 group-title="中央電視台" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png",CCTV-14 少兒頻道 HD
 http://1.195.111.251:11190/tsfile/live/0014_1.m3u8
-#EXTINF:-1 group-title="中央電視台" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png",CCTV-15 音樂頻道 HD(回播)
+#EXTINF:-1 group-title="中央電視台" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png",CCTV-15 音樂頻道 HD(緩衝)
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225785/1.m3u8
-#EXTINF:-1 group-title="中央電視台" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png",CCTV-16 奧林匹克頻道 HD
+#EXTINF:-1 group-title="中央電視台" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png",CCTV-16 奧林匹克頻道 HD(緩衝)
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
-#EXTINF:-1 group-title="中央電視台" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png",CCTV-17 農業農村頻道 HD(回播)
+#EXTINF:-1 group-title="中央電視台" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png",CCTV-17 農業農村頻道 標清
 http://111.59.63.32:9901/tsfile/live/1023_1.m3u8
 #EXTINF:-1 group-title="中央電視台" tvg-logo="https://live.fanmingming.com/tv/CGTNDoc.png",CGTN紀錄
 https://livedoc.cgtn.com/500d/prog_index.m3u8
@@ -5771,16 +5771,19 @@ https://streaming.televizor-24-tochka.ru/live/22.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://tv1.kg/css/newmin/logotop.png" group-title="吉爾吉斯台",TV1 KG 比什凱克
 http://212.2.225.30:1935/live/site.stream/playlist.m3u8?checkedby:iptvcat.com
 
-#EXTINF:-1 tvg-logo="https://ptv.com.pk/user/assets/images/ptvFamilyNew/ptv-familyNews2021.jpg" group-title="巴基斯坦台",PTV NEWS
+#EXTINF:-1 tvg-country="AZ" tvg-logo="https://acra.gov.az/storage/493/348364.jpg" group-title="阿塞拜疆台",麥麩頻道 Kəpəz TV
+http://85.132.81.184:8080/arbkepez/live/index.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="https://ptv.com.pk/user/assets/images/ptvFamilyNew/ptv-familyNews2021.jpg" group-title="巴基斯坦台",PTV NEWS（手機Dev IPTV速度+）
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1707347756/ei/zLrDZafcK9qLvcAPhqO7wAM/ip/172.233.84.154/id/DnUVzgm0R6w.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f-kAG5JNDtcWrqSNJ1oXe2YSB6EawFk_kJS2_F8E1W8/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhANp7bpCCLrbSMUp3fT8Ib6Pcc_G3dtZa9_Vun9Z9C-lnAiEA6p6GlUu0psPSC-b7hpVADJyTXUZ789hcZhOyzbe4hK0%3D/file/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://ptv.com.pk/user/assets/images/ptvFamilyNew/ptv-familyhome2023.jpg" group-title="巴基斯坦台",PTV HOME
+#EXTINF:-1 tvg-logo="https://ptv.com.pk/user/assets/images/ptvFamilyNew/ptv-familyhome2023.jpg" group-title="巴基斯坦台",PTV HOME（手機Dev IPTV速度+）
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1707350010/ei/msPDZd7kGu2OvcAPjcuM-AI/ip/172.233.84.154/id/a4nT8G0Jgfo.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f1c0QGPv9ha3h-z5WTTuRvVWjr-64jlN50yT8IsM9V0/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhANz4F67rtcAuA6d384P-s2n42WGdFTyskJmhBVF1ujSrAiA_57MVnRJyAUQaHZ99oQjtlzVRLqBvhdHLwPPC6WUuRw%3D%3D/file/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://ptv.com.pk/user/assets/images/ptvFamilyNew/ptv-familyWorld2023.jpg" group-title="巴基斯坦台",PTV WORLD
+#EXTINF:-1 tvg-logo="https://ptv.com.pk/user/assets/images/ptvFamilyNew/ptv-familyWorld2023.jpg" group-title="巴基斯坦台",PTV WORLD（手機Dev IPTV速度+）
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1707350574/ei/zsXDZe_ZMJWnvcAPvqOeyAM/ip/172.233.84.154/id/3-eoZXo21PA.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/maudio/1/spc/UWF9f5nCpyMWmle70sfp0BTEUmzfnHolCpg-ACUBGMs1tak/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgUAk8RM3N_0Mw7FuPrmpe3F430dttosAsufaUYp8NjOUCIQDwOYyJmoxAZTpLsvdWVEx1rkgjahcTWtN1a30DQuNIqg%3D%3D/file/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://ptv.com.pk/user/assets/images/ptvFamilyNew/ptv-familyNationalPeshawar.jpg" group-title="巴基斯坦台",PTV NATIONAL 白沙瓦
+#EXTINF:-1 tvg-logo="https://ptv.com.pk/user/assets/images/ptvFamilyNew/ptv-familyNationalPeshawar.jpg" group-title="巴基斯坦台",PTV NATIONAL 白沙瓦（手機Dev IPTV速度+）
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1707352003/ei/Y8vDZcLML4z-7OsPup6voAo/ip/172.233.84.154/id/2wYLxQDE0r8.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fwx0CUCCFgrdhh0LxHogP8Y3FcZ7PWFbgvxbjUH0cYk/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAPnnvwiHAX-bqUEMltkfVOlI2k0oNbvFa6STkKrQo6h7AiEA6EgFk0u-kX1vpze-8X_woqadl3he1tlsl2irfk-MEBY%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="其他外國台",孟加拉国 EkuseyTV
