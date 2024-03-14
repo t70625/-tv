@@ -149,10 +149,16 @@ http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 https://myun-hw-s3.myun.tv/melj80jz/lxx27bol/1551285536499984128.m3u8
 #EXTINF:-1 group-title="香港台" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png",鳳凰衛視中文台
 https://edge2.laotv.la/live/PhxChinese/index.m3u8
+#EXTINF:-1 group-title="香港台" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png",鳳凰衛視中文台
+http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
 #EXTINF:-1 group-title="香港台" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png",鳳凰衛視資訊台
 https://edge1.laotv.la/live/PhoenixNews/index.m3u8
 #EXTINF:-1 group-title="香港台" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png",鳳凰衛視香港台
 http://php.17186.eu.org/phtv/fhhk.m3u8
+#EXTINF:-1 logo="" group-title="香港台" ,华语电视2
+http://38.64.72.148:80/hls/modn/list/4002/chunklist0.m3u8
+#EXTINF:-1 logo="" group-title="香港台" ,华语电视3
+http://38.64.72.148:80/hls/modn/list/4003/chunklist0.m3u8
 #EXTINF:-1 group-title="香港台" tvg-logo="http://gbm.123tv.cn/uploadfile/2023/08-1691323272.jpg",香港 港台电视31
 https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream2/streamPlaylist.m3u8
 #EXTINF:-1 group-title="香港台" tvg-logo="http://gbm.123tv.cn/uploadfile/2023/08-1691324503.jpg",香港 港台电视32
@@ -1152,7 +1158,8 @@ http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177
 http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8
 #EXTINF:-1 group-title="台灣台",好消息电视台-2
 http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-1.m3u8
-
+#EXTINF:-1 group-title="台灣台",番薯台
+http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8
 
 #EXTINF:-1 group-title="海南台" tvg-logo="https://live.fanmingming.com/tv/海南卫视.png",海南卫视
 http://221.213.43.82:8888/newlive/live/hls/50/live.m3u8
