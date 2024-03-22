@@ -1308,7 +1308,7 @@ http://scdytv.cn:1935/live/m_ggpd_livevideo/playlist.m3u8
 http://live1.gatv.com.cn:85/live/XWZH.m3u8
 #EXTINF:-1 group-title="四川台" tvg-logo="http://tv.haoqu99.com/d/file/2018/0119/smallecdf931f3ab319cad5df7d6381c315001516354852.jpg",广安公共频道
 http://live1.gatv.com.cn:85/live/GGPD.m3u8
-#EXTINF:-1 group-title="四川台" group-title="四川", 廣安文旅鄉村
+#EXTINF:-1 group-title="四川台", 廣安文旅鄉村
 http://live1.gatv.com.cn:85/live/GGPD_ggpdzm.m3u8?zsicd
 #EXTINF:-1 group-title="四川台" tvg-logo="http://tv.haoqu99.com/d/file/2018/0120/small3ab4de21e687c2a9f91275c4d2bc42ee1516417919.jpg",眉山新闻综合频道
 https://live1.scmstv.cn/gqpd/playlist.m3u8?_upt=224434091706334927
@@ -1382,9 +1382,9 @@ http://stream.qhbtv.com/qhds/sd/live.m3u8?_upt=cd7616d61706332174
 https://liveout.xntv.tv/a65jur/96iln2.m3u8
 #EXTINF:-1 group-title="青海台" tvg-logo="http://tv.haoqu99.com/d/file/2016/1112/31c78e268aa487753cbbd410e7a5c4a5.jpg",西宁生活服务频道
 https://liveout.xntv.tv/a65jur/90p2i1.m3u8
-#EXTINF:-1 group-title="青海台" group-title="青海", 门源综合
+#EXTINF:-1 group-title="青海台", 门源综合
 http://livecdn.dmqhyadmin.com/hls/xjmenyuan.m3u8?zqinghd
-#EXTINF:-1 group-title="青海台" group-title="青海", 祁连综合
+#EXTINF:-1 group-title="青海台", 祁连综合
 http://livecdn.dmqhyadmin.com/hls/xjqilian.m3u8?zqinghd
 
 #EXTINF:-1 group-title="新疆台" tvg-logo="https://live.fanmingming.com/tv/新疆卫视.png",新疆卫视 XJTV-1（2通道）
