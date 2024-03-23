@@ -1679,6 +1679,8 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV73.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
 #EXTINF:-1 group-title="台灣台",中視
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV71.m3u8
+#EXTINF:-1 group-title="台灣台",中視
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV81.m3u8
 #EXTINF:-1 group-title="台灣台",中視 標清
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV42.m3u8
 #EXTINF:-1 group-title="台灣台",中視HD
@@ -1717,6 +1719,8 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV66.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV67.m3u8
 #EXTINF:-1 group-title="台灣台",（測試4）動畫？
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV68.m3u8
+#EXTINF:-1 group-title="台灣台",（測試5）動畫音樂？
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV77.m3u8
 #EXTINF:-1 group-title="台灣台",（測試6）日本逛街？
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV29.m3u8
 #EXTINF:-1 group-title="台灣台",（測試7）山頂直播？
@@ -1727,30 +1731,25 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV45.m3u8
 
 
 
+
 #EXTINF:-1 group-title="台灣台",（測試1）
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV74.m3u8
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV82.m3u8
 #EXTINF:-1 group-title="台灣台",（測試2）
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV75.m3u8
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV83.m3u8
 #EXTINF:-1 group-title="台灣台",（測試3）
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV76.m3u8
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV84.m3u8
 #EXTINF:-1 group-title="台灣台",（測試4）
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV77.m3u8
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV85.m3u8
 #EXTINF:-1 group-title="台灣台",（測試5）
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV86.m3u8
 #EXTINF:-1 group-title="台灣台",（測試6）
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV79.m3u8
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV87.m3u8
 #EXTINF:-1 group-title="台灣台",（測試7）
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV80.m3u8
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV88.m3u8
 #EXTINF:-1 group-title="台灣台",（測試8）
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV81.m3u8
-
-
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV89.m3u8
 #EXTINF:-1 group-title="台灣台",（測試9）
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV91.m3u8
-
-
-#EXTINF:-1 group-title="台灣台",（測試10）
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV101.m3u8
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV90.m3u8
 
 
 
@@ -1758,6 +1757,12 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV101.m3u8
 
 
 
+
+
+
+
+#EXTINF:-1 group-title="台灣台",TAIWAN Plus
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8
 #EXTINF:-1 group-title="台灣台"  tvg-logo="https://newsforchinese.com/v3/wp-content/uploads/2014/11/ettv-600x377.jpg",東森美洲衛視
 http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
 #EXTINF:-1 group-title="台灣台",東森財經新聞
@@ -1770,6 +1775,8 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV18.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV64.m3u8
 #EXTINF:-1 group-title="台灣台" tvg-logo="https://host.easylife.tw/pics/author/yohnu1/202001/2020VotingLive/2.png",民视新闻台
 http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
+#EXTINF:-1 group-title="台灣台",民視無線台
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV76.m3u8
 #EXTINF:-1 group-title="台灣台" tvg-logo="https://bkimg.cdn.bcebos.com/pic/79f0f736afc37931dc18abc5e0c4b74542a911ed",台视新闻台
 http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
 #EXTINF:-1 group-title="台灣台" tvg-logo="https://bkimg.cdn.bcebos.com/pic/79f0f736afc37931dc18abc5e0c4b74542a911ed",台视新闻台
@@ -4799,6 +4806,8 @@ http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="美國台",ABC NEWS
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV24.m3u8
+#EXTINF:-1 group-title="美國台",Times Network
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV74.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zvj1boM.jpg" group-title="美國台",HTV 1 Houston Television
 https://stream.swagit.com/live-edge/houstontx/smil:hd-16x9-2-a/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/FOX_wordmark-red.svg/512px-FOX_wordmark-red.svg.png" group-title="美國台",KCPQ-DT1
@@ -7264,6 +7273,8 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV08.m3u8
 https://5864df9ceac85.streamlock.net/germanpictures-live/mp4:streamschedule/playlist.m3u8
 #EXTINF:-1 group-title="德國台",Baden TV (720p)
 https://cdn.icu.de/rtplive/btv.stream/playlist.m3u8
+#EXTINF:-1 group-title="德國台",earthtv
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV79.m3u8
 
 #EXTINF:-1 group-title="白俄罗斯台",FirstMusicChannelBielorrusia
 http://hz1.teleport.cc/HLS/SD.m3u8
