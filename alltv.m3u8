@@ -1695,6 +1695,15 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV07.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
 #EXTINF:-1 group-title="台灣台",LIVE 三立
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
+#EXTINF:-1 group-title="台灣台",viva2 美好購物2台 
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV54.m3u8
+#EXTINF:-1 group-title="台灣台",viva2 美好購物2台（2）
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV55.m3u8
+#EXTINF:-1 group-title="台灣台",國會頻道1
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV56.m3u8
+#EXTINF:-1 group-title="台灣台",國會議事轉播
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV57.m3u8
+
 #EXTINF:-1 group-title="台灣台",（測試1）日本逛街？
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV29.m3u8
 #EXTINF:-1 group-title="台灣台",（測試2）山頂直播？
@@ -1702,37 +1711,31 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV45.m3u8
 
 
 
-
-
-
-
-
-
-
 #EXTINF:-1 group-title="台灣台",（測試1）
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV53.m3u8
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV65.m3u8
 #EXTINF:-1 group-title="台灣台",（測試2）
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV54.m3u8
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV66.m3u8
 #EXTINF:-1 group-title="台灣台",（測試3）
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV55.m3u8
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV67.m3u8
 #EXTINF:-1 group-title="台灣台",（測試4）
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV56.m3u8
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV68.m3u8
 #EXTINF:-1 group-title="台灣台",（測試5）
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV57.m3u8
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV69.m3u8
 #EXTINF:-1 group-title="台灣台",（測試6）
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV58.m3u8
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
 #EXTINF:-1 group-title="台灣台",（測試7）
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV59.m3u8
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV71.m3u8
 #EXTINF:-1 group-title="台灣台",（測試8）
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV60.m3u8
-#EXTINF:-1 group-title="台灣台",（測試9）
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV61.m3u8
-#EXTINF:-1 group-title="台灣台",（測試10）
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV62.m3u8
-#EXTINF:-1 group-title="台灣台",（測試11）
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV63.m3u8
-#EXTINF:-1 group-title="台灣台",（測試12）
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV64.m3u8
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV72.m3u8
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1746,6 +1749,8 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV19.m3u8
 #EXTINF:-1 group-title="台灣台",東森購物5
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV18.m3u8
+#EXTINF:-1 group-title="台灣台",東森幼幼
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV64.m3u8
 #EXTINF:-1 group-title="台灣台" tvg-logo="https://host.easylife.tw/pics/author/yohnu1/202001/2020VotingLive/2.png",民视新闻台
 http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
 #EXTINF:-1 group-title="台灣台" tvg-logo="https://bkimg.cdn.bcebos.com/pic/79f0f736afc37931dc18abc5e0c4b74542a911ed",台视新闻台
@@ -3842,6 +3847,8 @@ https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 #EXTINF:-1 group-title="日本台",日テレNEWS24 全天新闻
 https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
+#EXTINF:-1 group-title="日本台",HTB 北海道24小時新聞
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV53.m3u8
 #EXTINF:-1 group-title="日本台",全日本新聞網ANN NEWS
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV15.m3u8
 #EXTINF:-1 group-title="日本台",全日本新聞網ANN NEWS（2）
@@ -3908,6 +3915,8 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22&checkedb
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs04&checkedby:iptvcat.com
 #EXTINF:-1 group-title="日本台",関西電視台
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx03&checkedby:iptvcat.com
+#EXTINF:-1 group-title="日本台",關係新聞24h
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV62.m3u8
 #EXTINF:-1 group-title="日本台",歌謡ポップ
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs13&checkedby:iptvcat.com
 #EXTINF:-1 group-title="日本台",兒童頻道 Kids Station
@@ -3955,7 +3964,8 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs20&checkedb
 #EXTINF:-1 group-title="日本台",讀賣テレビ放送 YTV 
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx04&checkedby:iptvcat.com
 
-
+#EXTINF:-1 group-title="韓國台",KBS
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV61.m3u8
 #EXTINF:-1 group-title="韓國台",韓國-BBS佛教广播
 http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1216149699.m3u8
 #EXTINF:-1 group-title="韓國台",韓國 EBS第一频道
@@ -7361,4 +7371,6 @@ http://live-hls-web-aja.getaj.net/AJA/02.m3u8?zshijd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BcN8B3D.png" group-title="其他外國台",Red Bull TV 紅牛體育台
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1 group-title="其他外國台",123 GO! Live
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV58.m3u8
 
