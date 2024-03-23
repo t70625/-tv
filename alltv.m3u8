@@ -1664,36 +1664,39 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV13.m3u8
 #EXTINF:-1 group-title="台灣台",中華電視公司
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
 
-#EXTINF:-1 group-title="台灣台",（測試1）
+#EXTINF:-1 group-title="台灣台",新唐人亞太台*
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV23.m3u8
-#EXTINF:-1 group-title="台灣台",（測試2）
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
-#EXTINF:-1 group-title="台灣台",（測試3）
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV21.m3u8
-#EXTINF:-1 group-title="台灣台",（測試4）
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV20.m3u8
-#EXTINF:-1 group-title="台灣台",（測試5）
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV19.m3u8
-#EXTINF:-1 group-title="台灣台",（測試6）
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV18.m3u8
-#EXTINF:-1 group-title="台灣台",（測試7）
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV16.m3u8
-#EXTINF:-1 group-title="台灣台",（測試8）
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV15.m3u8
-#EXTINF:-1 group-title="台灣台",（測試9）
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV14.m3u8
-#EXTINF:-1 group-title="台灣台",（測試10）
+#EXTINF:-1 group-title="台灣台",華視CTS HD
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
-#EXTINF:-1 group-title="台灣台",（測試11）
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV11.m3u8
-#EXTINF:-1 group-title="台灣台",（測試12）
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV10.m3u8
-#EXTINF:-1 group-title="台灣台",（測試13）
+#EXTINF:-1 group-title="台灣台",中視新聞
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
 
+#EXTINF:-1 group-title="台灣台",（測試1）
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV08.m3u8
+#EXTINF:-1 group-title="台灣台",（測試2）
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV07.m3u8
+#EXTINF:-1 group-title="台灣台",（測試3）
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV06.m3u8
+#EXTINF:-1 group-title="台灣台",（測試4）
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV05.m3u8
+#EXTINF:-1 group-title="台灣台",（測試5）
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV04.m3u8
+#EXTINF:-1 group-title="台灣台",（測試6）
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
+#EXTINF:-1 group-title="台灣台",（測試7）
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
+#EXTINF:-1 group-title="台灣台",（測試8）
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
+#EXTINF:-1 group-title="台灣台",（測試9）
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV29.m3u8
 
-#EXTINF:-1 group-title="台灣台"  tvg-logo="https://newsforchinese.com/v3/wp-content/uploads/2014/11/ettv-600x377.jpg",东森美洲卫视
+
+#EXTINF:-1 group-title="台灣台"  tvg-logo="https://newsforchinese.com/v3/wp-content/uploads/2014/11/ettv-600x377.jpg",東森美洲衛視
 http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
+#EXTINF:-1 group-title="台灣台",東森購物46
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV19.m3u8
+#EXTINF:-1 group-title="台灣台",東森購物5
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV18.m3u8
 #EXTINF:-1 group-title="台灣台" tvg-logo="https://host.easylife.tw/pics/author/yohnu1/202001/2020VotingLive/2.png",民视新闻台
 http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
 #EXTINF:-1 group-title="台灣台" tvg-logo="https://bkimg.cdn.bcebos.com/pic/79f0f736afc37931dc18abc5e0c4b74542a911ed",台视新闻台
@@ -3786,6 +3789,8 @@ https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 #EXTINF:-1 group-title="日本台",日テレNEWS24 全天新闻
 https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
+#EXTINF:-1 group-title="日本台",全日本新聞網ANN NEWS
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV15.m3u8
 #EXTINF:-1 group-title="日本台",QVCジャパン QVC Japan（1通道）
 https://list.iptvcat.com/my_list/s/5b57b55e9bec5390ee0075e92ba6f525.m3u8
 #EXTINF:-1 group-title="日本台",QVCジャパン QVC Japan（2通道）
@@ -3910,6 +3915,8 @@ http://ebsonairios.ebs.co.kr/plus1tablet500k/tablet500k/plus1tablet500k.index.m3
 http://ebsonairios.ebs.co.kr/plus2tablet500k/tablet500k/plus2tablet500k.index.m3u8
 #EXTINF:-1 group-title="韓國台",韩国KBC SBS综艺
 http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
+#EXTINF:-1 group-title="韓國台",韓國 MBC
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV16.m3u8
 #EXTINF:-1 group-title="韓國台",韩国 阿里郎1 Korea : arirang 1
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/.m3u8
 #EXTINF:-1 group-title="韓國台",韩国 阿里郎3音樂 Korea : arirang 3
@@ -7045,6 +7052,8 @@ https://yamatovideo-yamatoanimation-1-it.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="土耳其台", Cay TV
 http://stream2.taksimbilisim.com:1935/caytv/bant1/CAYTV.m3u8
+#EXTINF:-1 group-title="土耳其台",土耳其新聞
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV21.m3u8
 #EXTINF:-1 group-title="土耳其台",IBBTV(1080p)
 http://wowza.istweb.tv:1935/webtv/webtv_wowza1/playlist.m3u8
 #EXTINF:-1 group-title="土耳其台",Semerkand TV
@@ -7116,6 +7125,10 @@ http://103.199.161.254/Content/mediaone/Live/Channel(MediaOne)/index.m3u8
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
 #EXTINF:-1 group-title="印度台",印度 NDTVIndia(480p)
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8
+#EXTINF:-1 group-title="印度台",Asianet News 馬拉雅拉姆語
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV11.m3u8
+#EXTINF:-1 group-title="印度台",Malai Murasu மாலை முரசு செய்திகள் 泰米爾語
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV10.m3u8
 
 #EXTINF:-1 group-title="西班牙台",西班牙 TV Galicia Europa
 http://europa-crtvg.flumotion.com/playlist.m3u8
@@ -7173,6 +7186,8 @@ http://593aed234297b.streamlock.net:1935/rtvnof/rtvnof/playlist.m3u8
 
 #EXTINF:-1 group-title="捷克台",捷克Retro (Opt-1)
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/deVHJKS.png" group-title="捷克台",捷克 Mňau TV (1080p)
+https://5ca49f2417d90.streamlock.net/mnau/livestream/playlist.m3u8
 
 #EXTINF:-1 group-title="斯洛伐克台",斯洛伐克TV 8
 http://109.74.145.11:1935/tv8/mp4:tv8.stream_360p/chunklist_w974670813.m3u8
@@ -7186,22 +7201,24 @@ http://109.74.145.11:1935/tv8/ngrp:tv8.stream_all/playlist.m3u8
 http://lb.streaming.sk/tvruzinov/stream/playlist.m3u8
 
 
-#EXTINF:-1 group-title="其他外國台",喀麦隆 Vision 4
+#EXTINF:-1 group-title="喀麦隆台",喀麦隆 Vision 4
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/vision4/hls_video/index.m3u8
-#EXTINF:-1 group-title="其他外國台",哥伦比亚 TVGracia(720p)
+
+#EXTINF:-1 group-title="哥伦比亚台",哥伦比亚 TVGracia(720p)
 https://streamyes.alsolnet.com/tvgracia/live/playlist.m3u8
-#EXTINF:-1 group-title="其他外國台",哥斯达黎加 Extrema TV
+
+#EXTINF:-1 group-title="哥斯达黎加台",哥斯达黎加 Extrema TV
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-#EXTINF:-1 group-title="其他外國台",哥斯达黎加 Canal88Stereo
+#EXTINF:-1 group-title="哥斯达黎加台",哥斯达黎加 Canal88Stereo
 http://k3.usastreams.com:1935/CableLatino/88stereo/chunklist_w1223558379.m3u8
-#EXTINF:-1 group-title="其他外國台",智利 ElPingüinoTV(360p)[Not24/7]
+
+#EXTINF:-1 group-title="智利台",智利 ElPingüinoTV(360p)[Not24/7]
 http://167.114.133.205:1935/live/pinguinotv_360p/playlist.m3u8
-#EXTINF:-1 group-title="其他外國台",智利 PintanaTV
+#EXTINF:-1 group-title="智利台",智利 PintanaTV
 http://streaming03.zas.media:1935/redemaoamiga/redemaoamiga/live.m3u8
-#EXTINF:-1 group-title="其他外國台",巴西 RedeMãoAmiga(720p)
+
+#EXTINF:-1 group-title="巴西台",巴西 RedeMãoAmiga(720p)
 http://cdn.vms.grupoz.cl/lapintanatv/content/5a7c8e25e19d3e641aca9fb2/hls/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/deVHJKS.png" group-title="其他外國台",捷克 Mňau TV (1080p)
-https://5ca49f2417d90.streamlock.net/mnau/livestream/playlist.m3u8
 
 #EXTINF:-1 group-title="拉脱维亚台",拉脱维亚TV Net
 http://player.tvnet.lv/stream/amlst:61659/chunklist_w1822312625_b528000_pd892000.m3u8
