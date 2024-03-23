@@ -7126,58 +7126,69 @@ http://cdn.vms.grupoz.cl/lapintanatv/content/5a7c8e25e19d3e641aca9fb2/hls/playli
 #EXTINF:-1 tvg-logo="https://i.imgur.com/deVHJKS.png" group-title="其他外國台",捷克 Mňau TV (1080p)
 https://5ca49f2417d90.streamlock.net/mnau/livestream/playlist.m3u8
 
-#EXTINF:-1 group-title="其他外國台",拉脱维亚TV Net
+#EXTINF:-1 group-title="拉脱维亚台",拉脱维亚TV Net
 http://player.tvnet.lv/stream/amlst:61659/chunklist_w1822312625_b528000_pd892000.m3u8
-#EXTINF:-1 group-title="其他外國台",希腊Fox TV
+
+#EXTINF:-1 group-title="希腊台",希腊Fox TV
 http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8
-#EXTINF:-1 group-title="其他外國台",希腊 NEATV(1080p)[640*360][640*360]
+#EXTINF:-1 group-title="希腊台",希腊 NEATV(1080p)[640*360][640*360]
 https://live.neatv.gr:8888/hls/neatv.m3u8
-#EXTINF:-1 group-title="其他外國台",希腊 NG(612p)
+#EXTINF:-1 group-title="希腊台",希腊 NG(612p)
 http://live.streams.ovh:1935/NGradio/NGradio/playlist.m3u8
-#EXTINF:-1 group-title="其他外國台",希腊 NRGTV(720p)
+#EXTINF:-1 group-title="希腊台",希腊 NRGTV(720p)
 https://5c389faa13be3.streamlock.net:9553/onweb/live/playlist.m3u8
-#EXTINF:-1 group-title="其他外國台",希腊 ZerounoTV(720p)
+#EXTINF:-1 group-title="希腊台",希腊 ZerounoTV(720p)
 http://5db313b643fd8.streamlock.net:1935/ZerounoTV/ZerounoTV/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QQSSMZx.png" group-title="其他外國台",希腊 Εκκλησία教會台
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QQSSMZx.png" group-title="希腊台",希腊 Εκκλησία教會台
 https://liveopen.siliconweb.com/openTvLive/openEcclessia/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/X7jKwYl.png" group-title="其他外國台",希腊 Κρήτη TV 克里特岛
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X7jKwYl.png" group-title="希腊台",希腊 Κρήτη TV 克里特岛
 http://live.cretetv.gr:1935/cretetv/myStream/f1tv.m3u8
-#EXTINF:-1 group-title="其他外國台",匈牙利 Hegyvidek Tv Budapest
+
+#EXTINF:-1 group-title="匈牙利台",匈牙利 Hegyvidek Tv 布達佩斯
 http://tv.hegyvidek.hu/stream_mpeg.flv
-#EXTINF:-1 group-title="其他外國台",伊朗PBC Tapesh TV
+
+#EXTINF:-1 group-title="伊朗台",伊朗PBC Tapesh TV
 http://iptv.tapesh.tv/tapesh/playlist.m3u8
-#EXTINF:-1 group-title="其他外國台",伊朗 MohabatTV(540p)[676*540][676*540]
+#EXTINF:-1 group-title="伊朗台",伊朗 MohabatTV(540p)[676*540][676*540]
 http://204.11.235.251:1935/live_transcoder/ngrp:mohabat.stream_all/playlist.m3u8
-#EXTINF:-1 group-title="其他外國台",伊朗 PayvandTV(720p)[1280*720]
+#EXTINF:-1 group-title="伊朗台",伊朗 PayvandTV(720p)[1280*720]
 https://uni6rtmp.tulix.tv/ucur1/Payvand/playlist.m3u8
-#EXTINF:-1 group-title="其他外國台",伊朗 Payam Javan TV
+#EXTINF:-1 group-title="伊朗台",伊朗 Payam Javan TV
 https://uni01rtmp.tulix.tv/kensecure/pjtv.stream/chunklist_w1355976606.m3u8
-#EXTINF:-1 group-title="其他外國台",伊拉克 Al Sharqiya
+
+#EXTINF:-1 group-title="伊拉克台",伊拉克 Al Sharqiya
 http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8
-#EXTINF:-1 group-title="其他外國台",伊拉克 Sharqiya News
+#EXTINF:-1 group-title="伊拉克台",伊拉克 Sharqiya News
 http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
-#EXTINF:-1 group-title="其他外國台",伊拉克 Dijlah
+#EXTINF:-1 group-title="伊拉克台",伊拉克 Dijlah
 http://91.134.145.75:10001/Dijlah/index.m3u8
-#EXTINF:-1 group-title="其他外國台",阿富汗 Bahar TV (720p)
+
+#EXTINF:-1 group-title="阿富汗台",阿富汗 Bahar TV (720p)
 https://59d39900ebfb8.streamlock.net/bahartv/bahartv/playlist.m3u8
-#EXTINF:-1 group-title="其他外國台",約旦 JawharaFM(720p)
+
+#EXTINF:-1 group-title="約旦台",約旦 JawharaFM(720p)
 http://streaming.toutech.net:1935/live/mp4:jawharafm.sdp/playlist.m3u8
-#EXTINF:-1 group-title="其他外國台",巴勒斯坦 NablusTV 纳布卢斯官方电视频道
+
+#EXTINF:-1 group-title="巴勒斯坦台",巴勒斯坦 NablusTV 纳布卢斯官方电视频道
 http://htvmada.mada.ps:8888/nabluslive/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wnpe5i8.png" group-title="其他外國台",索馬里 MM Somali TV
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wnpe5i8.png" group-title="索馬里台",索馬里 MM Somali TV
 https://cdn.mediavisionuk.com:9000/MMTV/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/H5Oi2NS.png" group-title="其他外國台",也門 Shabab Channel
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/H5Oi2NS.png" group-title="也門台",也門 Shabab Channel
 https://master.starmena-cloud.com/hls/yemenshabab.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8TzcJu5.png" group-title="其他外國台",也門 今日電視台
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8TzcJu5.png" group-title="也門台",也門 今日電視台
 https://video.yementdy.tv/hls/yementoday.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/半岛新闻.png" group-title="其他外國台",半岛新闻台（英語）（通道1）
+
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/半岛新闻.png" group-title="卡塔爾台",半岛新闻台（英語）（通道1）
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/半岛新闻.png" group-title="其他外國台",半岛新闻台（英語）（通道2）
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/半岛新闻.png" group-title="卡塔爾台",半岛新闻台（英語）（通道2）
 https://live-hls-aje-ak.getaj.net/AJE/01.m3u8?zshijd
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/半岛新闻.png" group-title="其他外國台",半岛新闻台（英語）（通道3）
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/半岛新闻.png" group-title="卡塔爾台",半岛新闻台（英語）（通道3）
 https://live-hls-web-aje.getaj.net/AJE/02.m3u8?zshijdp
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/半岛新闻.png" group-title="其他外國台",半岛新闻台（阿拉伯語）
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/半岛新闻.png" group-title="卡塔爾台",半岛新闻台（阿拉伯語）
 http://live-hls-web-aja.getaj.net/AJA/02.m3u8?zshijd
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BcN8B3D.png" group-title="其他外國台",Red Bull TV 紅牛體育台
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
