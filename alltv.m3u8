@@ -1670,29 +1670,34 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV23.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
 #EXTINF:-1 group-title="台灣台",中視新聞
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
-
-#EXTINF:-1 group-title="台灣台",（測試1）
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV08.m3u8
-#EXTINF:-1 group-title="台灣台",（測試2）
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV07.m3u8
-#EXTINF:-1 group-title="台灣台",（測試3）
+#EXTINF:-1 group-title="台灣台",EF運通
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV06.m3u8
-#EXTINF:-1 group-title="台灣台",（測試4）
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV05.m3u8
-#EXTINF:-1 group-title="台灣台",（測試5）
+#EXTINF:-1 group-title="台灣台",MOMO 1台
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV04.m3u8
-#EXTINF:-1 group-title="台灣台",（測試6）
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
-#EXTINF:-1 group-title="台灣台",（測試7）
+#EXTINF:-1 group-title="台灣台",MOMO 2台
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV05.m3u8
+#EXTINF:-1 group-title="台灣台",寰宇新聞台
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
-#EXTINF:-1 group-title="台灣台",（測試8）
+#EXTINF:-1 group-title="台灣台",信大電視台
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV07.m3u8
+#EXTINF:-1 group-title="台灣台",三立SET iNews
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
 #EXTINF:-1 group-title="台灣台",（測試9）
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV29.m3u8
 
 
+
+
+#EXTINF:-1 group-title="台灣台",（測試1）
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV30.m3u8
+#EXTINF:-1 group-title="台灣台",（測試10）
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV40.m3u8
+
+
 #EXTINF:-1 group-title="台灣台"  tvg-logo="https://newsforchinese.com/v3/wp-content/uploads/2014/11/ettv-600x377.jpg",東森美洲衛視
 http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
+#EXTINF:-1 group-title="台灣台",東森財經新聞
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
 #EXTINF:-1 group-title="台灣台",東森購物46
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV19.m3u8
 #EXTINF:-1 group-title="台灣台",東森購物5
@@ -7105,14 +7110,14 @@ https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8?checkedby:i
 
 
 
-#EXTINF:-1 group-title="孟加拉國台",孟加拉国 EkuseyTV
+#EXTINF:-1 group-title="孟加拉國台",EkuseyTV
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 
 #EXTINF:-1 group-title="泰国台",泰国 ASTV News 1
 http://news1.live14.com/stream/news1_hi.m3u8
-#EXTINF:-1 group-title="泰国台",泰国 PBS-公共三台 HD
+#EXTINF:-1 group-title="泰国台",PBS-公共三台 HD
 http://thaipbs-live.cdn.byteark.com/live-en/playlist_720p/index.m3u8
-#EXTINF:-1 group-title="泰国台",泰国 PBS-公共三台 HD
+#EXTINF:-1 group-title="泰国台",PBS-公共三台 HD
 http://thaipbs-live.cdn.byteark.com/live/playlist_720p/index.m3u8
 
 #EXTINF:-1 group-title="印度台",印度 9XM(480p)
@@ -7130,148 +7135,150 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV11.m3u8
 #EXTINF:-1 group-title="印度台",Malai Murasu மாலை முரசு செய்திகள் 泰米爾語
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV10.m3u8
 
-#EXTINF:-1 group-title="西班牙台",西班牙 TV Galicia Europa
+#EXTINF:-1 group-title="西班牙台",TV Galicia Europa
 http://europa-crtvg.flumotion.com/playlist.m3u8
-#EXTINF:-1 group-title="西班牙台",西班牙 betevé(1080p)
+#EXTINF:-1 group-title="西班牙台",betevé(1080p)
 https://cdnapisec.kaltura.com/p/2346171/sp/234617100/playManifest/entryId/1_n6442jz0/format/applehttp/.m3u8?referrer=aHR0cHM6Ly9iZXRldmUuY2F0
-#EXTINF:-1 group-title="西班牙台",西班牙 TeleRibera
+#EXTINF:-1 group-title="西班牙台",TeleRibera
 http://37.187.7.106/teleribera/live.m3u8
-#EXTINF:-1 group-title="西班牙台",西班牙 TuyaLaJandaTelevisión
+#EXTINF:-1 group-title="西班牙台",TuyaLaJandaTelevisión
 http://185.210.20.13:8080/0.m3u8
-#EXTINF:-1 group-title="西班牙台",西班牙 TV5LIMARES
+#EXTINF:-1 group-title="西班牙台",TV5LIMARES
 https://unlimited1-us.dps.live/tv5/tv5.smil/playlist.m3u8
-#EXTINF:-1 group-title="西班牙台",西班牙 TVG
+#EXTINF:-1 group-title="西班牙台",TVG
 http://europa-crtvg.flumotion.com/crtvg/europa_med/chunks.m3u8
 
-#EXTINF:-1 group-title="加拿大台",加拿大 The Shopping Channel
+#EXTINF:-1 group-title="加拿大台",The Shopping Channel
 http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
-#EXTINF:-1 group-title="加拿大台",加拿大 Pardesi TV
+#EXTINF:-1 group-title="加拿大台",Pardesi TV
 http://stream.pardesitv.online/pardesi/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RR7ATr2.png" group-title="加拿大台",Uvagut TV 加拿大因紐特語頻道
 https://dee7mwgg9dzvl.cloudfront.net/hls/uvagut/playlist.m3u8
 
 
-#EXTINF:-1 group-title="英國台",英國 BBCWorldNews
+#EXTINF:-1 group-title="英國台",BBC WorldNews
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 
-#EXTINF:-1 group-title="法国台",法国 时尚
+#EXTINF:-1 group-title="法國台",时尚
 http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
 
-#EXTINF:-1 group-title="德国台",德国 OF-TVOffenbach(720p)
+#EXTINF:-1 group-title="德國台",DW 德國之聲
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV08.m3u8
+#EXTINF:-1 group-title="德國台",OF-TVOffenbach(720p)
 https://5864df9ceac85.streamlock.net/germanpictures-live/mp4:streamschedule/playlist.m3u8
-#EXTINF:-1 group-title="德国台",德国 Baden TV (720p)
+#EXTINF:-1 group-title="德國台",Baden TV (720p)
 https://cdn.icu.de/rtplive/btv.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="白俄罗斯台",白俄罗斯 FirstMusicChannelBielorrusia
+#EXTINF:-1 group-title="白俄罗斯台",FirstMusicChannelBielorrusia
 http://hz1.teleport.cc/HLS/SD.m3u8
 
-#EXTINF:-1 group-title="乌克兰台",乌克兰 7канал
+#EXTINF:-1 group-title="烏克蘭台",乌7канал
 http://cdn10.live-tv.od.ua:8081/7tvod/7tvod/playlist.m3u8
-#EXTINF:-1 group-title="乌克兰台",乌克兰  M2 音乐频道
+#EXTINF:-1 group-title="烏克蘭台",M2 音乐频道
 http://live.m2.tv/hls3/stream.m3u8
-#EXTINF:-1 group-title="乌克兰台",乌克兰 24 Канал
+#EXTINF:-1 group-title="烏克蘭台",24 Канал
 http://streamvideol1.luxnet.ua/news24/news24.stream/playlist.m3u8
-#EXTINF:-1 group-title="乌克兰台",乌克兰 Прямий
+#EXTINF:-1 group-title="波兰台",Прямий
 http://95.67.21.100/hls/prm_ua_hi/index.m3u8
 
-#EXTINF:-1 group-title="波兰台",波兰 TV Kujawy (Opt-1)
+#EXTINF:-1 group-title="波蘭台",TV Kujawy (Opt-1)
 http://stream.tvkujawy.pl:8080/live/broadcast.m3u8
-#EXTINF:-1 group-title="波兰台",波兰 TV Torun
+#EXTINF:-1 group-title="波蘭台",TV Torun
 http://217.173.176.107:1935/live/ngrp:tvk.stream_all/master.m3u8
 
-#EXTINF:-1 group-title="荷兰台",荷兰 OmroepEde(480p)
+#EXTINF:-1 group-title="荷蘭台",OmroepEde(480p)
 https://ms7.mx-cd.net/tv/113-474263/EdeTV.smil/playlist.m3u8
-#EXTINF:-1 group-title="荷兰台",荷兰 RTVNOFTV(720p)
+#EXTINF:-1 group-title="荷蘭台",RTVNOFTV(720p)
 http://593aed234297b.streamlock.net:1935/rtvnof/rtvnof/playlist.m3u8
 
-#EXTINF:-1 group-title="捷克台",捷克Retro (Opt-1)
+#EXTINF:-1 group-title="捷克台",Retro (Opt-1)
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/deVHJKS.png" group-title="捷克台",捷克 Mňau TV (1080p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/deVHJKS.png" group-title="捷克台",Mňau TV (1080p)
 https://5ca49f2417d90.streamlock.net/mnau/livestream/playlist.m3u8
 
-#EXTINF:-1 group-title="斯洛伐克台",斯洛伐克TV 8
+#EXTINF:-1 group-title="斯洛伐克台",TV 8
 http://109.74.145.11:1935/tv8/mp4:tv8.stream_360p/chunklist_w974670813.m3u8
-#EXTINF:-1 group-title="斯洛伐克台",斯洛伐克TVNZ
+#EXTINF:-1 group-title="斯洛伐克台",TVNZ
 http://s1.media-planet.sk:80/live/novezamky/BratuMarian.m3u8
-#EXTINF:-1 group-title="斯洛伐克台",斯洛伐克 TeleviziaOSEM(360p)
+#EXTINF:-1 group-title="斯洛伐克台",TeleviziaOSEM(360p)
 http://109.74.145.11:1935/tv8/mp4:tv8.stream_360p/playlist.m3u8
-#EXTINF:-1 group-title="斯洛伐克台",斯洛伐克 TelevíziaOSEM(576p)
+#EXTINF:-1 group-title="斯洛伐克台",TelevíziaOSEM(576p)
 http://109.74.145.11:1935/tv8/ngrp:tv8.stream_all/playlist.m3u8
-#EXTINF:-1 group-title="斯洛伐克台",斯洛伐克 TVRužinov(1080p)
+#EXTINF:-1 group-title="斯洛伐克台",TVRužinov(1080p)
 http://lb.streaming.sk/tvruzinov/stream/playlist.m3u8
 
 
-#EXTINF:-1 group-title="喀麦隆台",喀麦隆 Vision 4
+#EXTINF:-1 group-title="喀麥隆台",Vision 4
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/vision4/hls_video/index.m3u8
 
-#EXTINF:-1 group-title="哥伦比亚台",哥伦比亚 TVGracia(720p)
+#EXTINF:-1 group-title="哥倫比亞台",TVGracia(720p)
 https://streamyes.alsolnet.com/tvgracia/live/playlist.m3u8
 
-#EXTINF:-1 group-title="哥斯达黎加台",哥斯达黎加 Extrema TV
+#EXTINF:-1 group-title="哥斯達黎加台",Extrema TV
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-#EXTINF:-1 group-title="哥斯达黎加台",哥斯达黎加 Canal88Stereo
+#EXTINF:-1 group-title="哥斯達黎加台",Canal88Stereo
 http://k3.usastreams.com:1935/CableLatino/88stereo/chunklist_w1223558379.m3u8
 
-#EXTINF:-1 group-title="智利台",智利 ElPingüinoTV(360p)[Not24/7]
+#EXTINF:-1 group-title="智利台",ElPingüinoTV(360p)[Not24/7]
 http://167.114.133.205:1935/live/pinguinotv_360p/playlist.m3u8
-#EXTINF:-1 group-title="智利台",智利 PintanaTV
+#EXTINF:-1 group-title="智利台",PintanaTV
 http://streaming03.zas.media:1935/redemaoamiga/redemaoamiga/live.m3u8
 
-#EXTINF:-1 group-title="巴西台",巴西 RedeMãoAmiga(720p)
+#EXTINF:-1 group-title="巴西台",RedeMãoAmiga(720p)
 http://cdn.vms.grupoz.cl/lapintanatv/content/5a7c8e25e19d3e641aca9fb2/hls/playlist.m3u8
 
-#EXTINF:-1 group-title="拉脱维亚台",拉脱维亚TV Net
+#EXTINF:-1 group-title="拉脫維亞台",TV Net
 http://player.tvnet.lv/stream/amlst:61659/chunklist_w1822312625_b528000_pd892000.m3u8
 
-#EXTINF:-1 group-title="希腊台",希腊Fox TV
+#EXTINF:-1 group-title="希臘台",Fox TV
 http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8
-#EXTINF:-1 group-title="希腊台",希腊 NEATV(1080p)[640*360][640*360]
+#EXTINF:-1 group-title="希臘台",NEATV(1080p)[640*360][640*360]
 https://live.neatv.gr:8888/hls/neatv.m3u8
-#EXTINF:-1 group-title="希腊台",希腊 NG(612p)
+#EXTINF:-1 group-title="希臘台",NG(612p)
 http://live.streams.ovh:1935/NGradio/NGradio/playlist.m3u8
-#EXTINF:-1 group-title="希腊台",希腊 NRGTV(720p)
+#EXTINF:-1 group-title="希臘台",NRGTV(720p)
 https://5c389faa13be3.streamlock.net:9553/onweb/live/playlist.m3u8
-#EXTINF:-1 group-title="希腊台",希腊 ZerounoTV(720p)
+#EXTINF:-1 group-title="希臘台",ZerounoTV(720p)
 http://5db313b643fd8.streamlock.net:1935/ZerounoTV/ZerounoTV/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QQSSMZx.png" group-title="希腊台",希腊 Εκκλησία教會台
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QQSSMZx.png" group-title="希臘台",Εκκλησία教會台
 https://liveopen.siliconweb.com/openTvLive/openEcclessia/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/X7jKwYl.png" group-title="希腊台",希腊 Κρήτη TV 克里特岛
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X7jKwYl.png" group-title="希臘台",Κρήτη TV 克里特岛
 http://live.cretetv.gr:1935/cretetv/myStream/f1tv.m3u8
 
-#EXTINF:-1 group-title="匈牙利台",匈牙利 Hegyvidek Tv 布達佩斯
+#EXTINF:-1 group-title="匈牙利台",Hegyvidek Tv 布達佩斯
 http://tv.hegyvidek.hu/stream_mpeg.flv
 
-#EXTINF:-1 group-title="伊朗台",伊朗PBC Tapesh TV
+#EXTINF:-1 group-title="伊朗台",PBC Tapesh TV
 http://iptv.tapesh.tv/tapesh/playlist.m3u8
-#EXTINF:-1 group-title="伊朗台",伊朗 MohabatTV(540p)[676*540][676*540]
+#EXTINF:-1 group-title="伊朗台",MohabatTV(540p)[676*540][676*540]
 http://204.11.235.251:1935/live_transcoder/ngrp:mohabat.stream_all/playlist.m3u8
-#EXTINF:-1 group-title="伊朗台",伊朗 PayvandTV(720p)[1280*720]
+#EXTINF:-1 group-title="伊朗台",PayvandTV(720p)[1280*720]
 https://uni6rtmp.tulix.tv/ucur1/Payvand/playlist.m3u8
-#EXTINF:-1 group-title="伊朗台",伊朗 Payam Javan TV
+#EXTINF:-1 group-title="伊朗台",Payam Javan TV
 https://uni01rtmp.tulix.tv/kensecure/pjtv.stream/chunklist_w1355976606.m3u8
 
-#EXTINF:-1 group-title="伊拉克台",伊拉克 Al Sharqiya
+#EXTINF:-1 group-title="伊拉克台",Al Sharqiya
 http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8
-#EXTINF:-1 group-title="伊拉克台",伊拉克 Sharqiya News
+#EXTINF:-1 group-title="伊拉克台",Sharqiya News
 http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
-#EXTINF:-1 group-title="伊拉克台",伊拉克 Dijlah
+#EXTINF:-1 group-title="伊拉克台",Dijlah
 http://91.134.145.75:10001/Dijlah/index.m3u8
 
-#EXTINF:-1 group-title="阿富汗台",阿富汗 Bahar TV (720p)
+#EXTINF:-1 group-title="阿富汗台",Bahar TV (720p)
 https://59d39900ebfb8.streamlock.net/bahartv/bahartv/playlist.m3u8
 
-#EXTINF:-1 group-title="約旦台",約旦 JawharaFM(720p)
+#EXTINF:-1 group-title="約旦台",JawharaFM(720p)
 http://streaming.toutech.net:1935/live/mp4:jawharafm.sdp/playlist.m3u8
 
-#EXTINF:-1 group-title="巴勒斯坦台",巴勒斯坦 NablusTV 纳布卢斯官方电视频道
+#EXTINF:-1 group-title="巴勒斯坦台",NablusTV 纳布卢斯官方电视频道
 http://htvmada.mada.ps:8888/nabluslive/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wnpe5i8.png" group-title="索馬里台",索馬里 MM Somali TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wnpe5i8.png" group-title="索馬里台",MM Somali TV
 https://cdn.mediavisionuk.com:9000/MMTV/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/H5Oi2NS.png" group-title="也門台",也門 Shabab Channel
+#EXTINF:-1 tvg-logo="https://i.imgur.com/H5Oi2NS.png" group-title="也門台",Shabab Channel
 https://master.starmena-cloud.com/hls/yemenshabab.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8TzcJu5.png" group-title="也門台",也門 今日電視台
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8TzcJu5.png" group-title="也門台",今日電視台
 https://video.yementdy.tv/hls/yementoday.m3u8
 
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/半岛新闻.png" group-title="卡塔爾台",半岛新闻台（英語）（通道1）
