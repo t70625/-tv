@@ -1652,12 +1652,16 @@ http://fjnhdb.chinashadt.com:2036/live/stream:nh1.stream/playlist.m3u8?fujian
 #EXTINF:-1 group-title="福建台", 漳浦综合
 http://220.161.87.62:8090/hls/0/index.m3u8?zfud
 
-#EXTINF:-1 group-title="台灣台" tvg-logo="https://cn.itver.cc/wp-content/uploads/2015/03/TVBS-NEWS.jpg", TVBS新闻台1通道
+#EXTINF:-1 group-title="台灣台" tvg-logo="https://cn.itver.cc/wp-content/uploads/2015/03/TVBS-NEWS.jpg", TVBS新闻台（1）
 http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
-#EXTINF:-1 group-title="台灣台" tvg-logo="https://cn.itver.cc/wp-content/uploads/2015/03/TVBS-NEWS.jpg",TVBS新闻台2通道
+#EXTINF:-1 group-title="台灣台" tvg-logo="https://cn.itver.cc/wp-content/uploads/2015/03/TVBS-NEWS.jpg",TVBS新闻台（2）
 http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8
-#EXTINF:-1 group-title="台灣台" tvg-logo="https://cn.itver.cc/wp-content/uploads/2015/03/TVBS-NEWS.jpg",TVBS NEWS
+#EXTINF:-1 group-title="台灣台" tvg-logo="https://cn.itver.cc/wp-content/uploads/2015/03/TVBS-NEWS.jpg",TVBS NEWS（1）
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
+#EXTINF:-1 group-title="台灣台" tvg-logo="https://cn.itver.cc/wp-content/uploads/2015/03/TVBS-NEWS.jpg",TVBS NEWS（2）
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV82.m3u8
+#EXTINF:-1 group-title="台灣台" tvg-logo="https://cn.itver.cc/wp-content/uploads/2015/03/TVBS-NEWS.jpg",TVBS NEWS（3）
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV83.m3u8
 #EXTINF:-1 group-title="台灣台" tvg-logo="https://images.1111.com.tw/oad/70699320.jpg",TVBS亚洲
 http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 #EXTINF:-1 group-title="台灣台",中天新聞1台
@@ -1695,6 +1699,8 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV05.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
 #EXTINF:-1 group-title="台灣台",寰宇新聞台
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV41.m3u8
+#EXTINF:-1 group-title="台灣台",寰宇財經綜合
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV85.m3u8
 #EXTINF:-1 group-title="台灣台",信大電視台
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV07.m3u8
 #EXTINF:-1 group-title="台灣台",三立SET iNews
@@ -1725,48 +1731,14 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV77.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV29.m3u8
 #EXTINF:-1 group-title="台灣台",（測試7）山頂直播？
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV45.m3u8
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="台灣台",（測試1）
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV82.m3u8
-#EXTINF:-1 group-title="台灣台",（測試2）
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV83.m3u8
-#EXTINF:-1 group-title="台灣台",（測試3）
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV84.m3u8
-#EXTINF:-1 group-title="台灣台",（測試4）
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV85.m3u8
-#EXTINF:-1 group-title="台灣台",（測試5）
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV86.m3u8
-#EXTINF:-1 group-title="台灣台",（測試6）
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV87.m3u8
-#EXTINF:-1 group-title="台灣台",（測試7）
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV88.m3u8
-#EXTINF:-1 group-title="台灣台",（測試8）
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV89.m3u8
-#EXTINF:-1 group-title="台灣台",（測試9）
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV90.m3u8
-
-
-
-
-
-
-
-
-
-
-
 #EXTINF:-1 group-title="台灣台",TAIWAN Plus
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8
 #EXTINF:-1 group-title="台灣台"  tvg-logo="https://newsforchinese.com/v3/wp-content/uploads/2014/11/ettv-600x377.jpg",東森美洲衛視
 http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
 #EXTINF:-1 group-title="台灣台",東森財經新聞
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
+#EXTINF:-1 group-title="台灣台",東森電影HD
+http://50.7.238.114:8278/ettvmovie/playlist.m3u8?tid=MDED1943740419437404&ct=19225&tsum=120834a4218c4b5c3bb19efb8116f859
 #EXTINF:-1 group-title="台灣台",東森購物46
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV19.m3u8
 #EXTINF:-1 group-title="台灣台",東森購物5
@@ -1807,6 +1779,14 @@ http://198.16.100.90:8278/natgeohd_twn/playlist.m3u8?tid=ma1f0b9808d5014467661&c
 http://198.16.100.90:8278/cinemax_twn/playlist.m3u8?tid=MCEC1614519816145198&ct=19193&tsum=e635ddeeb683b5cbcda1319d0cc18f84
 #EXTINF:-1 group-title="台灣台",博斯高球 II
 http://198.16.100.90:8278/bosigolf2_twn/playlist.m3u8?tid=MF5F9848925298489252&ct=19225&tsum=2600464749aadbcd55d1c32ec071e36e
+#EXTINF:-1 group-title="台灣台",緯來日本
+http://50.7.238.114:8278/videolandjapan/playlist.m3u8?tid=MBAB7250273772502737&ct=19344&tsum=2b580b485643235654de4a1bbc9639cb
+#EXTINF:-1 group-title="台灣台",靖天卡通台
+http://198.16.100.90:8278/jingtiancartoon_twn/playlist.m3u8?tid=MFDF8331008583310085&ct=19249&tsum=ace70a4a198e7d24a6daaeb60aaf3e24
+#EXTINF:-1 group-title="台灣台",龍祥時代
+http://50.7.238.114:8278/lungxiangtime_twn/playlist.m3u8?tid=MADA6805114368051143&ct=18392&tsum=d6a1f02ca9abd5368d2a365e40247ae8
+#EXTINF:-1 group-title="台灣台",龍華電影：
+http://198.16.100.90:8278/xingwei_movie/playlist.m3u8?tid=MB7B3700339537003395&ct=19249&tsum=54d5231b311c4cd2b6716eafe88bb0dd
 
 #EXTINF:-1 group-title="海南台" tvg-logo="https://live.fanmingming.com/tv/海南卫视.png",海南卫视
 http://121.24.99.177:8090/hls/100/index.m3u8
@@ -3988,6 +3968,7 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs20&checkedb
 #EXTINF:-1 group-title="日本台",讀賣テレビ放送 YTV 
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx04&checkedby:iptvcat.com
 
+
 #EXTINF:-1 group-title="韓國台",KBS
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV61.m3u8
 #EXTINF:-1 group-title="韓國台",韓國-BBS佛教广播
@@ -4045,11 +4026,17 @@ https://tv.nknews.org/tvdash/stream.mpd
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTINF:-1 group-title="新加坡台" tvg-logo="https://i.imgur.com/xWglicB.png",新加坡 国际亞洲新聞
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-#EXTINF:-1 group-title="新加坡台" tvg-logo="https://i.imgur.com/xWglicB.png",亚洲新闻台
+#EXTINF:-1 group-title="新加坡台" tvg-logo="https://i.imgur.com/xWglicB.png",亚洲新闻台（1）
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV52.m3u8
+#EXTINF:-1 group-title="新加坡台" tvg-logo="https://i.imgur.com/xWglicB.png",亚洲新闻台（2）
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV84.m3u8
 #EXTINF:-1 group-title="新加坡台" tvg-logo="https://i.imgur.com/ciTJrnl.png" ,ZooMoo  兒童台
 https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
 
+#EXTINF:-1 group-title="馬來西亞台",8TV
+https://live-streams-ssai-01.tonton.com.my/live/a884c33b-6b11-4433-8bf9-a8899939e224/cmaf.isml/.m3u8
+#EXTINF:-1 group-title="馬來西亞台",astro AWANI
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV27.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/chNBF5t.png" group-title="俄羅斯台",S1
 https://sitv.ru/hls/stv.m3u8
@@ -4802,8 +4789,26 @@ http://gg.gg/HaNoiIPTV-HBO_HD
 #EXTINF:-1 group-title="越南台",越南ANTV HD
 http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
 
-
-#EXTM3U
+#EXTINF:-1 group-title="美國台",Boxing TV 拳擊
+https://1180885077.rsc.cdn77.org/HLS/BOXINGTV.m3u8
+#EXTINF:-1 group-title="美國台",BILLIARD TV 台球
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/billiard-tv/BILLIARDTV_SCTE.m3u8
+#EXTINF:-1 group-title="美國台",5SELECT
+http://185.19.191.2:8090/5SELECT/index.m3u8
+#EXTINF:-1 group-title="美國台",&flix HD
+http://89.187.177.137:8081/&FLIX/index.m3u8
+#EXTINF:-1 group-title="美國台",ABC 7
+http://41.205.93.154/ABC/index.m3u8
+#EXTINF:-1 group-title="美國台",Action Movie 電影台
+http://51.159.104.29:8080/action/index.m3u8
+#EXTINF:-1 group-title="美國台",AMC 電影台
+https://5def33c73f084e11a19ca77697d6b413.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_AMCPresents/playlist.m3u8
+#EXTINF:-1 group-title="美國台",AMC Thrillers電影台
+https://436f59579436473e8168284cac5d725f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RushByAMC/playlist.m3u8
+#EXTINF:-1 group-title="美國台",Animal Planet 日本
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs24
+#EXTINF:-1 group-title="美國台",Animal Planet HD
+http://41.205.93.154/ANIMALPLANET/index.m3u8
 #EXTINF:-1 group-title="美國台",ABC NEWS
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV24.m3u8
 #EXTINF:-1 group-title="美國台",Times Network
@@ -4814,6 +4819,8 @@ https://stream.swagit.com/live-edge/houstontx/smil:hd-16x9-2-a/playlist.m3u8
 https://lnc-kcpq.tubi.video/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/73/MNTV-KCWX_Custom_Logo_7-3.png" group-title="美國台",KCWX-DT1
 http://65.36.6.216:1935/live/kcwx.smil/playlist.m3u8
+#EXTINF:-1 group-title="美國台",asiancrush 亚洲电影
+https://amg01201-cinedigmenterta-asiancrush-cineverse-x701o.amagi.tv/playlist/amg01201-cinedigmenterta-asiancrush-cineverse/playlist.m3u8
 #EXTINF:-1 group-title="美國台",NBC News Now_
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV39.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png" group-title="美國台",KDFW-DT1
@@ -7234,6 +7241,8 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV40.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV36.m3u8
 #EXTINF:-1 group-title="印度台",NewsTamil 泰米爾語
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV46.m3u8
+#EXTINF:-1 group-title="印度台",Bollywood Classic 寶萊塢經典
+http://89.187.177.137:8081/BOLLYWOOD_CLASSIC/index.m3u8
 
 #EXTINF:-1 group-title="西班牙台",TV Galicia Europa
 http://europa-crtvg.flumotion.com/playlist.m3u8
@@ -7258,6 +7267,10 @@ https://dee7mwgg9dzvl.cloudfront.net/hls/uvagut/playlist.m3u8
 
 #EXTINF:-1 group-title="英國台",BBC WorldNews
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+#EXTINF:-1 group-title="英國台",BBC Home
+https://d1wxiaxdr51kqy.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-perrpizm3ap26-prod/playlist.m3u8
+#EXTINF:-1 group-title="英國台",BBC TWO
+http://41.205.93.154/BBCTWO/index.m3u8
 #EXTINF:-1 group-title="英國台",GBNews
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV33.m3u8
 
@@ -7401,4 +7414,39 @@ http://live-hls-web-aja.getaj.net/AJA/02.m3u8?zshijd
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 group-title="其他外國台",123 GO! Live
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV58.m3u8
+
+#EXTINF:-1 group-title="廣播電台", CNR中國之聲-1
+http://ngcdn001.cnr.cn/live/zgzs/index.m3u8
+#EXTINF:-1 group-title="廣播電台", CNR經濟之聲-2
+http://ngcdn002.cnr.cn/live/jjzs/index.m3u8
+#EXTINF:-1 group-title="廣播電台", CNR音樂之聲-3
+http://ngcdn003.cnr.cn/live/yyzs/index.m3u8
+#EXTINF:-1 group-title="廣播電台", CNR經典音樂廣播-4
+http://ngcdn004.cnr.cn/live/dszs/index.m3u8
+#EXTINF:-1 group-title="廣播電台", CNR台海之聲-5
+http://ngcdn005.cnr.cn/live/zhzs/index.m3u8
+#EXTINF:-1 group-title="廣播電台", CNR神州之聲-6
+http://ngcdn006.cnr.cn/live/szzs/index.m3u8
+#EXTINF:-1 group-title="廣播電台", CNR大灣區之聲-7
+http://ngcdn007.cnr.cn/live/hxzs/index.m3u8
+#EXTINF:-1 group-title="廣播電台", CNR民族之聲-8
+http://ngcdn009.cnr.cn/live/mzzs/index.m3u8
+#EXTINF:-1 group-title="廣播電台", CNR文藝之聲-9
+http://ngcdn010.cnr.cn/live/wyzs/index.m3u8
+#EXTINF:-1 group-title="廣播電台", CNR老年之聲-10
+http://ngcdn011.cnr.cn/live/lnzs/index.m3u8
+#EXTINF:-1 group-title="廣播電台", CNR藏語廣播-11
+http://ngcdn012.cnr.cn/live/zygb/index.m3u8
+#EXTINF:-1 group-title="廣播電台", CNR閱讀之聲-12
+http://ngcdn014.cnr.cn/live/ylgb/index.m3u8
+#EXTINF:-1 group-title="廣播電台", CNR維吾爾语廣播-13
+http://ngcdn013.cnr.cn/live/wygb/index.m3u8
+#EXTINF:-1 group-title="廣播電台", CNR香港之聲-14
+http://ngcdn008.cnr.cn/live/xgzs/index.m3u8
+#EXTINF:-1 group-title="廣播電台", CNR中國交通廣播-15
+http://ngcdn016.cnr.cn/live/gsgljtgb/index.m3u8
+#EXTINF:-1 group-title="廣播電台", CNR中國鄉村之聲-16
+http://ngcdn017.cnr.cn/live/xczs/index.m3u8
+#EXTINF:-1 group-title="廣播電台", CNR哈薩克語廣播-17
+http://ngcdn025.cnr.cn/live/hygb/index.m3u8
 
