@@ -7429,7 +7429,7 @@ http://ngcdn005.cnr.cn/live/zhzs/index.m3u8
 http://ngcdn006.cnr.cn/live/szzs/index.m3u8
 #EXTINF:-1 group-title="廣播電台", CNR大灣區之聲-7
 http://ngcdn007.cnr.cn/live/hxzs/index.m3u8
-#EXTINF:-1 group-title="廣播電台", CNR民族之聲-8
+#EXTINF:-1 group-title="廣播電台", CNR民族之聲-8（蒙古語、朝鮮語）
 http://ngcdn009.cnr.cn/live/mzzs/index.m3u8
 #EXTINF:-1 group-title="廣播電台", CNR文藝之聲-9
 http://ngcdn010.cnr.cn/live/wyzs/index.m3u8
