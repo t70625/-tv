@@ -1675,6 +1675,8 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV23.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
 #EXTINF:-1 group-title="台灣台",中視新聞
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
+#EXTINF:-1 group-title="台灣台",中視
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV71.m3u8
 #EXTINF:-1 group-title="台灣台",中視 標清
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV42.m3u8
 #EXTINF:-1 group-title="台灣台",中視HD
@@ -1703,30 +1705,28 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV55.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV56.m3u8
 #EXTINF:-1 group-title="台灣台",國會議事轉播
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV57.m3u8
-
-#EXTINF:-1 group-title="台灣台",（測試1）日本逛街？
+#EXTINF:-1 group-title="台灣台",mnews鏡新聞
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
+#EXTINF:-1 group-title="台灣台",（測試1）動畫？
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV65.m3u8
+#EXTINF:-1 group-title="台灣台",（測試2）動畫？
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV66.m3u8
+#EXTINF:-1 group-title="台灣台",（測試3）DAVE&AVA動畫？
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV67.m3u8
+#EXTINF:-1 group-title="台灣台",（測試4）動畫？
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV68.m3u8
+#EXTINF:-1 group-title="台灣台",（測試6）日本逛街？
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV29.m3u8
-#EXTINF:-1 group-title="台灣台",（測試2）山頂直播？
+#EXTINF:-1 group-title="台灣台",（測試7）山頂直播？
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV45.m3u8
 
 
 
+
+
+
 #EXTINF:-1 group-title="台灣台",（測試1）
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV65.m3u8
-#EXTINF:-1 group-title="台灣台",（測試2）
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV66.m3u8
-#EXTINF:-1 group-title="台灣台",（測試3）
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV67.m3u8
-#EXTINF:-1 group-title="台灣台",（測試4）
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV68.m3u8
-#EXTINF:-1 group-title="台灣台",（測試5）
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV69.m3u8
-#EXTINF:-1 group-title="台灣台",（測試6）
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
-#EXTINF:-1 group-title="台灣台",（測試7）
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV71.m3u8
-#EXTINF:-1 group-title="台灣台",（測試8）
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV72.m3u8
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV73.m3u8
 
 
 
