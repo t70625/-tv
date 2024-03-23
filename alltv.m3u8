@@ -1655,6 +1655,8 @@ http://220.161.87.62:8090/hls/0/index.m3u8?zfud
 http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
 #EXTINF:-1 group-title="台灣台" tvg-logo="https://cn.itver.cc/wp-content/uploads/2015/03/TVBS-NEWS.jpg",TVBS新闻台2通道
 http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8
+#EXTINF:-1 group-title="台灣台" tvg-logo="https://cn.itver.cc/wp-content/uploads/2015/03/TVBS-NEWS.jpg",TVBS NEWS
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
 #EXTINF:-1 group-title="台灣台" tvg-logo="https://images.1111.com.tw/oad/70699320.jpg",TVBS亚洲
 http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 #EXTINF:-1 group-title="台灣台",中天新聞
@@ -1670,6 +1672,8 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV23.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
 #EXTINF:-1 group-title="台灣台",中視新聞
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
+#EXTINF:-1 group-title="台灣台",中視HD
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV34.m3u8
 #EXTINF:-1 group-title="台灣台",EF運通
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV06.m3u8
 #EXTINF:-1 group-title="台灣台",MOMO 1台
@@ -1678,37 +1682,49 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV04.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV05.m3u8
 #EXTINF:-1 group-title="台灣台",寰宇新聞台
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
+#EXTINF:-1 group-title="台灣台",寰宇新聞台
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV41.m3u8
 #EXTINF:-1 group-title="台灣台",信大電視台
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV07.m3u8
 #EXTINF:-1 group-title="台灣台",三立SET iNews
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
+#EXTINF:-1 group-title="台灣台",LIVE 三立
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
 #EXTINF:-1 group-title="台灣台",（測試9）
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV29.m3u8
 
 
 
 
-#EXTINF:-1 group-title="台灣台",（測試1）
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
-#EXTINF:-1 group-title="台灣台",（測試2）
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
-#EXTINF:-1 group-title="台灣台",（測試3）
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV33.m3u8
-#EXTINF:-1 group-title="台灣台",（測試4）
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV34.m3u8
-#EXTINF:-1 group-title="台灣台",（測試5）
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV35.m3u8
-#EXTINF:-1 group-title="台灣台",（測試6）
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV36.m3u8
-#EXTINF:-1 group-title="台灣台",（測試7）
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV37.m3u8
-#EXTINF:-1 group-title="台灣台",（測試8）
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV38.m3u8
-#EXTINF:-1 group-title="台灣台",（測試9）
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV39.m3u8
 
+
+
+
+
+
+
+#EXTINF:-1 group-title="台灣台",（測試1）
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV42.m3u8
+#EXTINF:-1 group-title="台灣台",（測試2）
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV43.m3u8
+#EXTINF:-1 group-title="台灣台",（測試3）
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV44.m3u8
+#EXTINF:-1 group-title="台灣台",（測試4）
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV45.m3u8
+#EXTINF:-1 group-title="台灣台",（測試5）
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV46.m3u8
+#EXTINF:-1 group-title="台灣台",（測試6）
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV47.m3u8
+#EXTINF:-1 group-title="台灣台",（測試7）
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV48.m3u8
+#EXTINF:-1 group-title="台灣台",（測試8）
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV49.m3u8
+#EXTINF:-1 group-title="台灣台",（測試9）
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV50.m3u8
+#EXTINF:-1 group-title="台灣台",（測試10）
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV51.m3u8
 #EXTINF:-1 group-title="台灣台",（測試11）
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV41.m3u8
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV52.m3u8
 
 
 #EXTINF:-1 group-title="台灣台"  tvg-logo="https://newsforchinese.com/v3/wp-content/uploads/2014/11/ettv-600x377.jpg",東森美洲衛視
@@ -4745,6 +4761,8 @@ https://stream.swagit.com/live-edge/houstontx/smil:hd-16x9-2-a/playlist.m3u8
 https://lnc-kcpq.tubi.video/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/73/MNTV-KCWX_Custom_Logo_7-3.png" group-title="美國台",KCWX-DT1
 http://65.36.6.216:1935/live/kcwx.smil/playlist.m3u8
+#EXTINF:-1 group-title="美國台",NBC News Now_
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV39.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png" group-title="美國台",KDFW-DT1
 https://lnc-kdfw.tubi.video/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CMANZWk.png" group-title="美國台",KERO-DT1
@@ -7155,6 +7173,8 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV11.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV10.m3u8
 #EXTINF:-1 group-title="印度台",NEWS 18
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV40.m3u8
+#EXTINF:-1 group-title="印度台",INDIA Today 孟加拉語
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV36.m3u8
 
 #EXTINF:-1 group-title="西班牙台",TV Galicia Europa
 http://europa-crtvg.flumotion.com/playlist.m3u8
@@ -7179,7 +7199,12 @@ https://dee7mwgg9dzvl.cloudfront.net/hls/uvagut/playlist.m3u8
 
 #EXTINF:-1 group-title="英國台",BBC WorldNews
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+#EXTINF:-1 group-title="英國台",GBNews
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV33.m3u8
 
+
+#EXTINF:-1 group-title="法國台",France 24
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV38.m3u8
 #EXTINF:-1 group-title="法國台",时尚
 http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
 
