@@ -218,12 +218,14 @@ http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 #EXTINF:-1 group-title="香港台" tvg-logo="https://live.fanmingming.com/tv/香港卫视.png",香港 香港卫视文旅台-6
 https://myun-hw-s3.myun.tv/melj80jz/lxx27bol/1551285536499984128.m3u8
-#EXTINF:-1 group-title="香港台" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png",鳳凰衛視中文台
+#EXTINF:-1 group-title="香港台" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png",鳳凰衛視中文台HD
 https://edge2.laotv.la/live/PhxChinese/index.m3u8
-#EXTINF:-1 group-title="香港台" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png",鳳凰衛視中文台
+#EXTINF:-1 group-title="香港台" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png",鳳凰衛視中文台HD（2）
 http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
-#EXTINF:-1 group-title="香港台" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png",鳳凰衛視資訊台
+#EXTINF:-1 group-title="香港台" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png",鳳凰衛視資訊台HD
 https://edge1.laotv.la/live/PhoenixNews/index.m3u8
+#EXTINF:-1 group-title="香港台" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png",鳳凰衛視資訊台HD（2）
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV43.m3u8
 #EXTINF:-1 group-title="香港台" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png",鳳凰衛視香港台（暫無）
 http://php.17186.eu.org/phtv/fhhk.m3u8
 #EXTINF:-1 group-title="香港台" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视电影台.png",鳳凰衛視電影台
@@ -1509,7 +1511,6 @@ http://stream.hmgbtv.com/hm1/hd/live.m3u8
 http://stream.hmgbtv.com/hm2/hd/live.m3u8
 #EXTINF:-1 group-title="新疆台" tvg-logo="http://tv.haoqu99.com/d/file/2018/0319/small73d2ebff4a113299ffc3b5d69c92cef71521440638.jpg",哈密电视台3套
 http://stream.hmgbtv.com/hm3/hd/live.m3u8
-
 #EXTINF:-1 group-title="新疆台", 兵团八师石河子新闻综合
 http://124.88.144.73:1935/live/xwzh/playlist.m3u8?zxinjd
 #EXTINF:-1 group-title="新疆台", 兵团八师石河子教育
@@ -1659,8 +1660,10 @@ http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
 #EXTINF:-1 group-title="台灣台" tvg-logo="https://images.1111.com.tw/oad/70699320.jpg",TVBS亚洲
 http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
-#EXTINF:-1 group-title="台灣台",中天新聞
+#EXTINF:-1 group-title="台灣台",中天新聞1台
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
+#EXTINF:-1 group-title="台灣台",中天新聞2台
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV49.m3u8
 #EXTINF:-1 group-title="台灣台",中天亚洲
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV13.m3u8
 #EXTINF:-1 group-title="台灣台",中華電視公司
@@ -1672,6 +1675,8 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV23.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
 #EXTINF:-1 group-title="台灣台",中視新聞
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
+#EXTINF:-1 group-title="台灣台",中視 標清
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV42.m3u8
 #EXTINF:-1 group-title="台灣台",中視HD
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV34.m3u8
 #EXTINF:-1 group-title="台灣台",EF運通
@@ -1690,9 +1695,10 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV07.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
 #EXTINF:-1 group-title="台灣台",LIVE 三立
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
-#EXTINF:-1 group-title="台灣台",（測試9）
+#EXTINF:-1 group-title="台灣台",（測試1）日本逛街？
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV29.m3u8
-
+#EXTINF:-1 group-title="台灣台",（測試2）山頂直播？
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV45.m3u8
 
 
 
@@ -1704,27 +1710,32 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV29.m3u8
 
 
 #EXTINF:-1 group-title="台灣台",（測試1）
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV42.m3u8
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV53.m3u8
 #EXTINF:-1 group-title="台灣台",（測試2）
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV43.m3u8
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV54.m3u8
 #EXTINF:-1 group-title="台灣台",（測試3）
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV44.m3u8
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV55.m3u8
 #EXTINF:-1 group-title="台灣台",（測試4）
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV45.m3u8
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV56.m3u8
 #EXTINF:-1 group-title="台灣台",（測試5）
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV46.m3u8
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV57.m3u8
 #EXTINF:-1 group-title="台灣台",（測試6）
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV47.m3u8
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV58.m3u8
 #EXTINF:-1 group-title="台灣台",（測試7）
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV48.m3u8
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV59.m3u8
 #EXTINF:-1 group-title="台灣台",（測試8）
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV49.m3u8
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV60.m3u8
 #EXTINF:-1 group-title="台灣台",（測試9）
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV50.m3u8
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV61.m3u8
 #EXTINF:-1 group-title="台灣台",（測試10）
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV51.m3u8
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV62.m3u8
 #EXTINF:-1 group-title="台灣台",（測試11）
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV52.m3u8
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV63.m3u8
+#EXTINF:-1 group-title="台灣台",（測試12）
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV64.m3u8
+
+
+
 
 
 #EXTINF:-1 group-title="台灣台"  tvg-logo="https://newsforchinese.com/v3/wp-content/uploads/2014/11/ettv-600x377.jpg",東森美洲衛視
@@ -1741,12 +1752,14 @@ http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
 http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
 #EXTINF:-1 group-title="台灣台" tvg-logo="https://bkimg.cdn.bcebos.com/pic/79f0f736afc37931dc18abc5e0c4b74542a911ed",台视新闻台
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
-#EXTINF:-1 group-title="台灣台",大爱1台
+#EXTINF:-1 group-title="台灣台",大愛1台
 https://pulltv1.wanfudaluye.com/live/tv1.m3u8
-#EXTINF:-1 group-title="台灣台",大爱1台
+#EXTINF:-1 group-title="台灣台",大愛1台（2）
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV30.m3u8
-#EXTINF:-1 group-title="台灣台",大爱2台
+#EXTINF:-1 group-title="台灣台",大愛2台
 https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+#EXTINF:-1 group-title="台灣台",大愛2台（2）
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV47.m3u8
 #EXTINF:-1 group-title="台灣台",大立電視台
 http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 #EXTINF:-1 group-title="台灣台",人间卫视
@@ -3831,6 +3844,8 @@ https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u
 https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 #EXTINF:-1 group-title="日本台",全日本新聞網ANN NEWS
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV15.m3u8
+#EXTINF:-1 group-title="日本台",全日本新聞網ANN NEWS（2）
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV48.m3u8
 #EXTINF:-1 group-title="日本台",QVCジャパン QVC Japan（1通道）
 https://list.iptvcat.com/my_list/s/5b57b55e9bec5390ee0075e92ba6f525.m3u8
 #EXTINF:-1 group-title="日本台",QVCジャパン QVC Japan（2通道）
@@ -3941,31 +3956,33 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs20&checkedb
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx04&checkedby:iptvcat.com
 
 
-#EXTINF:-1 group-title="韓國台",韩国-BBS佛教广播
+#EXTINF:-1 group-title="韓國台",韓國-BBS佛教广播
 http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1216149699.m3u8
-#EXTINF:-1 group-title="韓國台",韩国 EBS第一频道
+#EXTINF:-1 group-title="韓國台",韓國 EBS第一频道
 http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/groundwavetablet500k.m3u8
-#EXTINF:-1 group-title="韓國台",韩国 EBS第二频道
+#EXTINF:-1 group-title="韓國台",韓國 EBS第二频道
 http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8
-#EXTINF:-1 group-title="韓國台",韩国 EBS儿童频道
+#EXTINF:-1 group-title="韓國台",韓國 EBS儿童频道
 http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8
-#EXTINF:-1 group-title="韓國台",韩国 EBS加一频道
+#EXTINF:-1 group-title="韓國台",韓國 EBS加一频道
 http://ebsonairios.ebs.co.kr/plus1tablet500k/tablet500k/plus1tablet500k.index.m3u8
-#EXTINF:-1 group-title="韓國台",韩国 EBS加二频道
+#EXTINF:-1 group-title="韓國台",韓國 EBS加二频道
 http://ebsonairios.ebs.co.kr/plus2tablet500k/tablet500k/plus2tablet500k.index.m3u8
-#EXTINF:-1 group-title="韓國台",韩国KBC SBS综艺
+#EXTINF:-1 group-title="韓國台",韓國KBC SBS综艺
 http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
 #EXTINF:-1 group-title="韓國台",韓國 MBC
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV16.m3u8
-#EXTINF:-1 group-title="韓國台",韩国 阿里郎1 Korea : arirang 1
+#EXTINF:-1 group-title="韓國台",韓國 阿里郎
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV51.m3u8  
+#EXTINF:-1 group-title="韓國台",韓國 阿里郎1 Korea : arirang 1
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/.m3u8
-#EXTINF:-1 group-title="韓國台",韩国 阿里郎3音樂 Korea : arirang 3
+#EXTINF:-1 group-title="韓國台",韓國 阿里郎3音樂 Korea : arirang 3
 http://amdlive.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/.m3u8
-#EXTINF:-1 group-title="韓國台",韩国 NBS农业广播
+#EXTINF:-1 group-title="韓國台",韓國 NBS农业广播
 https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
-#EXTINF:-1 group-title="韓國台",韩国 SBS CJB
+#EXTINF:-1 group-title="韓國台",韓國 SBS CJB
 http://1.222.207.80:1935/live/cjbtv/chunklist_w1357270949.m3u8
-#EXTINF:-1 group-title="韓國台",韩国 TJB SBS综艺
+#EXTINF:-1 group-title="韓國台",韓國 TJB SBS综艺
 http://1.245.74.5:1935/live/tv/.m3u8
 #EXTINF:-1 group-title="韓國台",KCTV 광주光州 05頻道（1通道）
 http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
@@ -3990,13 +4007,13 @@ http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
 https://tv.nknews.org/tvdash/stream.mpd
 
 
-#EXTINF:-1 group-title="新加坡" tvg-logo="https://i.imgur.com/xWglicB.png",新加坡 国际亞洲新聞
+#EXTINF:-1 group-title="新加坡台" tvg-logo="https://i.imgur.com/xWglicB.png",新加坡 国际亞洲新聞
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
-#EXTINF:-1 group-title="新加坡" tvg-logo="https://i.imgur.com/xWglicB.png",新加坡 国际亞洲新聞
+#EXTINF:-1 group-title="新加坡台" tvg-logo="https://i.imgur.com/xWglicB.png",新加坡 国际亞洲新聞
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-#EXTINF:-1 group-title="新加坡" tvg-logo="https://i.imgur.com/xWglicB.png",新加坡 国际亞洲新聞
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-#EXTINF:-1 group-title="新加坡" tvg-logo="https://i.imgur.com/ciTJrnl.png" ,ZooMoo  兒童台
+#EXTINF:-1 group-title="新加坡台" tvg-logo="https://i.imgur.com/xWglicB.png",亚洲新闻台
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV52.m3u8
+#EXTINF:-1 group-title="新加坡台" tvg-logo="https://i.imgur.com/ciTJrnl.png" ,ZooMoo  兒童台
 https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
 
 
@@ -7169,12 +7186,18 @@ https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8
 #EXTINF:-1 group-title="印度台",Asianet News 馬拉雅拉姆語
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV11.m3u8
+#EXTINF:-1 group-title="印度台",MEDIA ONE 馬拉雅拉姆語
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV44.m3u8
+#EXTINF:-1 group-title="印度台",24 Twenty Four HD 馬拉雅拉姆語
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV50.m3u8
 #EXTINF:-1 group-title="印度台",Malai Murasu மாலை முரசு செய்திகள் 泰米爾語
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV10.m3u8
 #EXTINF:-1 group-title="印度台",NEWS 18
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV40.m3u8
 #EXTINF:-1 group-title="印度台",INDIA Today 孟加拉語
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV36.m3u8
+#EXTINF:-1 group-title="印度台",NewsTamil 泰米爾語
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV46.m3u8
 
 #EXTINF:-1 group-title="西班牙台",TV Galicia Europa
 http://europa-crtvg.flumotion.com/playlist.m3u8
