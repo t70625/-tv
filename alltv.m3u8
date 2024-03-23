@@ -7466,6 +7466,14 @@ https://prd-hometv-live-open.spectar.tv/ERO_1_083/playlist.m3u8
 https://rtvbn.tv:8080/live/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9NgxOdb.png" group-title="波黑台",RTV Glas Drine
 http://glasdrine.cutuk.net:8081/433ssdsw/GlasDrineSD/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/V6W3yEp.png" group-title="波黑台",Sevdah Ⓢ
+https://restreamer2.tnt.ba/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/znpvJys.png" group-title="波黑台",Televizija 5
+https://balkanmedia.dynu.net/hls/tv5web.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XYWgd3E.png" group-title="波黑台",SuperTV
+https://mirtv.club/live/mirtv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TKUaflB.png" group-title="波黑台",RTV ZE Ⓢ
+https://stream.rtvze.ba/live/123/123.m3u8
 
 
 #EXTINF:-1 group-title="捷克台",Retro (Opt-1)
@@ -7529,6 +7537,29 @@ http://streaming03.zas.media:1935/redemaoamiga/redemaoamiga/live.m3u8
 
 #EXTINF:-1 group-title="巴西台",RedeMãoAmiga(720p)
 http://cdn.vms.grupoz.cl/lapintanatv/content/5a7c8e25e19d3e641aca9fb2/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wULpnYR.png" group-title="巴西台",ALL Sports Brasil【體育】
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo.png" group-title="巴西台",SBT Ⓢ
+http://wz4.dnip.com.br/bemtv/bemtv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/60/Logo_AgroBrasilTV.jpg" group-title="巴西台",AgroBrasil TV
+http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/d9/Logo-futura-horizontal.png" group-title="巴西台",Futura
+https://tv.unisc.br/hls/test.m3u8
+#EXTINF:-1 tvg-logo="https://portal.rbc1.com.br/public/portal/img/layout/logorbc.png" group-title="巴西台",RBC
+http://rbc.directradios.com:1935/rbc/rbc/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fuuv2uP.jpg" tvg-id="AnimeTV.br" group-title="巴西台",Anime TV
+https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/b5/Logotipo_da_ISTV.png" group-title="巴西台",ISTV
+https://stmv1.srvstm.com/sistema7933/sistema7933/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UpV2PRk.png" tvg-id="TVCamara.br" group-title="巴西台",TV Câmara
+https://stream3.camara.gov.br/tv1/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Logotipo_da_TVE_RS.png" group-title="巴西台",TVE RS
+http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vxaSn1K.png" group-title="冰島台",RÚV【體育】
+https://ruv-web-live.akamaized.net/streymi/ruverl/ruverl.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yDKRuXQ.png" group-title="冰島台",RÚV 2
+https://ruvlive.akamaized.net/out/v1/2ff7673de40f419fa5164498fae89089/index.m3u8
 
 #EXTINF:-1 group-title="拉脫維亞台",TV Net
 http://player.tvnet.lv/stream/amlst:61659/chunklist_w1822312625_b528000_pd892000.m3u8
@@ -7550,6 +7581,46 @@ http://live.cretetv.gr:1935/cretetv/myStream/f1tv.m3u8
 
 #EXTINF:-1 group-title="匈牙利台",Hegyvidek Tv 布達佩斯
 http://tv.hegyvidek.hu/stream_mpeg.flv
+#EXTINF:-1 tvg-logo="https://onlinestream.live/logos/4740.png" group-title="匈牙利台",Hír TV
+https://onlinestream.live/play.m3u?id=4740&ext=.m3u
+#EXTINF:-1 tvg-logo="https://www.apostoltv.hu/images/header-logo.png" group-title="匈牙利台",Apostol TV
+https://live.apostoltv.hu/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ip8L5Vt.jpg" group-title="匈牙利台",Balaton TV
+https://stream.iptvservice.eu/hls/balatontv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vraAfd7.png" group-title="匈牙利台",Hatoscsatorna
+rtmp://lpmedia.hu:1935/Hatoscsatorna/livestream
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5cOpdRp.jpg" group-title="匈牙利台",Ózdi Városi TV
+https://stream.unrealhosting.hu:443/hls/ozdtv/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iD5tCjX.png" group-title="匈牙利台",Pannon RTV
+https://stream.unrealhosting.hu:443/hls/pannonrtv/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/G9Ib5K3.png" group-title="匈牙利台",TV7 Bekescsaba
+https://stream.y5.hu/stream/stream_bekescsaba/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7ZPYJJ0.jpg" group-title="匈牙利台",VTV Füzesabony
+https://stream.unrealhosting.hu:443/hls/ftv/live.m3u8
+#EXTINF:-1 tvg-logo="https://hegyvidektv.hu/wp-content/uploads/2020/08/hegyvidek.jpg" group-title="匈牙利台",Hegyvidék TV
+https://tv.hegyvidek.hu/hvtv/hvstream.m3u8
+#EXTINF:-1 tvg-logo="https://www.citytv.hu/images/logo.png" group-title="匈牙利台",CityTV (Belváros Lipótváros)
+https://citytv.hu/media/live/stream.m3u8
+#EXTINF:-1 tvg-logo="http://www.dealood.com/content/uploads/images/March2019/5c9721a07ea87-images-large.png" group-title="匈牙利台",AlföldTV
+https://cloudfront41.lexanetwork.com:1344/relay01/livestream006.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RHgaPCk.png" group-title="匈牙利台",Gyöngyös TV
+https://cloudfront41.lexanetwork.com:1344/relay02/livestream005.sdp/playlist.m3u8?key=hkNHP
+#EXTINF:-1 tvg-logo="https://www.halomtv.hu/sites/all/themes/gfx_zen/logo.png" group-title="匈牙利台",Halom TV
+rtmp://212.92.13.108/live/livestream1
+#EXTINF:-1 tvg-logo="https://kecskemetitv.hu/templates/kecskemetitv/img/ktv_logo.png" group-title="匈牙利台",Kecskemét TV
+https://eurobioinvest.hu:444/live/ktv.m3u8
+#EXTINF:-1 tvg-logo="https://kincsempark.hu/wp-content/uploads/2016/11/fejlec_logo_f-1.png" group-title="匈牙利台",Lóverseny közvetítés
+https://cloudfront41.lexanetwork.com:1344/xrelay/loverseny2.sdp/playlist.m3u8
+#EXTINF:-1 tvg-name="DTV" tvg-logo="https://i.imgur.com/YSpqmSO.png" group-title="匈牙利台",DTV
+http://cloudfront44.lexanetwork.com:1732/hlsrelay003/hls/livestream.sdp.m3u8
+#EXTINF:-1 tvg-name="Bajai TV" tvg-logo="https://i.imgur.com/cyReGWh.png" group-title="匈牙利台",Bajai TV
+https://cloudfront41.lexanetwork.com:1344/relay01/livestream002.sdp/playlist.m3u8
+#EXTINF:-1 tvg-name="TV Eger" tvg-logo="https://i.imgur.com/GUVW073.png" group-title="匈牙利台",TV Eger
+http://stream.tveger.hu:8010/live.m3u8
+#EXTINF:-1 tvg-name="Miskolc TV" tvg-logo="https://i.imgur.com/IoiNus2.png" group-title="匈牙利台",Miskolc TV
+https://video.mhzrt.hu/live/mitv/playlist.m3u8
+#EXTINF:-1 tvg-name="Oroszlányi Városi Televízió" tvg-logo="https://i.imgur.com/P0fxUH5.png" group-title="匈牙利台",Oroszlányi Városi Televízió
+https://cloudfront44.lexanetwork.com:1344/relay01/broadcast002.sdp/playlist.m3u8
 
 #EXTINF:-1 group-title="伊朗台",PBC Tapesh TV
 http://iptv.tapesh.tv/tapesh/playlist.m3u8
@@ -7597,6 +7668,15 @@ https://live-hls-aje-ak.getaj.net/AJE/01.m3u8?zshijd
 https://live-hls-web-aje.getaj.net/AJE/02.m3u8?zshijdp
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/半岛新闻.png" group-title="卡塔爾台",半岛新闻台（阿拉伯語）
 http://live-hls-web-aja.getaj.net/AJA/02.m3u8?zshijd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/1/17/Reshet13Logo2022.svg/559px-Reshet13Logo2022.svg.png" group-title="以色列台",ערוץ 13
+https://d2xg1g9o5vns8m.cloudfront.net/out/v1/0855d703f7d5436fae6a9c7ce8ca5075/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Iq2Kb69.png" group-title="以色列台",ערוץ 14
+https://now14.g-mana.live/media/91517161-44ab-4e46-af70-e9fe26117d2e/mainManifest.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PEdXHSE.png" group-title="以色列台",The Shopping Channel
+https://shoppingil-rewriter.vidnt.com/index.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BcN8B3D.png" group-title="其他外國台",Red Bull TV 紅牛體育台
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
