@@ -1661,16 +1661,36 @@ http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
 #EXTINF:-1 group-title="台灣台",中天亚洲
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV13.m3u8
-
+#EXTINF:-1 group-title="台灣台",中華電視公司
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
 
 #EXTINF:-1 group-title="台灣台",（測試1）
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV27.m3u8
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV23.m3u8
 #EXTINF:-1 group-title="台灣台",（測試2）
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
 #EXTINF:-1 group-title="台灣台",（測試3）
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV21.m3u8
 #EXTINF:-1 group-title="台灣台",（測試4）
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV24.m3u8
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV20.m3u8
+#EXTINF:-1 group-title="台灣台",（測試5）
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV19.m3u8
+#EXTINF:-1 group-title="台灣台",（測試6）
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV18.m3u8
+#EXTINF:-1 group-title="台灣台",（測試7）
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV16.m3u8
+#EXTINF:-1 group-title="台灣台",（測試8）
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV15.m3u8
+#EXTINF:-1 group-title="台灣台",（測試9）
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV14.m3u8
+#EXTINF:-1 group-title="台灣台",（測試10）
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
+#EXTINF:-1 group-title="台灣台",（測試11）
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV11.m3u8
+#EXTINF:-1 group-title="台灣台",（測試12）
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV10.m3u8
+#EXTINF:-1 group-title="台灣台",（測試13）
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
+
 
 #EXTINF:-1 group-title="台灣台"  tvg-logo="https://newsforchinese.com/v3/wp-content/uploads/2014/11/ettv-600x377.jpg",东森美洲卫视
 http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
@@ -1678,6 +1698,8 @@ http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
 http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
 #EXTINF:-1 group-title="台灣台" tvg-logo="https://bkimg.cdn.bcebos.com/pic/79f0f736afc37931dc18abc5e0c4b74542a911ed",台视新闻台
 http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
+#EXTINF:-1 group-title="台灣台" tvg-logo="https://bkimg.cdn.bcebos.com/pic/79f0f736afc37931dc18abc5e0c4b74542a911ed",台视新闻台
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
 #EXTINF:-1 group-title="台灣台",大爱1台
 https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 #EXTINF:-1 group-title="台灣台",大爱2台
@@ -4684,6 +4706,8 @@ http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
 
 
 #EXTM3U
+#EXTINF:-1 group-title="美國台",ABC NEWS
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV24.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zvj1boM.jpg" group-title="美國台",HTV 1 Houston Television
 https://stream.swagit.com/live-edge/houstontx/smil:hd-16x9-2-a/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/FOX_wordmark-red.svg/512px-FOX_wordmark-red.svg.png" group-title="美國台",KCPQ-DT1
