@@ -1689,9 +1689,26 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV29.m3u8
 
 
 #EXTINF:-1 group-title="台灣台",（測試1）
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV30.m3u8
-#EXTINF:-1 group-title="台灣台",（測試10）
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV40.m3u8
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
+#EXTINF:-1 group-title="台灣台",（測試2）
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
+#EXTINF:-1 group-title="台灣台",（測試3）
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV33.m3u8
+#EXTINF:-1 group-title="台灣台",（測試4）
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV34.m3u8
+#EXTINF:-1 group-title="台灣台",（測試5）
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV35.m3u8
+#EXTINF:-1 group-title="台灣台",（測試6）
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV36.m3u8
+#EXTINF:-1 group-title="台灣台",（測試7）
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV37.m3u8
+#EXTINF:-1 group-title="台灣台",（測試8）
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV38.m3u8
+#EXTINF:-1 group-title="台灣台",（測試9）
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV39.m3u8
+
+#EXTINF:-1 group-title="台灣台",（測試11）
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV41.m3u8
 
 
 #EXTINF:-1 group-title="台灣台"  tvg-logo="https://newsforchinese.com/v3/wp-content/uploads/2014/11/ettv-600x377.jpg",東森美洲衛視
@@ -1710,6 +1727,8 @@ http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
 #EXTINF:-1 group-title="台灣台",大爱1台
 https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+#EXTINF:-1 group-title="台灣台",大爱1台
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV30.m3u8
 #EXTINF:-1 group-title="台灣台",大爱2台
 https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 #EXTINF:-1 group-title="台灣台",大立電視台
@@ -7134,6 +7153,8 @@ https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV11.m3u8
 #EXTINF:-1 group-title="印度台",Malai Murasu மாலை முரசு செய்திகள் 泰米爾語
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV10.m3u8
+#EXTINF:-1 group-title="印度台",NEWS 18
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV40.m3u8
 
 #EXTINF:-1 group-title="西班牙台",TV Galicia Europa
 http://europa-crtvg.flumotion.com/playlist.m3u8
