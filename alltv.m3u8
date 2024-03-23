@@ -224,8 +224,10 @@ https://edge2.laotv.la/live/PhxChinese/index.m3u8
 http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
 #EXTINF:-1 group-title="香港台" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png",鳳凰衛視資訊台
 https://edge1.laotv.la/live/PhoenixNews/index.m3u8
-#EXTINF:-1 group-title="香港台" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png",鳳凰衛視香港台
+#EXTINF:-1 group-title="香港台" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png",鳳凰衛視香港台（暫無）
 http://php.17186.eu.org/phtv/fhhk.m3u8
+#EXTINF:-1 group-title="香港台" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视电影台.png",鳳凰衛視電影台
+http://121.24.99.177:8090/hls/62/index.m3u8
 #EXTINF:-1 logo="" group-title="香港台",华语电视2
 http://38.64.72.148:80/hls/modn/list/4002/chunklist0.m3u8
 #EXTINF:-1 logo="" group-title="香港台",华语电视3
@@ -240,8 +242,14 @@ https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPla
 https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPlaylist.m3u8
 #EXTINF:-1 group-title="香港台" tvg-logo="http://gbm.123tv.cn/uploadfile/2023/08-1691326645.jpg",香港 港台电视35
 https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
-#EXTINF:1 tvg-logo="https://live.fanmingming.com/tv/TVB翡翠台.png" group-title="香港台",TVB翡翠台
+#EXTINF:1 tvg-logo="https://live.fanmingming.com/tv/TVB翡翠台.png" group-title="香港台",TVB翡翠台（暫無）
 https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="香港台",TVB星河
+https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8
+#EXTINF:-1 group-title="香港台",TVB Live Show
+https://edge6a.v2h-cdn.com/liveshow/liveshow.stream/playlist.m3u8
+#EXTINF:-1 group-title="香港台",TVB娛樂新聞
+https://edge6a.v2h-cdn.com/enew/enew.stream/chunklist.m3u8
 #EXTINF:1 tvg-logo="https://i.imgur.com/jaIdkbz.png" group-title="香港台",HKIBC
 https://uc6.i-cable.com/live_freedirect/opentvhd002_h.live/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="香港台",香港 香港電台普通話台（廣播）
@@ -381,8 +389,20 @@ http://stream5.jlntv.cn/wq/sd/live.m3u8?zjild
 #EXTINF:-1 group-title="吉林台", 长白山电视台
 http://stream8.jlntv.cn/cbstv/sd/live.m3u8?zjild
  
-#EXTINF:-1 group-title="遼寧台" tvg-logo="https://live.fanmingming.com/tv/辽宁卫视.png",辽宁卫视
+#EXTINF:-1 group-title="遼寧台" tvg-logo="https://live.fanmingming.com/tv/辽宁卫视.png",遼寧衛視
 http://121.24.99.177:8090/hls/59/index.m3u8
+#EXTINF:-1 group-title="遼寧台" tvg-logo="https://live.fanmingming.com/tv/辽宁教育青少.png",遼寧教育青少
+http://fxgm.fxjf.work:19901/tsfile/live/1005_1.m3u8
+#EXTINF:-1 group-title="遼寧台" tvg-logo="https://live.fanmingming.com/tv/辽宁经济.png",遼寧經濟
+http://fxgm.fxjf.work:19901/tsfile/live/1008_1.m3u8
+#EXTINF:-1 group-title="遼寧台" tvg-logo="https://live.fanmingming.com/tv/辽宁生活.png",遼寧生活
+http://fxgm.fxjf.work:19901/tsfile/live/1004_1.m3u8
+#EXTINF:-1 group-title="遼寧台" tvg-logo="https://live.fanmingming.com/tv/辽宁体育.png",遼寧體育
+http://fxgm.fxjf.work:19901/tsfile/live/1003_1.m3u8
+#EXTINF:-1 group-title="遼寧台" tvg-logo="https://live.fanmingming.com/tv/辽宁移动电视.png",遼寧移動電視
+http://fxgm.fxjf.work:19901/tsfile/live/1009_1.m3u8
+#EXTINF:-1 group-title="遼寧台" tvg-logo="https://live.fanmingming.com/tv/辽宁影视剧.png",遼寧影視劇
+http://fxgm.fxjf.work:19901/tsfile/live/1001_1.m3u8
 #EXTINF:-1 group-title="遼寧台" tvg-logo="http://tv.haoqu99.com/d/file/2016/0621/20160621010441802.jpg",大连新闻综合频道
 http://live.dltv.cn/tcb3IB5/m67txb0.m3u8
 #EXTINF:-1 group-title="遼寧台" tvg-logo="http://tv.haoqu99.com/d/file/2016/0621/20160621010247354.jpg",大连生活频道
@@ -1543,6 +1563,10 @@ https://tv.vtibet.cn/live/gHxCmvaVjK68XL.m3u8?secret=041fec5f4908b96223f51a2308c
 
 #EXTINF:-1 group-title="廣東台" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png",广东卫视
 http://121.24.99.177:8090/hls/82/index.m3u8
+#EXTINF:-1 group-title="廣東台",广东文化
+https://glive.grtn.cn/live/wenhua_test0203.m3u8
+#EXTINF:-1 group-title="廣東台",广东嘉佳卡通
+http://121.24.99.177:8090/hls/52/index.m3u8
 #EXTINF:-1 group-title="廣東台",大湾区卫视 (南方卫视)
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226218/index.m3u8
 #EXTINF:-1 group-title="廣東台",大湾区卫视 (南方卫视)（荔枝網）
@@ -1655,9 +1679,21 @@ http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-
 http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-1.m3u8
 #EXTINF:-1 group-title="台灣台",番薯台
 http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8
+#EXTINF:-1 group-title="台灣台",DMAX-台灣
+http://198.16.100.90:8278/natgeohd_twn/playlist.m3u8?tid=ma1f0b9808d5014467661&ct=17874&tsum=73dfb91284f5b1358251546e6f03da3d
+#EXTINF:-1 group-title="台灣台",CINEMAX电影
+http://198.16.100.90:8278/cinemax_twn/playlist.m3u8?tid=MCEC1614519816145198&ct=19193&tsum=e635ddeeb683b5cbcda1319d0cc18f84
 
 #EXTINF:-1 group-title="海南台" tvg-logo="https://live.fanmingming.com/tv/海南卫视.png",海南卫视
 http://121.24.99.177:8090/hls/100/index.m3u8
+#EXTINF:-1 group-title="海南台" tvg-logo="https://live.fanmingming.com/tv/海南公共.png",海南公共
+https://live3.hnntv.cn/srs/tv/ggpd.m3u8
+#EXTINF:-1 group-title="海南台" tvg-logo="https://live.fanmingming.com/tv/海南文旅.png",海南文旅
+https://live3.hnntv.cn/srs/tv/wlpd.m3u8
+#EXTINF:-1 group-title="海南台" tvg-logo="https://live.fanmingming.com/tv/海南新闻.png",海南新闻
+https://live3.hnntv.cn/srs/tv/xwpd.m3u8
+#EXTINF:-1 group-title="海南台" tvg-logo="https://live.fanmingming.com/tv/海南自贸.png",海南自贸
+https://live3.hnntv.cn/srs/tv/jjpd.m3u8
 #EXTINF:-1 group-title="海南台" tvg-logo="https://live.fanmingming.com/tv/三沙卫视.png",三沙卫视
 https://pullsstv90080111.ssws.tv/live/SSTV20220729.m3u8
 #EXTINF:-1 group-title="海南台" tvg-logo="http://tv.haoqu99.com/d/file/2018/0201/smalla2ad1cf2b8f858b1d0b00c51fea1c2271517494297.jpg",海口一套综合频道
