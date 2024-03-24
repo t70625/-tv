@@ -1152,6 +1152,8 @@ http://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
 http://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 #EXTINF:-1 group-title="浙江台" tvg-logo="https://live.fanmingming.com/tv/浙江少儿.png",浙江少兒頻道 ZJTV-8
 http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+#EXTINF:-1 group-title="浙江台",浙江 ZJTV-9（目前无）
+http://ali-m-l.cztv.com/channels/lantian/channel009/1080p.m3u8
 #EXTINF:-1 group-title="浙江台" tvg-logo="https://live.fanmingming.com/tv/浙江数码时代.png",浙江数码时代 ZJTV-10
 http://ali-m-l.cztv.com/channels/lantian/channel009/1080p.m3u8
 #EXTINF:-1 group-title="浙江台" tvg-logo="https://live.fanmingming.com/tv/浙江国际.png",浙江國際 ZJTV-12
@@ -1471,32 +1473,30 @@ http://livecdn.dmqhyadmin.com/hls/xjmenyuan.m3u8?zqinghd
 #EXTINF:-1 group-title="青海台", 祁连综合
 http://livecdn.dmqhyadmin.com/hls/xjqilian.m3u8?zqinghd
 
-#EXTINF:-1 group-title="新疆台" tvg-logo="https://live.fanmingming.com/tv/新疆卫视.png",新疆卫视 XJTV-1（2通道）
+#EXTINF:-1 group-title="新疆台" tvg-logo="https://live.fanmingming.com/tv/新疆卫视.png",新疆卫视 XJTV-1
 http://106.124.91.222:9901/tsfile/live/21212_1.m3u8
-#EXTINF:-1 group-title="新疆台" tvg-logo="https://live.fanmingming.com/tv/新疆卫视.png",新疆衛視 XJTV-1（1通道）
-https://liveplay.xjbs.cn/liveback/xjtvs-01.m3u8?auth_key=1707092625-0-0-e4083ad62fb1c063b1a0e8a19bdc5595
 #EXTINF:-1 group-title="新疆台" tvg-logo="http://tv.haoqu99.com/d/file/2014/0713/20140713064947160.jpg",新疆維語新聞綜合頻道 XJTV-2
-https://liveplay.xjbs.cn/liveback/xjtvs-02.m3u8?auth_key=1707092625-0-0-c59b80d66730ffd72d9fc3aa1d7ae0ae
+http://office.gofaraway.top:888/udp/238.125.3.175:5140
 #EXTINF:-1 group-title="新疆台" tvg-logo="http://tv.haoqu99.com/d/file/2014/0713/20140713065458152.jpg",新疆哈語新聞綜合頻道 XJTV-3
-https://liveplay.xjbs.cn/liveback/xjtvs-03.m3u8?auth_key=1707092625-0-0-1fcefba4800b07320d94eb9093bdc37f
+http://office.gofaraway.top:888/udp/238.125.7.147:5140
 #EXTINF:-1 group-title="新疆台" tvg-logo="http://tv.haoqu99.com/d/file/2014/0713/20140713065752514.jpg",新疆漢語綜藝頻道 XJTV-4
 https://liveplay.xjbs.cn/liveback/xjtvs-04.m3u8?auth_key=1707092625-0-0-1aa2ee4c6bc9c2e88979f2b7f7505ccf
 #EXTINF:-1 group-title="新疆台" tvg-logo="http://tv.haoqu99.com/d/file/2014/0713/20140713070123950.jpg",新疆維語綜藝頻道 XJTV-5
-https://liveplay.xjbs.cn/liveback/xjtvs-05.m3u8?auth_key=1707092625-0-0-dea256681f5ba27ebb1501a434ce1e93
+http://office.gofaraway.top:888/udp/238.125.7.149:5140
 #EXTINF:-1 group-title="新疆台" tvg-logo="http://tv.haoqu99.com/d/file/2016/1102/6db4ee2eb393df62415a721638300c77.jpg",新疆影視頻道 XJTV-6
 http://202.107.188.218:5002/xj6_hdcq-1.m3u8?token=guoziyun
 #EXTINF:-1 group-title="新疆台" tvg-logo="http://tv.haoqu99.com/d/file/2014/0713/20140713071321683.jpg",新疆漢語經濟生活頻道 XJTV-7
 https://liveplay.xjbs.cn/liveback/xjtvs-07.m3u8?auth_key=1707092625-0-0-1ff795b7e61c40711b288beaacfd6231
 #EXTINF:-1 group-title="新疆台" tvg-logo="http://tv.haoqu99.com/d/file/2014/0713/20140713070928395.jpg",新疆哈語綜藝頻道 XJTV-8
-https://liveplay.xjbs.cn/liveback/xjtvs-08.m3u8?auth_key=1707092625-0-0-1d825f824dfa3cfefdeceb82b78b0100
+http://office.gofaraway.top:888/udp/238.125.3.181:5140
 #EXTINF:-1 group-title="新疆台" tvg-logo="http://tv.haoqu99.com/d/file/2014/0713/20140713072603636.jpg",新疆維語經濟生活頻道 XJTV-9
-https://liveplay.xjbs.cn/liveback/xjtvs-09.m3u8?auth_key=1707092625-0-0-c26100b2eb3cb5bcd2751b6f95ac993a
+http://office.gofaraway.top:888/udp/238.125.7.153:5140
 #EXTINF:-1 group-title="新疆台" tvg-logo="http://tv.haoqu99.com/d/file/2014/0713/20140713073250649.jpg",新疆漢語體育健康頻道 XJTV-10
 https://liveplay.xjbs.cn/liveback/xjtvs-10.m3u8?auth_key=1707092625-0-0-d0b62ef2e48a3bc4098c76e564644b72
 #EXTINF:-1 group-title="新疆台" tvg-logo="http://tv.haoqu99.com/d/file/2014/0713/20140713073405659.jpg",新疆漢語信息服務頻道 XJTV-11
 https://liveplay.xjbs.cn/liveback/xjtvs-11.m3u8?auth_key=1707092625-0-0-69823fb867227b68661bf5404b3fa079
 #EXTINF:-1 group-title="新疆台" tvg-logo="http://tv.haoqu99.com/d/file/2014/0713/20140713073553461.jpg",新疆少兒頻道 XJTV-12
-https://liveplay.xjbs.cn/liveback/xjtvs-12.m3u8?auth_key=1707092625-0-0-44c365262e9d6af70e27c0894cfb3dd2
+http://office.gofaraway.top:888/udp/238.125.3.185:5140
 #EXTINF:-1 group-title="新疆台" tvg-logo="https://live.fanmingming.com/tv/兵团卫视.png",兵团卫视
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226214/index.m3u8
 #EXTINF:-1 group-title="新疆台" tvg-logo="http://tv.haoqu99.com/d/file/2016/1103/b5ee4daff5efe60abe5f459aba37ebd7.gif",烏魯木齊綜合 UTV-1
@@ -1559,7 +1559,7 @@ http://117.190.130.4:8081/out_1/index.m3u8?zxinjd
 #EXTINF:-1 group-title="西藏台" tvg-logo="https://live.fanmingming.com/tv/西藏卫视.png",西藏卫视HD XZTV-1
 http://113.12.72.152:9901/tsfile/live/1035_1.m3u8
 #EXTINF:-1 group-title="西藏台" tvg-logo="https://live.fanmingming.com/tv/西藏藏语卫视.png",西藏藏語 XZTV-2
-http://media.vtibet.com/masvod/HLSLive/7/zangyuTV_q1.m3u8
+http://office.gofaraway.top:888/udp/238.125.7.94:5140
 #EXTINF:-1 group-title="西藏台" tvg-logo="http://tv.haoqu99.com/d/file/2023/0415/small02fd18d73ba4f529f5723c1dffee6e421681538391.jpg",西藏影视文化频道
 https://tv.vtibet.cn/live/gHxCmvaVjK68XL.m3u8?secret=041fec5f4908b96223f51a2308c20bc1&time=65b49c27
 
