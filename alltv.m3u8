@@ -4118,8 +4118,6 @@ http://212.2.225.30:1935/live/site.stream/playlist.m3u8?checkedby:iptvcat.com
 http://176.126.166.43:1935/live/312kino/playlist.m3u8
 #EXTINF:-1 group-title="吉爾吉斯台",312 ТВ
 http://176.126.166.43:1935/live/312musik/playlist.m3u8
-#EXTINF:-1 group-title="吉爾吉斯台",Next TV
-http://gohoski.fvds.ru:3000/mediabay/601/playlist.m3u8
 #EXTINF:-1 group-title="吉爾吉斯台",УТРК
 https://st2.mediabay.tv/KG_KTRK-UTRK/index.m3u8
 #EXTINF:-1 group-title="吉爾吉斯台",УТРК Ала-Тоо 24
@@ -4132,14 +4130,7 @@ https://st2.mediabay.tv/KG_KTRK-Madaniyat/playlist.m3u8
 https://st2.mediabay.tv/KG_KTRK-Muzika/index.m3u8
 #EXTINF:-1 group-title="吉爾吉斯台",УТРК Спорт【體育】
 https://st2.mediabay.tv/KG_KTRK-Sport/index.m3u8
-#EXTINF:-1 group-title="吉爾吉斯台",ЭлТР
-http://gohoski.fvds.ru:3000/mediabay/162/index.m3u8
-#EXTINF:-1 group-title="吉爾吉斯台",ЭлТР Билим Илим
-http://gohoski.fvds.ru:3000/mediabay/611/index.m3u8
-#EXTINF:-1 group-title="吉爾吉斯台",Ош Пирим
-http://gohoski.fvds.ru:3000/mediabay/697/playlist.m3u8
-#EXTINF:-1 group-title="吉爾吉斯台",TV15
-http://gohoski.fvds.ru:3000/mediabay/655/playlist.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://acra.gov.az/storage/493/348364.jpg" group-title="阿塞拜疆台",麥麩頻道 Kəpəz TV
@@ -4156,11 +4147,6 @@ https://stream.cbctv.az:5443/LiveApp/streams/cbctv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/M%C9%99d%C9%99niyy%C9%99t_TV_logo.png" group-title="阿塞拜疆台",Mədəniyyət TV Ⓢ
 https://str.yodacdn.net/medeniyyet/index.m3u8
 
-
-#EXTINF:-1 tvg-country="PK" tvg-logo="https://www.alehsaan.tv/wp-content/uploads/2023/11/cropped-Untitled-design.png" group-title="巴基斯坦台",慈善電視台 Al Ehsaan TV
-https://cdn.bmstudiopk.com/alehsaan/live/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="PK" tvg-logo="https://i.imgur.com/IJH47fJ.png" group-title="巴基斯坦台",Discover Pakistan
-https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1 group-title="匈牙利台",Hegyvidek Tv 布達佩斯
 http://tv.hegyvidek.hu/stream_mpeg.flv
@@ -5223,6 +5209,11 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV36.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV46.m3u8
 #EXTINF:-1 group-title="印度台",Bollywood Classic 寶萊塢經典
 http://89.187.177.137:8081/BOLLYWOOD_CLASSIC/index.m3u8
+
+#EXTINF:-1 tvg-country="PK" tvg-logo="https://www.alehsaan.tv/wp-content/uploads/2023/11/cropped-Untitled-design.png" group-title="巴基斯坦台",慈善電視台 Al Ehsaan TV
+https://cdn.bmstudiopk.com/alehsaan/live/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PK" tvg-logo="https://i.imgur.com/IJH47fJ.png" group-title="巴基斯坦台",Discover Pakistan
+https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1 group-title="孟加拉國台",EkuseyTV
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
@@ -7676,9 +7667,6 @@ https://ruvlive.akamaized.net/out/v1/2ff7673de40f419fa5164498fae89089/index.m3u8
 
 
 
-#EXTINF:-1 group-title="喀麥隆台",Vision 4
-http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/vision4/hls_video/index.m3u8
-
 #EXTINF:-1 group-title="哥倫比亞台",TVGracia(720p)
 https://streamyes.alsolnet.com/tvgracia/live/playlist.m3u8
 
@@ -7783,24 +7771,31 @@ https://uni01rtmp.tulix.tv/kensecure/pjtv.stream/chunklist_w1355976606.m3u8
 #EXTINF:-1 group-title="伊朗台",BeitolAbbas TV Channel
 https://live.beitolabbas.tv/live/beitolabbastv.m3u8
 
+#EXTINF:-1 group-title="阿富汗台",Bahar TV (720p)
+https://59d39900ebfb8.streamlock.net/bahartv/bahartv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.arianatelevision.com/wp-content/uploads/2017/08/logo-atn-new.png" group-title="阿富汗台",Ariana TV
+https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/chunklist_w2121902183.m3u8
+#EXTINF:-1 tvg-logo="http://epiplay.com/wp-content/uploads/2019/01/atnnewslive-196x126.jpg" group-title="阿富汗台",Ariana News
+https://d10rltuy0iweup.cloudfront.net/ATNNEWS/myStream/chunklist_w796472816.m3u8
+
 #EXTINF:-1 group-title="伊拉克台",Al Sharqiya
 http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8
-#EXTINF:-1 group-title="伊拉克台",Sharqiya News
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4ecJLWk.png" group-title="伊拉克台", Al Sharqiya News
 http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
 #EXTINF:-1 group-title="伊拉克台",Dijlah
 http://91.134.145.75:10001/Dijlah/index.m3u8
 
-#EXTINF:-1 group-title="阿富汗台",Bahar TV (720p)
-https://59d39900ebfb8.streamlock.net/bahartv/bahartv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://vid.alarabiya.net/images/2016/04/01/db631092-83ba-4ee9-93a7-a83f017a93a9/db631092-83ba-4ee9-93a7-a83f017a93a9_16x9_788x442.jpg" group-title="沙特台", Al Arabiya
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-rokCKG5tCkY/Wws7jGYGULI/AAAAAAAATNU/v80fDLlCGJcN1TvkYVbP9gygG4UIqC7eQCLcBGAs/s1600/al_hadath_news_eg.png" group-title="沙特台", Al Hadath
+https://av.alarabiya.net/alarabiapublish/alhadath.smil/chunklist_b4500000.m3u8
+
 
 #EXTINF:-1 group-title="約旦台",JawharaFM(720p)
 http://streaming.toutech.net:1935/live/mp4:jawharafm.sdp/playlist.m3u8
 
 #EXTINF:-1 group-title="巴勒斯坦台",NablusTV 纳布卢斯官方电视频道
 http://htvmada.mada.ps:8888/nabluslive/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wnpe5i8.png" group-title="索馬里台",MM Somali TV
-https://cdn.mediavisionuk.com:9000/MMTV/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/H5Oi2NS.png" group-title="也門台",Shabab Channel
 https://master.starmena-cloud.com/hls/yemenshabab.m3u8
@@ -7809,6 +7804,12 @@ https://video.yementdy.tv/hls/yementoday.m3u8
 
 #EXTINF:-1 group-title="阿聯酋台",DUBAI ONE 迪拜1
 https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8
+#EXTINF:-1 tvg-logo="http://content.osn.com/logo/channel/cropped/SNA.png" group-title="阿聯酋台", Sky News Arabic
+https://stream.skynewsarabia.com/hls/sna_720.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/Abu_Dhabi_Al_Oula_logo.png" group-title="阿聯酋台", Abu Dhabi TV
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_aloula
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/de/Ad-drama.png" group-title="阿聯酋台", Abu Dhabi Drama
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_drama
 
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/半岛新闻.png" group-title="卡塔爾台",半岛新闻台（英語）（通道1）
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
@@ -7818,6 +7819,8 @@ https://live-hls-aje-ak.getaj.net/AJE/01.m3u8?zshijd
 https://live-hls-web-aje.getaj.net/AJE/02.m3u8?zshijdp
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/半岛新闻.png" group-title="卡塔爾台",半岛新闻台（阿拉伯語）
 http://live-hls-web-aja.getaj.net/AJA/02.m3u8?zshijd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Alaraby_TV_Logo.png/280px-Alaraby_TV_Logo.png" group-title="卡塔爾台", Al Araby 1
+https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/1/17/Reshet13Logo2022.svg/559px-Reshet13Logo2022.svg.png" group-title="以色列台",ערוץ 13
 https://d2xg1g9o5vns8m.cloudfront.net/out/v1/0855d703f7d5436fae6a9c7ce8ca5075/index.m3u8
@@ -7826,9 +7829,14 @@ https://now14.g-mana.live/media/91517161-44ab-4e46-af70-e9fe26117d2e/mainManifes
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PEdXHSE.png" group-title="以色列台",The Shopping Channel
 https://shoppingil-rewriter.vidnt.com/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wnpe5i8.png" group-title="索馬里台",MM Somali TV
+https://cdn.mediavisionuk.com:9000/MMTV/index.m3u8
+
+#EXTINF:-1 group-title="喀麥隆台",Vision 4
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/vision4/hls_video/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BcN8B3D.png" group-title="其他外國台",Red Bull TV 紅牛體育台
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BcN8B3D.png" group-title="其他外國台",Red Bull TV 紅牛體育台【體育】
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 group-title="其他外國台",123 GO! Live
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV58.m3u8
