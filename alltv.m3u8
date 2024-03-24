@@ -4038,23 +4038,145 @@ http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
 https://tv.nknews.org/tvdash/stream.mpd
 
 
-#EXTINF:-1 group-title="新加坡台" tvg-logo="https://i.imgur.com/xWglicB.png",新加坡 国际亞洲新聞
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
-#EXTINF:-1 group-title="新加坡台" tvg-logo="https://i.imgur.com/xWglicB.png",新加坡 国际亞洲新聞
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-#EXTINF:-1 group-title="新加坡台" tvg-logo="https://i.imgur.com/xWglicB.png",亚洲新闻台（1）
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV52.m3u8
-#EXTINF:-1 group-title="新加坡台" tvg-logo="https://i.imgur.com/xWglicB.png",亚洲新闻台（2）
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV84.m3u8
-#EXTINF:-1 group-title="新加坡台" tvg-logo="https://i.imgur.com/xWglicB.png",亚洲新闻台（3）
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 group-title="新加坡台" tvg-logo="https://i.imgur.com/ciTJrnl.png" ,ZooMoo  兒童台
-https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
+#EXTINF:-1 group-title="土耳其台",TRT WORLD
+https://tv-trtworld.live.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="土耳其台", Cay TV
+http://stream2.taksimbilisim.com:1935/caytv/bant1/CAYTV.m3u8
+#EXTINF:-1 group-title="土耳其台",土耳其新聞
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV21.m3u8
+#EXTINF:-1 group-title="土耳其台",IBBTV(1080p)
+http://wowza.istweb.tv:1935/webtv/webtv_wowza1/playlist.m3u8
+#EXTINF:-1 group-title="土耳其台",Semerkand TV
+https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/playlist.m3u8
+#EXTINF:-1 group-title="土耳其台",TGRT BELGESEL
+https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe462afc6a0e.smil/playlist.m3u8
+#EXTINF:-1 group-title="土耳其台",Berat TV (720p) [Not 24/7]
+http://cdn-berattv.yayin.com.tr/berattv/berattv/playlist.m3u8
+#EXTINF:-1 group-title="土耳其台",KANAL 33
+http://stream.taksimbilisim.com:1935/kanal33/bant1/playlist.m3u8
+#EXTINF:-1 group-title="土耳其台",TV 41 (270p)
+http://stream.taksimbilisim.com:1935/tv41/smil:tv41.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/H5kOQz5.png" group-title="土耳其台",ÜÜ TV 1 于斯屈達爾大學1
+https://uskudarunv.mediatriple.net/uskudarunv/uskudar1/playlist.m3u8
 
-#EXTINF:-1 group-title="馬來西亞台",8TV
-https://live-streams-ssai-01.tonton.com.my/live/a884c33b-6b11-4433-8bf9-a8899939e224/cmaf.isml/.m3u8
-#EXTINF:-1 group-title="馬來西亞台",astro AWANI
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV27.m3u8
+#EXTINF:-1 group-title="土庫曼斯坦台" tvg-logo="http://webtvonlive.com/wp-content/uploads/altyn_asyr_tv-webtvonlive-com.jpg" ,鎏金歲月台
+https://alpha.tv.online.tm/legacyhls/ch001_720/index.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="土庫曼斯坦台" tvg-logo="http://webtvonlive.com/wp-content/uploads/Yaslyk-webtvonlive-com.jpg" ,青年電視台
+https://alpha.tv.online.tm/legacyhls/ch002_720/index.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="土庫曼斯坦台" tvg-logo="http://webtvonlive.com/wp-content/uploads/Miras-webtvonlive-com.jpg" ,Altyn Asyr 遺產電視台
+https://alpha.tv.online.tm/legacyhls/ch003_720/index.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="土庫曼斯坦台",塞坦塔體育台【體育】
+http://217.174.225.146/hls/ch004_720/index.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="土庫曼斯坦台" tvg-logo="http://webtvonlive.com/wp-content/uploads/T%C3%BCrkmen-Owazy-webtvonlive-com.jpg",土庫曼之聲
+https://alpha.tv.online.tm/legacyhls/ch005_720/index.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="土庫曼斯坦台" tvg-logo="http://webtvonlive.com/wp-content/uploads/Asgabat-webtvonlive-com.jpg" ,Aşgabat 阿什哈巴德電視台
+https://alpha.tv.online.tm/legacyhls/ch006_720/index.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="http://tdh.gov.tm/static/logo/7.png" group-title="土庫曼斯坦台",土庫曼斯坦電視台
+http://alpha.tv.online.tm/hls/ch007_400/index.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="https://2017.catradeforum.org/wp-content/uploads/2017/09/atamekenlogo4.png" group-title="哈薩克斯坦台",哈薩克經濟商業台 Atameken Business
+http://live-atameken.cdnvideo.ru/atameken/atameken.sdp/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="https://mtrk.kz/wp-content/themes/mtrk/images/logo2023_25y.png" group-title="哈薩克斯坦台",北哈薩克新聞台 МТРК
+https://tvcdn01.oktv.kz/tv/mtrk/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/%D0%9C%D0%B8%D1%80_%D0%A2%D0%92_logo.svg" group-title="哈薩克斯坦台",和平電視台 МИР
+https://streaming.televizor-24-tochka.ru/live/22.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="哈薩克斯坦台",Abai TV
+https://abaitv-stream.qazcdn.com/abaitv/abaitv/playlist.m3u8
+#EXTINF:-1 group-title="哈薩克斯坦台",Atyraý (720p)
+https://stream.kaztrk.kz/regional/atyrautv/index.m3u8
+#EXTINF:-1 group-title="哈薩克斯坦台",Balapan TV
+https://balapantv-stream.qazcdn.com/balapantv/balapantv/playlist.m3u8
+#EXTINF:-1 group-title="哈薩克斯坦台",Ertis (1080p) 
+https://stream.kaztrk.kz/regional/pavlodartv/index.m3u8
+#EXTINF:-1 group-title="哈薩克斯坦台",Kókshe (720p)
+https://stream.kaztrk.kz/regional/kokshetautv/index.m3u8
+#EXTINF:-1 group-title="哈薩克斯坦台",Mańǵystaý (540p)
+https://stream.kaztrk.kz/regional/mangystautv/index.m3u8
+#EXTINF:-1 group-title="哈薩克斯坦台",Ontústik (360p)
+https://stream.kaztrk.kz/regional/shymkenttv/index.m3u8
+#EXTINF:-1 group-title="哈薩克斯坦台",Qazaqstan TV
+https://qazaqstantv-stream.qazcdn.com/qazaqstantv/qazaqstantv/playlist.m3u8
+#EXTINF:-1 group-title="哈薩克斯坦台",Qazaqstan TV International
+https://qazaqstantv-stream.qazcdn.com/international/international/playlist.m3u8
+#EXTINF:-1 group-title="哈薩克斯坦台",QazSport【體育】
+https://qazsporttv-stream.qazcdn.com/qazsporttv/qazsporttv/playlist.m3u8
+#EXTINF:-1 group-title="哈薩克斯坦台",Qostanai
+https://stream.kaztrk.kz/regional/kostanaytv/index.m3u8
+#EXTINF:-1 group-title="哈薩克斯坦台",Qyzyljar
+https://stream.kaztrk.kz/regional/petropavltv/index.m3u8
+#EXTINF:-1 group-title="哈薩克斯坦台",Qyzylorda
+https://stream.kaztrk.kz/regional/kyzylordatv/index.m3u8
+#EXTINF:-1 group-title="哈薩克斯坦台",Saryarqa
+https://stream.kaztrk.kz/regional/karagandytv/index.m3u8
+#EXTINF:-1 group-title="哈薩克斯坦台",Semeı
+https://stream.kaztrk.kz/regional/semeytv/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://tv1.kg/css/newmin/logotop.png" group-title="吉爾吉斯台",TV1 KG 比什凱克
+http://212.2.225.30:1935/live/site.stream/playlist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="https://acra.gov.az/storage/493/348364.jpg" group-title="阿塞拜疆台",麥麩頻道 Kəpəz TV
+http://85.132.81.184:8080/arbkepez/live/index.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mtvIFyq.png" group-title="阿塞拜疆台",ARB 24
+http://85.132.81.184:8080/arb/live/index.m3u8
+https://www.tvkaista.net/stream-forwarder/get.php?x=ATVAz
+#EXTINF:-1 tvg-logo="https://i.imgur.com/di3XX5L.png" group-title="阿塞拜疆台",AzStarTV
+http://live.azstartv.com/azstar/smil:azstar.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Baku_TV_%282018%29.png/640px-Baku_TV_%282018%29.png" group-title="阿塞拜疆台",Baku TV
+https://rtmp.baku.tv/live/bakutv_720p.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wVT0dwO.png" group-title="阿塞拜疆台",CBC
+https://stream.cbctv.az:5443/LiveApp/streams/cbctv.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/M%C9%99d%C9%99niyy%C9%99t_TV_logo.png" group-title="阿塞拜疆台",Mədəniyyət TV Ⓢ
+https://str.yodacdn.net/medeniyyet/index.m3u8
+
+
+#EXTINF:-1 tvg-country="PK" tvg-logo="https://www.alehsaan.tv/wp-content/uploads/2023/11/cropped-Untitled-design.png" group-title="巴基斯坦台",慈善電視台 Al Ehsaan TV
+https://cdn.bmstudiopk.com/alehsaan/live/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PK" tvg-logo="https://i.imgur.com/IJH47fJ.png" group-title="巴基斯坦台",Discover Pakistan
+https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 group-title="匈牙利台",Hegyvidek Tv 布達佩斯
+http://tv.hegyvidek.hu/stream_mpeg.flv
+#EXTINF:-1 tvg-logo="https://onlinestream.live/logos/4740.png" group-title="匈牙利台",Hír TV
+https://onlinestream.live/play.m3u?id=4740&ext=.m3u
+#EXTINF:-1 tvg-logo="https://www.apostoltv.hu/images/header-logo.png" group-title="匈牙利台",Apostol TV
+https://live.apostoltv.hu/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ip8L5Vt.jpg" group-title="匈牙利台",Balaton TV
+https://stream.iptvservice.eu/hls/balatontv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vraAfd7.png" group-title="匈牙利台",Hatoscsatorna
+rtmp://lpmedia.hu:1935/Hatoscsatorna/livestream
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5cOpdRp.jpg" group-title="匈牙利台",Ózdi Városi TV
+https://stream.unrealhosting.hu:443/hls/ozdtv/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iD5tCjX.png" group-title="匈牙利台",Pannon RTV
+https://stream.unrealhosting.hu:443/hls/pannonrtv/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/G9Ib5K3.png" group-title="匈牙利台",TV7 Bekescsaba
+https://stream.y5.hu/stream/stream_bekescsaba/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7ZPYJJ0.jpg" group-title="匈牙利台",VTV Füzesabony
+https://stream.unrealhosting.hu:443/hls/ftv/live.m3u8
+#EXTINF:-1 tvg-logo="https://hegyvidektv.hu/wp-content/uploads/2020/08/hegyvidek.jpg" group-title="匈牙利台",Hegyvidék TV
+https://tv.hegyvidek.hu/hvtv/hvstream.m3u8
+#EXTINF:-1 tvg-logo="https://www.citytv.hu/images/logo.png" group-title="匈牙利台",CityTV (Belváros Lipótváros)
+https://citytv.hu/media/live/stream.m3u8
+#EXTINF:-1 tvg-logo="http://www.dealood.com/content/uploads/images/March2019/5c9721a07ea87-images-large.png" group-title="匈牙利台",AlföldTV
+https://cloudfront41.lexanetwork.com:1344/relay01/livestream006.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RHgaPCk.png" group-title="匈牙利台",Gyöngyös TV
+https://cloudfront41.lexanetwork.com:1344/relay02/livestream005.sdp/playlist.m3u8?key=hkNHP
+#EXTINF:-1 tvg-logo="https://www.halomtv.hu/sites/all/themes/gfx_zen/logo.png" group-title="匈牙利台",Halom TV
+rtmp://212.92.13.108/live/livestream1
+#EXTINF:-1 tvg-logo="https://kecskemetitv.hu/templates/kecskemetitv/img/ktv_logo.png" group-title="匈牙利台",Kecskemét TV
+https://eurobioinvest.hu:444/live/ktv.m3u8
+#EXTINF:-1 tvg-logo="https://kincsempark.hu/wp-content/uploads/2016/11/fejlec_logo_f-1.png" group-title="匈牙利台",Lóverseny közvetítés
+https://cloudfront41.lexanetwork.com:1344/xrelay/loverseny2.sdp/playlist.m3u8
+#EXTINF:-1 tvg-name="DTV" tvg-logo="https://i.imgur.com/YSpqmSO.png" group-title="匈牙利台",DTV
+http://cloudfront44.lexanetwork.com:1732/hlsrelay003/hls/livestream.sdp.m3u8
+#EXTINF:-1 tvg-name="Bajai TV" tvg-logo="https://i.imgur.com/cyReGWh.png" group-title="匈牙利台",Bajai TV
+https://cloudfront41.lexanetwork.com:1344/relay01/livestream002.sdp/playlist.m3u8
+#EXTINF:-1 tvg-name="TV Eger" tvg-logo="https://i.imgur.com/GUVW073.png" group-title="匈牙利台",TV Eger
+http://stream.tveger.hu:8010/live.m3u8
+#EXTINF:-1 tvg-name="Miskolc TV" tvg-logo="https://i.imgur.com/IoiNus2.png" group-title="匈牙利台",Miskolc TV
+https://video.mhzrt.hu/live/mitv/playlist.m3u8
+#EXTINF:-1 tvg-name="Oroszlányi Városi Televízió" tvg-logo="https://i.imgur.com/P0fxUH5.png" group-title="匈牙利台",Oroszlányi Városi Televízió
+https://cloudfront44.lexanetwork.com:1344/relay01/broadcast002.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/chNBF5t.png" group-title="俄羅斯台",S1
 https://sitv.ru/hls/stv.m3u8
@@ -4251,6 +4373,168 @@ http://cdn.universmotri.ru/live/mq.sdp/playlist.m3u8
 #EXTINF:-1 group-title="俄羅斯台",俄罗斯 ТВК24
 http://air.tvk6.ru/tvk24/playlist.m3u8
 
+
+
+#EXTINF:-1 group-title="亞美尼亞台",ԱԶԱՏՈՒԹՅՈՒՆ ԹԻՎԻ 自由電視台
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s3/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HIwJ4lc.png" group-title="亞美尼亞台",Առաջին ալիք 第一頻道
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
+https://amtv1.livestreamingcdn.com/am2abr/index.m3u8
+#EXTINF:-1 group-title="亞美尼亞台",ԱՐՄԵՆԻԱ 1 ՊՐԵՄԻՈՒՄ 亞美尼亞 1 高清台
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s83/index.m3u8
+#EXTINF:-1 group-title="亞美尼亞台",ԱՐՄԵՆԻԱ 亞美尼亞電視台
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s4/index.m3u8
+#EXTINF:-1 group-title="亞美尼亞台",ԱՐՄԵՆԻԱ-ՀԱՅԿԻՆՈ 亚美尼亚-海基诺
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s22/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F7YP7cX.png" group-title="亞美尼亞台",ԴԱՐ21 21世紀台
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s10/index.m3u8
+#EXTINF:-1 group-title="亞美尼亞台",ԵՐԿԻՐ ՄԵԴԻԱ 地球傳媒
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s7/index.m3u8
+#EXTINF:-1 group-title="亞美尼亞台",ԹԱՎԱ ԹԻՎԻ PAN數字頻道
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s53/index.m3u8
+#EXTINF:-1 group-title="亞美尼亞台",ԼԱՎՖՀԱՔ 好技巧頻道
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s48/index.m3u8
+#EXTINF:-1 group-title="亞美尼亞台",ԽԱՂԱԼԻՔ 玩具台
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s74/index.m3u8
+#EXTINF:-1 group-title="亞美尼亞台",ԿԵՆՏՐՈՆ 中央台
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s5/index.m3u8
+#EXTINF:-1 group-title="亞美尼亞台",ԿԻՆՈՄԱՆ 電影人
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s94/index.m3u8
+#EXTINF:-1 group-title="亞美尼亞台",ՀԱՅ ԹԻՎԻ 亞美尼亞數字
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s73/index.m3u8
+#EXTINF:-1 group-title="亞美尼亞台",ՆՈՐ ՀԱՅԱՍՏԱՆ 亞美尼亞電視台
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s12/index.m3u8
+#EXTINF:-1 group-title="亞美尼亞台",ՇՈՂԱԿԱԹ 輻射頻道
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s13/index.m3u8
+#EXTINF:-1 group-title="亞美尼亞台",ՋԱՆ ԹԻՎԻ 简·蒂维頻道
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s42/index.m3u8
+#EXTINF:-1 group-title="亞美尼亞台",ՍԻՆԵՄԱՆ 電影頻道
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s66/index.m3u8
+#EXTINF:-1 group-title="亞美尼亞台",ՏՈՒՆՏՈՒՆԻԿ 主持人頻道
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s46/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xrqFEou.png" group-title="亞美尼亞台",АTV ԱԹԻՎԻ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s8/index.m3u8
+
+
+#EXTINF:-1 group-title="白俄罗斯台",FirstMusicChannelBielorrusia
+http://hz1.teleport.cc/HLS/SD.m3u8
+#EXTINF:-1 tvg-name="ОНТ Ⓢ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%C2%AB%D0%9E%D0%9D%D0%A2%C2%BB.svg/991px-%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%C2%AB%D0%9E%D0%9D%D0%A2%C2%BB.svg.png" group-title="白俄罗斯台",ОНТ Ⓢ
+https://stream.dc.beltelecom.by/ont/ont/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Belarus_5_logo.svg/742px-Belarus_5_logo.svg.png" group-title="白俄罗斯台",Беларусь 5
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%B1%D0%B5%D0%BB%D0%BE%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%C2%AB%D0%A1%D0%A2%D0%92%C2%BB.svg/640px-%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%B1%D0%B5%D0%BB%D0%BE%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%C2%AB%D0%A1%D0%A2%D0%92%C2%BB.svg.png" group-title="白俄罗斯台",СТВ
+https://ctv.dc.beltelecom.by/ctv/ctv.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Belarus_24_logo.svg/742px-Belarus_24_logo.svg.png" group-title="白俄罗斯台",Беларусь 24
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rzPQ9Iz.png" group-title="白俄罗斯台",Беларусь 5 Интернет
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PozF9MT.png" group-title="白俄罗斯台",1Mus
+http://hz1.teleport.cc/HLS/HD.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HWqxjGl.png" group-title="白俄罗斯台",Belros Ⓢ
+https://live2.mediacdn.ru/sr1/tro/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7tFiG6S.jpg" group-title="白俄罗斯台",Pervyy Muzykal'nyy BY Ⓢ
+http://rtmp.one.by:1200
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e2RyN4r.jpg" group-title="白俄罗斯台",Radio HIT Orsk
+http://hithd.camsh.orsk.ru/hls/hithd.m3u8
+
+#EXTINF:-1 group-title="烏克蘭台",乌7канал
+http://cdn10.live-tv.od.ua:8081/7tvod/7tvod/playlist.m3u8
+#EXTINF:-1 group-title="烏克蘭台",M2 音乐频道
+http://live.m2.tv/hls3/stream.m3u8
+#EXTINF:-1 group-title="烏克蘭台",24 Канал
+http://streamvideol1.luxnet.ua/news24/news24.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="波蘭台",Прямий
+http://95.67.21.100/hls/prm_ua_hi/index.m3u8
+#EXTINF:-1 group-title="波蘭台",TV Kujawy (Opt-1)
+http://stream.tvkujawy.pl:8080/live/broadcast.m3u8
+#EXTINF:-1 group-title="波蘭台",TV Torun
+http://217.173.176.107:1935/live/ngrp:tvk.stream_all/master.m3u8
+
+#EXTINF:-1 group-title="拉脫維亞台",TV Net
+http://player.tvnet.lv/stream/amlst:61659/chunklist_w1822312625_b528000_pd892000.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k06WvYl.png" group-title="波黑台",RTRS PLUS Ⓢ
+https://pluslive.rtrs.tv/plus/plus/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/72oMSWz.png" group-title="波黑台",N1 Bosna i Hercegovina
+https://best-str.umn.cdn.united.cloud/stream?channel=n1bos&p=n1Sh4redSecre7iNf0&sp=n1info&stream=sp1400&u=n1info
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/60/Logo_of_TV_Herceg-Bosne.png" group-title="波黑台",RTV HB Ⓢ
+https://prd-hometv-live-open.spectar.tv/ERO_1_083/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DUBvfWb.png" group-title="波黑台",RTV BN
+https://rtvbn.tv:8080/live/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9NgxOdb.png" group-title="波黑台",RTV Glas Drine
+http://glasdrine.cutuk.net:8081/433ssdsw/GlasDrineSD/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/V6W3yEp.png" group-title="波黑台",Sevdah Ⓢ
+https://restreamer2.tnt.ba/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/znpvJys.png" group-title="波黑台",Televizija 5
+https://balkanmedia.dynu.net/hls/tv5web.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XYWgd3E.png" group-title="波黑台",SuperTV
+https://mirtv.club/live/mirtv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TKUaflB.png" group-title="波黑台",RTV ZE Ⓢ
+https://stream.rtvze.ba/live/123/123.m3u8
+
+
+#EXTINF:-1 group-title="捷克台",Retro (Opt-1)
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/deVHJKS.png" group-title="捷克台",Mňau TV (1080p)
+https://5ca49f2417d90.streamlock.net/mnau/livestream/playlist.m3u8
+
+#EXTINF:-1 group-title="斯洛伐克台",TV 8
+http://109.74.145.11:1935/tv8/mp4:tv8.stream_360p/chunklist_w974670813.m3u8
+#EXTINF:-1 group-title="斯洛伐克台",TVNZ
+http://s1.media-planet.sk:80/live/novezamky/BratuMarian.m3u8
+#EXTINF:-1 group-title="斯洛伐克台",TeleviziaOSEM(360p)
+http://109.74.145.11:1935/tv8/mp4:tv8.stream_360p/playlist.m3u8
+#EXTINF:-1 group-title="斯洛伐克台",TelevíziaOSEM(576p)
+http://109.74.145.11:1935/tv8/ngrp:tv8.stream_all/playlist.m3u8
+#EXTINF:-1 group-title="斯洛伐克台",TVRužinov(1080p)
+http://lb.streaming.sk/tvruzinov/stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rL2v9pM.png" group-title="阿爾巴尼亞台",Kanali 7
+https://fe.tring.al/delta/105/out/u/1200_1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Pr4ixiA.png" group-title="阿爾巴尼亞台",Alpo TV
+https://5d00db0e0fcd5.streamlock.net/7236/7236/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X3ukD5t.png" group-title="阿爾巴尼亞台",CNA
+https://live1.mediadesk.al/cnatvlive.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/News_24_%28Albania%29.svg/1024px-News_24_%28Albania%29.svg.png" group-title="阿爾巴尼亞台",News 24
+https://tv.balkanweb.com/news24/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ILZY5bJ.png" group-title="阿爾巴尼亞台",Ora News
+https://live1.mediadesk.al/oranews.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Panorama_logo.svg/512px-Panorama_logo.svg.png" group-title="阿爾巴尼亞台",Panorama TV
+http://198.244.188.94/panorama/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yuRDJYY.png" group-title="阿爾巴尼亞台",Report TV
+https://deb10stream.duckdns.org/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4zVyj1M.png" group-title="阿爾巴尼亞台",Syri
+https://stream.syritv.al/SyriTV/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tBAXkOW.png" group-title="阿爾巴尼亞台",Top News
+https://www.twitch.tv/topnewsal
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D3hNOVS.png" group-title="阿爾巴尼亞台",Tropoja
+https://live.prostream.al/al/smil:tropojatv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k9WqPLZ.png" group-title="阿爾巴尼亞台",TV 7 Albania
+https://5d00db0e0fcd5.streamlock.net/7064/7064/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gUz2AjM.png" group-title="阿爾巴尼亞台",TV Apollon
+https://live.apollon.tv/Apollon-WEB/video.m3u8?token=tnt3u76re30d2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Vizion_Plus.svg/512px-Vizion_Plus.svg.png" group-title="阿爾巴尼亞台",Vizion Plus
+https://fe.tring.al/delta/105/out/u/rdghfhsfhfshs.m3u8
+
 #EXTINF:-1 group-title="越南台"  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTV1%20HD%20%E2%80%A2%20B%E1%BA%A3n%20tinh%20ch%E1%BB%89nh.png",VTV1 HD
 http://gg.gg/HaNoiIPTV-VTV1_HD
 #EXTINF:-1 group-title="越南台"  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTV2%20HD%20%E2%80%A2%20B%E1%BA%A3n%20tinh%20ch%E1%BB%89nh.png",VTV2 HD
@@ -4341,8 +4625,6 @@ http://gg.gg/HaNoiIPTV-ON_Sports_Plus_HD
 http://gg.gg/HaNoiIPTV-BTV5-ON_Sports_Action_HD
 #EXTINF:-1 group-title="越南台" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/K%2BCINE%20HD.png",K+CINE HD
 #EXT-X-STREAM-INF:BANDWIDTH=3803560,AVERAGE-BANDWIDTH=3803560,CODECS="avc1.640028,mp4a.40.2",PROGRAM-ID=1,RESOLUTION=1080x720,AUDIO="audiod"
-
-
 #EXTINF:-1 group-title="越南台"  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Logo%20kh%C3%A1c/T%E1%BA%BFt%20H%C3%A0%20N%E1%BB%99i%20%E2%80%A2%20B%E1%BA%A3n%202.png",CHÉM GIÓ "Tết HÀ NỘI - Xuân Giáp Thìn 2024" | Một ngày làm việc tại trường quay của Đài Hà Nội (05h30 - 16h15, 19/10/2023) - Rất vinh dự khi có nội dung này nhưng lại hay phết!
 http://gg.gg/HaNoiIPTV-Truyen_hinh_Ha_Noi_2_HD_tuong_tac
 #EXTINF:-1 group-title="越南台"  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Logo%20kh%C3%A1c/T%E1%BA%BFt%20H%C3%A0%20N%E1%BB%99i.png",CHƯƠNG TRÌNH ĐẶC BIỆT XUÂN GIÁP THÌN 2024 | Chào 2024 - Hà Nội đột phá, vượt qua thách thức, đạt thành tựu lớn (Đến hết ngày 06/02/2024 sẽ kết thúc)
@@ -4806,6 +5088,120 @@ http://210.245.20.94/hls/ktv1.m3u8
 http://gg.gg/HaNoiIPTV-HBO_HD
 #EXTINF:-1 group-title="越南台",越南ANTV HD
 http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
+
+
+
+#EXTINF:-1 group-title="泰国台",泰国 ASTV News 1
+http://news1.live14.com/stream/news1_hi.m3u8
+#EXTINF:-1 group-title="泰国台",PBS-公共三台 HD
+http://thaipbs-live.cdn.byteark.com/live-en/playlist_720p/index.m3u8
+#EXTINF:-1 group-title="泰国台",PBS-公共三台 HD
+http://thaipbs-live.cdn.byteark.com/live/playlist_720p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.malimarcdn.com/laochampatvHD.jpg" group-title="老撾台",Lao-Thai TV
+https://livefta.malimarcdn.com/ftaedge00/laothaius.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.malimarcdn.com/laochampatvHD.jpg" group-title="老撾台",Lao Champa TV
+https://livefta.malimarcdn.com/ftaedge00/laochampa1.sdp/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.malimarcdn.com/laochampatv2HD.jpg" group-title="老撾台",Lao Champa TV 2
+https://livefta.malimarcdn.com/ftaedge00/laochampa2.stream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://aetlive.s3-us-west-2.amazonaws.com/assets/img/2018/03/03231638/newLaoChampa3.jpg" group-title="老撾台",Lao Champa TV 3
+https://livefta.malimarcdn.com/ftaedge00/laochampa3.stream/chunklist.m3u8
+
+#EXTINF:-1 group-title="緬甸台",5 Plus
+https://5a13fe32ef748.streamlock.net/mmplay/5plus/playlist.m3u8
+#EXTINF:-1 group-title="緬甸台",Channel 7
+https://5a13fe32ef748.streamlock.net/mmplay/channel7/playlist.m3u8
+#EXTINF:-1 group-title="緬甸台",Channel K
+https://5a13fe32ef748.streamlock.net/mmplay/channel9/playlist.m3u8
+#EXTINF:-1 group-title="緬甸台",MCS
+https://l1-xl1.myanmarnet.com/relay2/mcs/ch1/stream.m3u8
+#EXTINF:-1 group-title="緬甸台",緬甸國際電視台MITV
+https://5a13fe32ef748.streamlock.net/mmplay/mitv/playlist.m3u8
+#EXTINF:-1 group-title="緬甸台",MN TV
+https://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream.m3u8
+#EXTINF:-1 group-title="緬甸台",緬甸廣播電視台 MRTV
+https://5a13fe32ef748.streamlock.net/mmplay/mrtv/playlist.m3u8
+#EXTINF:-1 group-title="緬甸台",緬甸廣播電視台-4 MRTV 4
+https://5a13fe32ef748.streamlock.net/mmplay/mrtv-4/playlist.m3u8
+#EXTINF:-1 group-title="緬甸台",緬甸廣播電視台娛樂頻道 MRTV Entertainment
+https://5a13fe32ef748.streamlock.net/mmplay/mrtv-entertainment/playlist.m3u8
+#EXTINF:-1 group-title="緬甸台",緬甸廣播電視台議會頻道 MRTV Parliament (480p)
+https://5a13fe32ef748.streamlock.net/mmplay/hluttaw/playlist.m3u8
+
+#EXTINF:0 group-title="柬埔寨台",Khmer TV
+https://livefta.malimarcdn.com/ftaedge00/khmertv2020.stream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.malimarcdn.com/kh/TeaTV2HD.jpg" group-title="柬埔寨台",Tea TV
+https://livefta.malimarcdn.com/ftaedge00/teatv2.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/g3KXvbvwbuSuwZhm_RG--7rfCAvlnOsSzaLBFKd1XmRlHNxyvKzaf23GTmvsXm-OYg=s180-rw" group-title="柬埔寨台",Wiki TV
+http://wikitv-streaming.poscarasia.com:1935/live/ngrp:myStream_all/playlist.m3u8
+
+#EXTINF:-1 group-title="新加坡台" tvg-logo="https://i.imgur.com/xWglicB.png",新加坡 国际亞洲新聞
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+#EXTINF:-1 group-title="新加坡台" tvg-logo="https://i.imgur.com/xWglicB.png",新加坡 国际亞洲新聞
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+#EXTINF:-1 group-title="新加坡台" tvg-logo="https://i.imgur.com/xWglicB.png",亚洲新闻台（1）
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV52.m3u8
+#EXTINF:-1 group-title="新加坡台" tvg-logo="https://i.imgur.com/xWglicB.png",亚洲新闻台（2）
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV84.m3u8
+#EXTINF:-1 group-title="新加坡台" tvg-logo="https://i.imgur.com/xWglicB.png",亚洲新闻台（3）
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 group-title="新加坡台" tvg-logo="https://i.imgur.com/ciTJrnl.png" ,ZooMoo  兒童台
+https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
+
+#EXTINF:-1 group-title="馬來西亞台",8TV
+https://live-streams-ssai-01.tonton.com.my/live/a884c33b-6b11-4433-8bf9-a8899939e224/cmaf.isml/.m3u8
+#EXTINF:-1 group-title="馬來西亞台",astro AWANI
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV27.m3u8
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/Antv.png" group-title="印尼台",ANTV
+http://202.80.222.170/000001/2/ch14061215034900095272/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:0 tvg-logo="http://aditv.co.id/wp-content/uploads/2019/02/logo-aditv-5.png" group-title="印尼台",ADiTV
+http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
+#EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/62/Balitv_2002.png" group-title="印尼台",Bali TV
+http://202.80.222.171/000001/2/ch00000090990000001729/1001.m3u8.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/8/8e/JTV_%282012%29.svg/1200px-JTV_%282012%29.svg.png" group-title="印尼台",JTV Surabaya
+http://202.80.222.175/000001/2/ch00000090990000001731/1001.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:0 tvg-logo="http://news.tvku.tv/assets2/images/logotvku2.png" group-title="印尼台",TVKU Semarang
+http://103.30.1.14:8080/hls/live.m3u8
+
+
+
+#EXTINF:-1 group-title="印度台",印度 9XM(480p)
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
+#EXTINF:-1 group-title="印度台",今日印度 India Today（1）
+https://feeds.intoday.in/hltapps/api/master.m3u8
+#EXTINF:-1 group-title="印度台",今日印度 India Today（2）
+https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8
+#EXTINF:-1 group-title="印度台",印度 FASTWAYNEWS(720p)
+http://163.47.214.155:1935/fwnews/live/playlist.m3u8
+#EXTINF:-1 group-title="印度台",印度 MediaOne(576p)
+http://103.199.161.254/Content/mediaone/Live/Channel(MediaOne)/index.m3u8
+#EXTINF:-1 group-title="印度台",印度 NDTV24X7(480p)
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
+#EXTINF:-1 group-title="印度台",印度 NDTVIndia(480p)
+https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8
+#EXTINF:-1 group-title="印度台",Asianet News 馬拉雅拉姆語
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV11.m3u8
+#EXTINF:-1 group-title="印度台",MEDIA ONE 馬拉雅拉姆語
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV44.m3u8
+#EXTINF:-1 group-title="印度台",24 Twenty Four HD 馬拉雅拉姆語
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV50.m3u8
+#EXTINF:-1 group-title="印度台",Malai Murasu மாலை முரசு செய்திகள் 泰米爾語
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV10.m3u8
+#EXTINF:-1 group-title="印度台",NEWS 18
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV40.m3u8
+#EXTINF:-1 group-title="印度台",INDIA Today 孟加拉語
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV36.m3u8
+#EXTINF:-1 group-title="印度台",NewsTamil 泰米爾語
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV46.m3u8
+#EXTINF:-1 group-title="印度台",Bollywood Classic 寶萊塢經典
+http://89.187.177.137:8081/BOLLYWOOD_CLASSIC/index.m3u8
+
+#EXTINF:-1 group-title="孟加拉國台",EkuseyTV
+http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+
+
+
 
 
 
@@ -7092,259 +7488,53 @@ https://cs.ebmcdn.net/eastbay-live-hs-1/fcps/mp4:fcps/playlist.m3u8
 http://media.smc-host.com:1935/cycnow.com/cyc2/playlist.m3u8
 
 
-#EXTINF:-1 group-title="土耳其台",TRT WORLD
-https://tv-trtworld.live.trt.com.tr/master.m3u8
-#EXTINF:-1 group-title="土耳其台", Cay TV
-http://stream2.taksimbilisim.com:1935/caytv/bant1/CAYTV.m3u8
-#EXTINF:-1 group-title="土耳其台",土耳其新聞
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV21.m3u8
-#EXTINF:-1 group-title="土耳其台",IBBTV(1080p)
-http://wowza.istweb.tv:1935/webtv/webtv_wowza1/playlist.m3u8
-#EXTINF:-1 group-title="土耳其台",Semerkand TV
-https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/playlist.m3u8
-#EXTINF:-1 group-title="土耳其台",TGRT BELGESEL
-https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe462afc6a0e.smil/playlist.m3u8
-#EXTINF:-1 group-title="土耳其台",Berat TV (720p) [Not 24/7]
-http://cdn-berattv.yayin.com.tr/berattv/berattv/playlist.m3u8
-#EXTINF:-1 group-title="土耳其台",KANAL 33
-http://stream.taksimbilisim.com:1935/kanal33/bant1/playlist.m3u8
-#EXTINF:-1 group-title="土耳其台",TV 41 (270p)
-http://stream.taksimbilisim.com:1935/tv41/smil:tv41.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/H5kOQz5.png" group-title="土耳其台",ÜÜ TV 1 于斯屈達爾大學1
-https://uskudarunv.mediatriple.net/uskudarunv/uskudar1/playlist.m3u8
+#EXTINF:-1 group-title="加拿大台",The Shopping Channel
+http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
+#EXTINF:-1 group-title="加拿大台",Pardesi TV
+http://stream.pardesitv.online/pardesi/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RR7ATr2.png" group-title="加拿大台",Uvagut TV 加拿大因紐特語頻道
+https://dee7mwgg9dzvl.cloudfront.net/hls/uvagut/playlist.m3u8
+#EXTINF:-1 group-title="加拿大台",Global NEWS
+https://live.corusdigitaldev.com/groupa/live/48a5882b-a1ec-42d7-bfd7-6c2739e737da/live.isml/.m3u8
+#EXTINF:-1 group-title="加拿大台",Hunt Channel
+https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="土庫曼斯坦台" tvg-logo="http://webtvonlive.com/wp-content/uploads/altyn_asyr_tv-webtvonlive-com.jpg" ,鎏金歲月台
-https://alpha.tv.online.tm/legacyhls/ch001_720/index.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="土庫曼斯坦台" tvg-logo="http://webtvonlive.com/wp-content/uploads/Yaslyk-webtvonlive-com.jpg" ,青年電視台
-https://alpha.tv.online.tm/legacyhls/ch002_720/index.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="土庫曼斯坦台" tvg-logo="http://webtvonlive.com/wp-content/uploads/Miras-webtvonlive-com.jpg" ,Altyn Asyr 遺產電視台
-https://alpha.tv.online.tm/legacyhls/ch003_720/index.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="土庫曼斯坦台",塞坦塔體育台【體育】
-http://217.174.225.146/hls/ch004_720/index.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="土庫曼斯坦台" tvg-logo="http://webtvonlive.com/wp-content/uploads/T%C3%BCrkmen-Owazy-webtvonlive-com.jpg",土庫曼之聲
-https://alpha.tv.online.tm/legacyhls/ch005_720/index.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="土庫曼斯坦台" tvg-logo="http://webtvonlive.com/wp-content/uploads/Asgabat-webtvonlive-com.jpg" ,Aşgabat 阿什哈巴德電視台
-https://alpha.tv.online.tm/legacyhls/ch006_720/index.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo="http://tdh.gov.tm/static/logo/7.png" group-title="土庫曼斯坦台",土庫曼斯坦電視台
-http://alpha.tv.online.tm/hls/ch007_400/index.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 tvg-logo="https://2017.catradeforum.org/wp-content/uploads/2017/09/atamekenlogo4.png" group-title="哈薩克斯坦台",哈薩克經濟商業台 Atameken Business
-http://live-atameken.cdnvideo.ru/atameken/atameken.sdp/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo="https://mtrk.kz/wp-content/themes/mtrk/images/logo2023_25y.png" group-title="哈薩克斯坦台",北哈薩克新聞台 МТРК
-https://tvcdn01.oktv.kz/tv/mtrk/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/%D0%9C%D0%B8%D1%80_%D0%A2%D0%92_logo.svg" group-title="哈薩克斯坦台",和平電視台 МИР
-https://streaming.televizor-24-tochka.ru/live/22.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="哈薩克斯坦台",Abai TV
-https://abaitv-stream.qazcdn.com/abaitv/abaitv/playlist.m3u8
-#EXTINF:-1 group-title="哈薩克斯坦台",Atyraý (720p)
-https://stream.kaztrk.kz/regional/atyrautv/index.m3u8
-#EXTINF:-1 group-title="哈薩克斯坦台",Balapan TV
-https://balapantv-stream.qazcdn.com/balapantv/balapantv/playlist.m3u8
-#EXTINF:-1 group-title="哈薩克斯坦台",Ertis (1080p) 
-https://stream.kaztrk.kz/regional/pavlodartv/index.m3u8
-#EXTINF:-1 group-title="哈薩克斯坦台",Kókshe (720p)
-https://stream.kaztrk.kz/regional/kokshetautv/index.m3u8
-#EXTINF:-1 group-title="哈薩克斯坦台",Mańǵystaý (540p)
-https://stream.kaztrk.kz/regional/mangystautv/index.m3u8
-#EXTINF:-1 group-title="哈薩克斯坦台",Ontústik (360p)
-https://stream.kaztrk.kz/regional/shymkenttv/index.m3u8
-#EXTINF:-1 group-title="哈薩克斯坦台",Qazaqstan TV
-https://qazaqstantv-stream.qazcdn.com/qazaqstantv/qazaqstantv/playlist.m3u8
-#EXTINF:-1 group-title="哈薩克斯坦台",Qazaqstan TV International
-https://qazaqstantv-stream.qazcdn.com/international/international/playlist.m3u8
-#EXTINF:-1 group-title="哈薩克斯坦台",QazSport【體育】
-https://qazsporttv-stream.qazcdn.com/qazsporttv/qazsporttv/playlist.m3u8
-#EXTINF:-1 group-title="哈薩克斯坦台",Qostanai
-https://stream.kaztrk.kz/regional/kostanaytv/index.m3u8
-#EXTINF:-1 group-title="哈薩克斯坦台",Qyzyljar
-https://stream.kaztrk.kz/regional/petropavltv/index.m3u8
-#EXTINF:-1 group-title="哈薩克斯坦台",Qyzylorda
-https://stream.kaztrk.kz/regional/kyzylordatv/index.m3u8
-#EXTINF:-1 group-title="哈薩克斯坦台",Saryarqa
-https://stream.kaztrk.kz/regional/karagandytv/index.m3u8
-#EXTINF:-1 group-title="哈薩克斯坦台",Semeı
-https://stream.kaztrk.kz/regional/semeytv/index.m3u8
+#EXTINF:-1 group-title="英國台",BBC WorldNews
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+#EXTINF:-1 group-title="英國台",BBC Home
+https://d1wxiaxdr51kqy.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-perrpizm3ap26-prod/playlist.m3u8
+#EXTINF:-1 group-title="英國台",BBC TWO
+http://41.205.93.154/BBCTWO/index.m3u8
+#EXTINF:-1 group-title="英國台",GBNews
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV33.m3u8
+#EXTINF:-1 group-title="英國台",EDGE Sport【體育】
+https://edgesport-rakuten-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="英國台",EUROSPORT 1【體育】
+https://cdn-nvm-chicago.lolokoko.tv/eurosport1.stream/chunks.m3u8
+#EXTINF:-1 group-title="英國台",GREAT action
+http://185.19.191.2:8090/GreatAction/index.m3u8
+#EXTINF:-1 group-title="英國台",Horse & Country TV【體育】
+https://hncfree-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="英國台",MUTV 曼联足球俱乐部【體育】
+https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_0/chunklist.m3u8
+#EXTINF:-1 group-title="英國台",Wild Planet
+https://d3c7duantorcb1.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jpfvel38m2ce0-prod/77466ab3-8e6b-497f-9bf9-7b20f2536a20/3.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://tv1.kg/css/newmin/logotop.png" group-title="吉爾吉斯台",TV1 KG 比什凱克
-http://212.2.225.30:1935/live/site.stream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/df/ABC_News_Channel.svg/640px-ABC_News_Channel.svg.png" group-title="澳大利亞台",ABC News
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://acra.gov.az/storage/493/348364.jpg" group-title="阿塞拜疆台",麥麩頻道 Kəpəz TV
-http://85.132.81.184:8080/arbkepez/live/index.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mtvIFyq.png" group-title="阿塞拜疆台",ARB 24
-http://85.132.81.184:8080/arb/live/index.m3u8
-https://www.tvkaista.net/stream-forwarder/get.php?x=ATVAz
-#EXTINF:-1 tvg-logo="https://i.imgur.com/di3XX5L.png" group-title="阿塞拜疆台",AzStarTV
-http://live.azstartv.com/azstar/smil:azstar.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Baku_TV_%282018%29.png/640px-Baku_TV_%282018%29.png" group-title="阿塞拜疆台",Baku TV
-https://rtmp.baku.tv/live/bakutv_720p.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wVT0dwO.png" group-title="阿塞拜疆台",CBC
-https://stream.cbctv.az:5443/LiveApp/streams/cbctv.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/M%C9%99d%C9%99niyy%C9%99t_TV_logo.png" group-title="阿塞拜疆台",Mədəniyyət TV Ⓢ
-https://str.yodacdn.net/medeniyyet/index.m3u8
+#EXTINF:-1 group-title="新西蘭台",Real Wild
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwildnz-samsungnz/playlist.m3u8
+#EXTINF:-1 group-title="新西蘭台",Kordia TV 音乐
+https://ptvlive.kordia.net.nz/out/v1/3fc2254c865a457c8d7fbbce227a2aae/index.m3u8
 
 
-#EXTINF:-1 tvg-country="PK" tvg-logo="https://www.alehsaan.tv/wp-content/uploads/2023/11/cropped-Untitled-design.png" group-title="巴基斯坦台",慈善電視台 Al Ehsaan TV
-https://cdn.bmstudiopk.com/alehsaan/live/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="PK" tvg-logo="https://i.imgur.com/IJH47fJ.png" group-title="巴基斯坦台",Discover Pakistan
-https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="法國台",France 24
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV38.m3u8
+#EXTINF:-1 group-title="法國台",时尚
+http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
 
-#EXTINF:-1 group-title="亞美尼亞台",ԱԶԱՏՈՒԹՅՈՒՆ ԹԻՎԻ 自由電視台
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
-http://ott-cdn.ucom.am/s3/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HIwJ4lc.png" group-title="亞美尼亞台",Առաջին ալիք 第一頻道
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
-https://amtv1.livestreamingcdn.com/am2abr/index.m3u8
-#EXTINF:-1 group-title="亞美尼亞台",ԱՐՄԵՆԻԱ 1 ՊՐԵՄԻՈՒՄ 亞美尼亞 1 高清台
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
-http://ott-cdn.ucom.am/s83/index.m3u8
-#EXTINF:-1 group-title="亞美尼亞台",ԱՐՄԵՆԻԱ 亞美尼亞電視台
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
-http://ott-cdn.ucom.am/s4/index.m3u8
-#EXTINF:-1 group-title="亞美尼亞台",ԱՐՄԵՆԻԱ-ՀԱՅԿԻՆՈ 亚美尼亚-海基诺
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
-http://ott-cdn.ucom.am/s22/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/F7YP7cX.png" group-title="亞美尼亞台",ԴԱՐ21 21世紀台
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
-http://ott-cdn.ucom.am/s10/index.m3u8
-#EXTINF:-1 group-title="亞美尼亞台",ԵՐԿԻՐ ՄԵԴԻԱ 地球傳媒
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
-http://ott-cdn.ucom.am/s7/index.m3u8
-#EXTINF:-1 group-title="亞美尼亞台",ԹԱՎԱ ԹԻՎԻ PAN數字頻道
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
-http://ott-cdn.ucom.am/s53/index.m3u8
-#EXTINF:-1 group-title="亞美尼亞台",ԼԱՎՖՀԱՔ 好技巧頻道
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
-http://ott-cdn.ucom.am/s48/index.m3u8
-#EXTINF:-1 group-title="亞美尼亞台",ԽԱՂԱԼԻՔ 玩具台
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
-http://ott-cdn.ucom.am/s74/index.m3u8
-#EXTINF:-1 group-title="亞美尼亞台",ԿԵՆՏՐՈՆ 中央台
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
-http://ott-cdn.ucom.am/s5/index.m3u8
-#EXTINF:-1 group-title="亞美尼亞台",ԿԻՆՈՄԱՆ 電影人
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
-http://ott-cdn.ucom.am/s94/index.m3u8
-#EXTINF:-1 group-title="亞美尼亞台",ՀԱՅ ԹԻՎԻ 亞美尼亞數字
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
-http://ott-cdn.ucom.am/s73/index.m3u8
-#EXTINF:-1 group-title="亞美尼亞台",ՆՈՐ ՀԱՅԱՍՏԱՆ 亞美尼亞電視台
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
-http://ott-cdn.ucom.am/s12/index.m3u8
-#EXTINF:-1 group-title="亞美尼亞台",ՇՈՂԱԿԱԹ 輻射頻道
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
-http://ott-cdn.ucom.am/s13/index.m3u8
-#EXTINF:-1 group-title="亞美尼亞台",ՋԱՆ ԹԻՎԻ 简·蒂维頻道
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
-http://ott-cdn.ucom.am/s42/index.m3u8
-#EXTINF:-1 group-title="亞美尼亞台",ՍԻՆԵՄԱՆ 電影頻道
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
-http://ott-cdn.ucom.am/s66/index.m3u8
-#EXTINF:-1 group-title="亞美尼亞台",ՏՈՒՆՏՈՒՆԻԿ 主持人頻道
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
-http://ott-cdn.ucom.am/s46/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xrqFEou.png" group-title="亞美尼亞台",АTV ԱԹԻՎԻ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
-http://ott-cdn.ucom.am/s8/index.m3u8
-
-
-#EXTINF:-1 group-title="白俄罗斯台",FirstMusicChannelBielorrusia
-http://hz1.teleport.cc/HLS/SD.m3u8
-#EXTINF:-1 tvg-name="ОНТ Ⓢ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%C2%AB%D0%9E%D0%9D%D0%A2%C2%BB.svg/991px-%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%C2%AB%D0%9E%D0%9D%D0%A2%C2%BB.svg.png" group-title="白俄罗斯台",ОНТ Ⓢ
-https://stream.dc.beltelecom.by/ont/ont/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Belarus_5_logo.svg/742px-Belarus_5_logo.svg.png" group-title="白俄罗斯台",Беларусь 5
-https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%B1%D0%B5%D0%BB%D0%BE%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%C2%AB%D0%A1%D0%A2%D0%92%C2%BB.svg/640px-%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%B1%D0%B5%D0%BB%D0%BE%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%C2%AB%D0%A1%D0%A2%D0%92%C2%BB.svg.png" group-title="白俄罗斯台",СТВ
-https://ctv.dc.beltelecom.by/ctv/ctv.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Belarus_24_logo.svg/742px-Belarus_24_logo.svg.png" group-title="白俄罗斯台",Беларусь 24
-https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rzPQ9Iz.png" group-title="白俄罗斯台",Беларусь 5 Интернет
-https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PozF9MT.png" group-title="白俄罗斯台",1Mus
-http://hz1.teleport.cc/HLS/HD.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HWqxjGl.png" group-title="白俄罗斯台",Belros Ⓢ
-https://live2.mediacdn.ru/sr1/tro/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7tFiG6S.jpg" group-title="白俄罗斯台",Pervyy Muzykal'nyy BY Ⓢ
-http://rtmp.one.by:1200
-#EXTINF:-1 tvg-logo="https://i.imgur.com/e2RyN4r.jpg" group-title="白俄罗斯台",Radio HIT Orsk
-http://hithd.camsh.orsk.ru/hls/hithd.m3u8
-
-#EXTINF:-1 group-title="烏克蘭台",乌7канал
-http://cdn10.live-tv.od.ua:8081/7tvod/7tvod/playlist.m3u8
-#EXTINF:-1 group-title="烏克蘭台",M2 音乐频道
-http://live.m2.tv/hls3/stream.m3u8
-#EXTINF:-1 group-title="烏克蘭台",24 Канал
-http://streamvideol1.luxnet.ua/news24/news24.stream/playlist.m3u8
-
-
-#EXTINF:-1 group-title="孟加拉國台",EkuseyTV
-http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
-
-#EXTINF:-1 group-title="泰国台",泰国 ASTV News 1
-http://news1.live14.com/stream/news1_hi.m3u8
-#EXTINF:-1 group-title="泰国台",PBS-公共三台 HD
-http://thaipbs-live.cdn.byteark.com/live-en/playlist_720p/index.m3u8
-#EXTINF:-1 group-title="泰国台",PBS-公共三台 HD
-http://thaipbs-live.cdn.byteark.com/live/playlist_720p/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.malimarcdn.com/laochampatvHD.jpg" group-title="老撾台",Lao Champa TV
-https://livefta.malimarcdn.com/ftaedge00/laochampa1.sdp/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.malimarcdn.com/laochampatv2HD.jpg" group-title="老撾台",Lao Champa TV 2
-https://livefta.malimarcdn.com/ftaedge00/laochampa2.stream/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://aetlive.s3-us-west-2.amazonaws.com/assets/img/2018/03/03231638/newLaoChampa3.jpg" group-title="老撾台",Lao Champa TV 3
-https://livefta.malimarcdn.com/ftaedge00/laochampa3.stream/chunklist.m3u8
-
-#EXTINF:-1 group-title="緬甸台",5 Plus
-https://5a13fe32ef748.streamlock.net/mmplay/5plus/playlist.m3u8
-#EXTINF:-1 group-title="緬甸台",Channel 7
-https://5a13fe32ef748.streamlock.net/mmplay/channel7/playlist.m3u8
-#EXTINF:-1 group-title="緬甸台",Channel K
-https://5a13fe32ef748.streamlock.net/mmplay/channel9/playlist.m3u8
-#EXTINF:-1 group-title="緬甸台",MCS
-https://l1-xl1.myanmarnet.com/relay2/mcs/ch1/stream.m3u8
-#EXTINF:-1 group-title="緬甸台",緬甸國際電視台MITV
-https://5a13fe32ef748.streamlock.net/mmplay/mitv/playlist.m3u8
-#EXTINF:-1 group-title="緬甸台",MN TV
-https://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream.m3u8
-#EXTINF:-1 group-title="緬甸台",緬甸廣播電視台 MRTV
-https://5a13fe32ef748.streamlock.net/mmplay/mrtv/playlist.m3u8
-#EXTINF:-1 group-title="緬甸台",緬甸廣播電視台-4 MRTV 4
-https://5a13fe32ef748.streamlock.net/mmplay/mrtv-4/playlist.m3u8
-#EXTINF:-1 group-title="緬甸台",緬甸廣播電視台娛樂頻道 MRTV Entertainment
-https://5a13fe32ef748.streamlock.net/mmplay/mrtv-entertainment/playlist.m3u8
-#EXTINF:-1 group-title="緬甸台",緬甸廣播電視台議會頻道 MRTV Parliament (480p)
-https://5a13fe32ef748.streamlock.net/mmplay/hluttaw/playlist.m3u8
-
-#EXTINF:-1 group-title="印度台",印度 9XM(480p)
-https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
-#EXTINF:-1 group-title="印度台",今日印度 India Today（1）
-https://feeds.intoday.in/hltapps/api/master.m3u8
-#EXTINF:-1 group-title="印度台",今日印度 India Today（2）
-https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8
-#EXTINF:-1 group-title="印度台",印度 FASTWAYNEWS(720p)
-http://163.47.214.155:1935/fwnews/live/playlist.m3u8
-#EXTINF:-1 group-title="印度台",印度 MediaOne(576p)
-http://103.199.161.254/Content/mediaone/Live/Channel(MediaOne)/index.m3u8
-#EXTINF:-1 group-title="印度台",印度 NDTV24X7(480p)
-https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
-#EXTINF:-1 group-title="印度台",印度 NDTVIndia(480p)
-https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8
-#EXTINF:-1 group-title="印度台",Asianet News 馬拉雅拉姆語
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV11.m3u8
-#EXTINF:-1 group-title="印度台",MEDIA ONE 馬拉雅拉姆語
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV44.m3u8
-#EXTINF:-1 group-title="印度台",24 Twenty Four HD 馬拉雅拉姆語
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV50.m3u8
-#EXTINF:-1 group-title="印度台",Malai Murasu மாலை முரசு செய்திகள் 泰米爾語
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV10.m3u8
-#EXTINF:-1 group-title="印度台",NEWS 18
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV40.m3u8
-#EXTINF:-1 group-title="印度台",INDIA Today 孟加拉語
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV36.m3u8
-#EXTINF:-1 group-title="印度台",NewsTamil 泰米爾語
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV46.m3u8
-#EXTINF:-1 group-title="印度台",Bollywood Classic 寶萊塢經典
-http://89.187.177.137:8081/BOLLYWOOD_CLASSIC/index.m3u8
 
 #EXTINF:-1 group-title="西班牙台",TV Galicia Europa
 http://europa-crtvg.flumotion.com/playlist.m3u8
@@ -7404,91 +7594,6 @@ http://livestreaming.videolina.it/live/Videolina/chunklist_w523418370.m3u8
 #EXTINF:-1 tvg-logo="" group-title="義大利台",意大利大和動畫 Yamato Animation
 https://yamatovideo-yamatoanimation-1-it.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/200px-TN_todo_noticias_logo.svg.png" group-title="阿根廷台",TN Todo Noticias
-https://live-01-01-tn.vodgc.net/TN24/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IyP2UIx.png" group-title="阿根廷台",Encuentro Ⓨ Ⓖ
-https://www.youtube.com/user/encuentro/live
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Q4zaCuM.png" group-title="阿根廷台",Pakapaka Ⓨ Ⓖ
-https://www.youtube.com/user/CanalPakapaka/live
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KjD1uJS.png" group-title="阿根廷台",Mirador TV
-https://5fb24b460df87.streamlock.net/live-cont.ar/mirador/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RPLyrIC.png" group-title="阿根廷台",Cine.AR
-https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EGCq1wc.png" group-title="阿根廷台",Tec TV
-https://tv.initium.net.ar:3939/live/tectvmainlive.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4hYYpiu.png" group-title="阿根廷台",Televisión Pública Ⓨ
-https://www.youtube.com/user/TVPublicaArgentina/live
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iyYLNRt.png" group-title="阿根廷台",DeporTV
-https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xDjOUuz.png" group-title="阿根廷台",Canal 26
-https://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/k2Ku8Ib.png" group-title="阿根廷台",Crónica TV Ⓨ
-https://www.youtube.com/c/cronicatv/live
-#EXTINF:-1 tvg-logo="https://i.imgur.com/E3pamA5.png" group-title="阿根廷台",C5N Ⓨ
-https://www.youtube.com/c/c5n/live
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vJYzGt1.png" group-title="阿根廷台",LN+ Ⓨ
-https://www.youtube.com/c/LaNacionMas/live
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gfX0hdB.png" group-title="阿根廷台",Telemax
-https://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EWmshtx.png" group-title="阿根廷台",Net TV
-https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tvLHiAT.png" group-title="阿根廷台",TV Universidad
-https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZK7AQFg.png" group-title="阿根廷台",El Trece
-https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EtcVSm4.png" group-title="阿根廷台",El Nueve
-https://octubre-live.cdn.vustreams.com/live/channel09/live.isml/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Jt7dOQm.png" group-title="阿根廷台",América Ⓨ
-https://www.youtube.com/c/americaenvivo/live
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OdhF7ym.png" group-title="阿根廷台",A24 Ⓨ
-https://www.youtube.com/c/A24com/live
-
-#EXTINF:-1 group-title="加拿大台",The Shopping Channel
-http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
-#EXTINF:-1 group-title="加拿大台",Pardesi TV
-http://stream.pardesitv.online/pardesi/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RR7ATr2.png" group-title="加拿大台",Uvagut TV 加拿大因紐特語頻道
-https://dee7mwgg9dzvl.cloudfront.net/hls/uvagut/playlist.m3u8
-#EXTINF:-1 group-title="加拿大台",Global NEWS
-https://live.corusdigitaldev.com/groupa/live/48a5882b-a1ec-42d7-bfd7-6c2739e737da/live.isml/.m3u8
-#EXTINF:-1 group-title="加拿大台",Hunt Channel
-https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="英國台",BBC WorldNews
-http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
-#EXTINF:-1 group-title="英國台",BBC Home
-https://d1wxiaxdr51kqy.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-perrpizm3ap26-prod/playlist.m3u8
-#EXTINF:-1 group-title="英國台",BBC TWO
-http://41.205.93.154/BBCTWO/index.m3u8
-#EXTINF:-1 group-title="英國台",GBNews
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV33.m3u8
-#EXTINF:-1 group-title="英國台",EDGE Sport【體育】
-https://edgesport-rakuten-samsung.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="英國台",EUROSPORT 1【體育】
-https://cdn-nvm-chicago.lolokoko.tv/eurosport1.stream/chunks.m3u8
-#EXTINF:-1 group-title="英國台",GREAT action
-http://185.19.191.2:8090/GreatAction/index.m3u8
-#EXTINF:-1 group-title="英國台",Horse & Country TV【體育】
-https://hncfree-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="英國台",MUTV 曼联足球俱乐部【體育】
-https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_0/chunklist.m3u8
-#EXTINF:-1 group-title="英國台",Wild Planet
-https://d3c7duantorcb1.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jpfvel38m2ce0-prod/77466ab3-8e6b-497f-9bf9-7b20f2536a20/3.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/df/ABC_News_Channel.svg/640px-ABC_News_Channel.svg.png" group-title="澳大利亞台",ABC News
-https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
-
-#EXTINF:-1 group-title="新西蘭台",Real Wild
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwildnz-samsungnz/playlist.m3u8
-#EXTINF:-1 group-title="新西蘭台",Kordia TV 音乐
-https://ptvlive.kordia.net.nz/out/v1/3fc2254c865a457c8d7fbbce227a2aae/index.m3u8
-
-
-#EXTINF:-1 group-title="法國台",France 24
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV38.m3u8
-#EXTINF:-1 group-title="法國台",时尚
-http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
 
 #EXTINF:-1 group-title="德國台",DW 德國之聲
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV08.m3u8
@@ -7529,87 +7634,20 @@ http://wowza.telvi.de/rennsteigtv/stream_720p/playlist.m3u8
 #EXTINF:-1 group-title="德國台" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okto.png",Okto
 https://cdn3.wowza.com/1/MHFtazJReW5rOFhP/N2NWNDZ2/hls/live/playlist.m3u8
 
-
-
-
-#EXTINF:-1 group-title="波蘭台",Прямий
-http://95.67.21.100/hls/prm_ua_hi/index.m3u8
-#EXTINF:-1 group-title="波蘭台",TV Kujawy (Opt-1)
-http://stream.tvkujawy.pl:8080/live/broadcast.m3u8
-#EXTINF:-1 group-title="波蘭台",TV Torun
-http://217.173.176.107:1935/live/ngrp:tvk.stream_all/master.m3u8
-
 #EXTINF:-1 group-title="荷蘭台",OmroepEde(480p)
 https://ms7.mx-cd.net/tv/113-474263/EdeTV.smil/playlist.m3u8
 #EXTINF:-1 group-title="荷蘭台",RTVNOFTV(720p)
 http://593aed234297b.streamlock.net:1935/rtvnof/rtvnof/playlist.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YjKqWru.png" group-title="比利時台",BX1
 https://59959724487e3.streamlock.net/stream/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/k06WvYl.png" group-title="波黑台",RTRS PLUS Ⓢ
-https://pluslive.rtrs.tv/plus/plus/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/72oMSWz.png" group-title="波黑台",N1 Bosna i Hercegovina
-https://best-str.umn.cdn.united.cloud/stream?channel=n1bos&p=n1Sh4redSecre7iNf0&sp=n1info&stream=sp1400&u=n1info
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/60/Logo_of_TV_Herceg-Bosne.png" group-title="波黑台",RTV HB Ⓢ
-https://prd-hometv-live-open.spectar.tv/ERO_1_083/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DUBvfWb.png" group-title="波黑台",RTV BN
-https://rtvbn.tv:8080/live/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9NgxOdb.png" group-title="波黑台",RTV Glas Drine
-http://glasdrine.cutuk.net:8081/433ssdsw/GlasDrineSD/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/V6W3yEp.png" group-title="波黑台",Sevdah Ⓢ
-https://restreamer2.tnt.ba/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/znpvJys.png" group-title="波黑台",Televizija 5
-https://balkanmedia.dynu.net/hls/tv5web.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XYWgd3E.png" group-title="波黑台",SuperTV
-https://mirtv.club/live/mirtv/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TKUaflB.png" group-title="波黑台",RTV ZE Ⓢ
-https://stream.rtvze.ba/live/123/123.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vxaSn1K.png" group-title="冰島台",RÚV【體育】
+https://ruv-web-live.akamaized.net/streymi/ruverl/ruverl.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yDKRuXQ.png" group-title="冰島台",RÚV 2
+https://ruvlive.akamaized.net/out/v1/2ff7673de40f419fa5164498fae89089/index.m3u8
 
 
-#EXTINF:-1 group-title="捷克台",Retro (Opt-1)
-http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/deVHJKS.png" group-title="捷克台",Mňau TV (1080p)
-https://5ca49f2417d90.streamlock.net/mnau/livestream/playlist.m3u8
-
-#EXTINF:-1 group-title="斯洛伐克台",TV 8
-http://109.74.145.11:1935/tv8/mp4:tv8.stream_360p/chunklist_w974670813.m3u8
-#EXTINF:-1 group-title="斯洛伐克台",TVNZ
-http://s1.media-planet.sk:80/live/novezamky/BratuMarian.m3u8
-#EXTINF:-1 group-title="斯洛伐克台",TeleviziaOSEM(360p)
-http://109.74.145.11:1935/tv8/mp4:tv8.stream_360p/playlist.m3u8
-#EXTINF:-1 group-title="斯洛伐克台",TelevíziaOSEM(576p)
-http://109.74.145.11:1935/tv8/ngrp:tv8.stream_all/playlist.m3u8
-#EXTINF:-1 group-title="斯洛伐克台",TVRužinov(1080p)
-http://lb.streaming.sk/tvruzinov/stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rL2v9pM.png" group-title="阿爾巴尼亞台",Kanali 7
-https://fe.tring.al/delta/105/out/u/1200_1.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Pr4ixiA.png" group-title="阿爾巴尼亞台",Alpo TV
-https://5d00db0e0fcd5.streamlock.net/7236/7236/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/X3ukD5t.png" group-title="阿爾巴尼亞台",CNA
-https://live1.mediadesk.al/cnatvlive.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/News_24_%28Albania%29.svg/1024px-News_24_%28Albania%29.svg.png" group-title="阿爾巴尼亞台",News 24
-https://tv.balkanweb.com/news24/livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ILZY5bJ.png" group-title="阿爾巴尼亞台",Ora News
-https://live1.mediadesk.al/oranews.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Panorama_logo.svg/512px-Panorama_logo.svg.png" group-title="阿爾巴尼亞台",Panorama TV
-http://198.244.188.94/panorama/livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yuRDJYY.png" group-title="阿爾巴尼亞台",Report TV
-https://deb10stream.duckdns.org/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4zVyj1M.png" group-title="阿爾巴尼亞台",Syri
-https://stream.syritv.al/SyriTV/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tBAXkOW.png" group-title="阿爾巴尼亞台",Top News
-https://www.twitch.tv/topnewsal
-#EXTINF:-1 tvg-logo="https://i.imgur.com/D3hNOVS.png" group-title="阿爾巴尼亞台",Tropoja
-https://live.prostream.al/al/smil:tropojatv.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/k9WqPLZ.png" group-title="阿爾巴尼亞台",TV 7 Albania
-https://5d00db0e0fcd5.streamlock.net/7064/7064/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gUz2AjM.png" group-title="阿爾巴尼亞台",TV Apollon
-https://live.apollon.tv/Apollon-WEB/video.m3u8?token=tnt3u76re30d2
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Vizion_Plus.svg/512px-Vizion_Plus.svg.png" group-title="阿爾巴尼亞台",Vizion Plus
-https://fe.tring.al/delta/105/out/u/rdghfhsfhfshs.m3u8
 
 #EXTINF:-1 group-title="喀麥隆台",Vision 4
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/vision4/hls_video/index.m3u8
@@ -7648,13 +7686,47 @@ https://stream3.camara.gov.br/tv1/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Logotipo_da_TVE_RS.png" group-title="巴西台",TVE RS
 http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vxaSn1K.png" group-title="冰島台",RÚV【體育】
-https://ruv-web-live.akamaized.net/streymi/ruverl/ruverl.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yDKRuXQ.png" group-title="冰島台",RÚV 2
-https://ruvlive.akamaized.net/out/v1/2ff7673de40f419fa5164498fae89089/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/200px-TN_todo_noticias_logo.svg.png" group-title="阿根廷台",TN Todo Noticias
+https://live-01-01-tn.vodgc.net/TN24/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IyP2UIx.png" group-title="阿根廷台",Encuentro Ⓨ Ⓖ
+https://www.youtube.com/user/encuentro/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Q4zaCuM.png" group-title="阿根廷台",Pakapaka Ⓨ Ⓖ
+https://www.youtube.com/user/CanalPakapaka/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KjD1uJS.png" group-title="阿根廷台",Mirador TV
+https://5fb24b460df87.streamlock.net/live-cont.ar/mirador/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RPLyrIC.png" group-title="阿根廷台",Cine.AR
+https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EGCq1wc.png" group-title="阿根廷台",Tec TV
+https://tv.initium.net.ar:3939/live/tectvmainlive.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4hYYpiu.png" group-title="阿根廷台",Televisión Pública Ⓨ
+https://www.youtube.com/user/TVPublicaArgentina/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iyYLNRt.png" group-title="阿根廷台",DeporTV
+https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xDjOUuz.png" group-title="阿根廷台",Canal 26
+https://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k2Ku8Ib.png" group-title="阿根廷台",Crónica TV Ⓨ
+https://www.youtube.com/c/cronicatv/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/E3pamA5.png" group-title="阿根廷台",C5N Ⓨ
+https://www.youtube.com/c/c5n/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vJYzGt1.png" group-title="阿根廷台",LN+ Ⓨ
+https://www.youtube.com/c/LaNacionMas/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gfX0hdB.png" group-title="阿根廷台",Telemax
+https://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EWmshtx.png" group-title="阿根廷台",Net TV
+https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tvLHiAT.png" group-title="阿根廷台",TV Universidad
+https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZK7AQFg.png" group-title="阿根廷台",El Trece
+https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EtcVSm4.png" group-title="阿根廷台",El Nueve
+https://octubre-live.cdn.vustreams.com/live/channel09/live.isml/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Jt7dOQm.png" group-title="阿根廷台",América Ⓨ
+https://www.youtube.com/c/americaenvivo/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OdhF7ym.png" group-title="阿根廷台",A24 Ⓨ
+https://www.youtube.com/c/A24com/live
 
-#EXTINF:-1 group-title="拉脫維亞台",TV Net
-http://player.tvnet.lv/stream/amlst:61659/chunklist_w1822312625_b528000_pd892000.m3u8
+
+
 
 #EXTINF:-1 group-title="希臘台",Fox TV
 http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8
@@ -7671,48 +7743,7 @@ https://liveopen.siliconweb.com/openTvLive/openEcclessia/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/X7jKwYl.png" group-title="希臘台",Κρήτη TV 克里特岛
 http://live.cretetv.gr:1935/cretetv/myStream/f1tv.m3u8
 
-#EXTINF:-1 group-title="匈牙利台",Hegyvidek Tv 布達佩斯
-http://tv.hegyvidek.hu/stream_mpeg.flv
-#EXTINF:-1 tvg-logo="https://onlinestream.live/logos/4740.png" group-title="匈牙利台",Hír TV
-https://onlinestream.live/play.m3u?id=4740&ext=.m3u
-#EXTINF:-1 tvg-logo="https://www.apostoltv.hu/images/header-logo.png" group-title="匈牙利台",Apostol TV
-https://live.apostoltv.hu/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ip8L5Vt.jpg" group-title="匈牙利台",Balaton TV
-https://stream.iptvservice.eu/hls/balatontv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vraAfd7.png" group-title="匈牙利台",Hatoscsatorna
-rtmp://lpmedia.hu:1935/Hatoscsatorna/livestream
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5cOpdRp.jpg" group-title="匈牙利台",Ózdi Városi TV
-https://stream.unrealhosting.hu:443/hls/ozdtv/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iD5tCjX.png" group-title="匈牙利台",Pannon RTV
-https://stream.unrealhosting.hu:443/hls/pannonrtv/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/G9Ib5K3.png" group-title="匈牙利台",TV7 Bekescsaba
-https://stream.y5.hu/stream/stream_bekescsaba/stream.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7ZPYJJ0.jpg" group-title="匈牙利台",VTV Füzesabony
-https://stream.unrealhosting.hu:443/hls/ftv/live.m3u8
-#EXTINF:-1 tvg-logo="https://hegyvidektv.hu/wp-content/uploads/2020/08/hegyvidek.jpg" group-title="匈牙利台",Hegyvidék TV
-https://tv.hegyvidek.hu/hvtv/hvstream.m3u8
-#EXTINF:-1 tvg-logo="https://www.citytv.hu/images/logo.png" group-title="匈牙利台",CityTV (Belváros Lipótváros)
-https://citytv.hu/media/live/stream.m3u8
-#EXTINF:-1 tvg-logo="http://www.dealood.com/content/uploads/images/March2019/5c9721a07ea87-images-large.png" group-title="匈牙利台",AlföldTV
-https://cloudfront41.lexanetwork.com:1344/relay01/livestream006.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RHgaPCk.png" group-title="匈牙利台",Gyöngyös TV
-https://cloudfront41.lexanetwork.com:1344/relay02/livestream005.sdp/playlist.m3u8?key=hkNHP
-#EXTINF:-1 tvg-logo="https://www.halomtv.hu/sites/all/themes/gfx_zen/logo.png" group-title="匈牙利台",Halom TV
-rtmp://212.92.13.108/live/livestream1
-#EXTINF:-1 tvg-logo="https://kecskemetitv.hu/templates/kecskemetitv/img/ktv_logo.png" group-title="匈牙利台",Kecskemét TV
-https://eurobioinvest.hu:444/live/ktv.m3u8
-#EXTINF:-1 tvg-logo="https://kincsempark.hu/wp-content/uploads/2016/11/fejlec_logo_f-1.png" group-title="匈牙利台",Lóverseny közvetítés
-https://cloudfront41.lexanetwork.com:1344/xrelay/loverseny2.sdp/playlist.m3u8
-#EXTINF:-1 tvg-name="DTV" tvg-logo="https://i.imgur.com/YSpqmSO.png" group-title="匈牙利台",DTV
-http://cloudfront44.lexanetwork.com:1732/hlsrelay003/hls/livestream.sdp.m3u8
-#EXTINF:-1 tvg-name="Bajai TV" tvg-logo="https://i.imgur.com/cyReGWh.png" group-title="匈牙利台",Bajai TV
-https://cloudfront41.lexanetwork.com:1344/relay01/livestream002.sdp/playlist.m3u8
-#EXTINF:-1 tvg-name="TV Eger" tvg-logo="https://i.imgur.com/GUVW073.png" group-title="匈牙利台",TV Eger
-http://stream.tveger.hu:8010/live.m3u8
-#EXTINF:-1 tvg-name="Miskolc TV" tvg-logo="https://i.imgur.com/IoiNus2.png" group-title="匈牙利台",Miskolc TV
-https://video.mhzrt.hu/live/mitv/playlist.m3u8
-#EXTINF:-1 tvg-name="Oroszlányi Városi Televízió" tvg-logo="https://i.imgur.com/P0fxUH5.png" group-title="匈牙利台",Oroszlányi Városi Televízió
-https://cloudfront44.lexanetwork.com:1344/relay01/broadcast002.sdp/playlist.m3u8
+
 
 #EXTINF:-1 group-title="伊朗台",PBC Tapesh TV
 http://iptv.tapesh.tv/tapesh/playlist.m3u8
