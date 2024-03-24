@@ -7289,8 +7289,6 @@ http://thaipbs-live.cdn.byteark.com/live/playlist_720p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.malimarcdn.com/laochampatvHD.jpg" group-title="老撾台",Lao Champa TV
 https://livefta.malimarcdn.com/ftaedge00/laochampa1.sdp/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.malimarcdn.com/laochampatv2HD.jpg" group-title="老撾台",Lao Champa TV 2
-https://livefta.malimarcdn.com/ftaedge00/laochampa2.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://aetlive.s3-us-west-2.amazonaws.com/assets/img/2018/03/03231638/newLaoChampa3.jpg" group-title="老撾台",Lao Champa TV 3
 https://livefta.malimarcdn.com/ftaedge00/laochampa3.stream/chunklist.m3u8
 
