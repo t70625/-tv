@@ -4114,6 +4114,33 @@ https://stream.kaztrk.kz/regional/semeytv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://tv1.kg/css/newmin/logotop.png" group-title="吉爾吉斯台",TV1 KG 比什凱克
 http://212.2.225.30:1935/live/site.stream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="吉爾吉斯台",312 Кино
+http://176.126.166.43:1935/live/312kino/playlist.m3u8
+#EXTINF:-1 group-title="吉爾吉斯台",312 ТВ
+http://176.126.166.43:1935/live/312musik/playlist.m3u8
+#EXTINF:-1 group-title="吉爾吉斯台",Next TV
+http://gohoski.fvds.ru:3000/mediabay/601/playlist.m3u8
+#EXTINF:-1 group-title="吉爾吉斯台",УТРК
+https://st2.mediabay.tv/KG_KTRK-UTRK/index.m3u8
+#EXTINF:-1 group-title="吉爾吉斯台",УТРК Ала-Тоо 24
+https://st2.mediabay.tv/KG_KTRK-Ala-too/playlist.m3u8
+#EXTINF:-1 group-title="吉爾吉斯台",УТРК Баластан
+https://st2.mediabay.tv/KG_KTRK-Balastan/index.m3u8
+#EXTINF:-1 group-title="吉爾吉斯台",УТРК Маданият
+https://st2.mediabay.tv/KG_KTRK-Madaniyat/playlist.m3u8
+#EXTINF:-1 group-title="吉爾吉斯台",УТРК Музыка
+https://st2.mediabay.tv/KG_KTRK-Muzika/index.m3u8
+#EXTINF:-1 group-title="吉爾吉斯台",УТРК Спорт【體育】
+https://st2.mediabay.tv/KG_KTRK-Sport/index.m3u8
+#EXTINF:-1 group-title="吉爾吉斯台",ЭлТР
+http://gohoski.fvds.ru:3000/mediabay/162/index.m3u8
+#EXTINF:-1 group-title="吉爾吉斯台",ЭлТР Билим Илим
+http://gohoski.fvds.ru:3000/mediabay/611/index.m3u8
+#EXTINF:-1 group-title="吉爾吉斯台",Ош Пирим
+http://gohoski.fvds.ru:3000/mediabay/697/playlist.m3u8
+#EXTINF:-1 group-title="吉爾吉斯台",TV15
+http://gohoski.fvds.ru:3000/mediabay/655/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://acra.gov.az/storage/493/348364.jpg" group-title="阿塞拜疆台",麥麩頻道 Kəpəz TV
 http://85.132.81.184:8080/arbkepez/live/index.m3u8?checkedby:iptvcat.com
