@@ -4446,6 +4446,8 @@ http://ott-cdn.ucom.am/s46/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s8/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://1tv.ge/app/themes/wi-theme/resources/assets/img/logo/ge.png" group-title="格魯吉亞台", Pirveli Arxi (1TV)
+http://tv.cdn.xsg.ge/gpb-1tv/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 group-title="白俄罗斯台",FirstMusicChannelBielorrusia
 http://hz1.teleport.cc/HLS/SD.m3u8
