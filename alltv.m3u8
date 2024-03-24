@@ -7411,8 +7411,11 @@ https://5864df9ceac85.streamlock.net/germanpictures-live/mp4:streamschedule/play
 https://cdn.icu.de/rtplive/btv.stream/playlist.m3u8
 #EXTINF:-1 group-title="德國台",earthtv
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV79.m3u8
-#EXTINF:-1 group-title="德國台" tvg-logo="n-tv.png",N-TV
-http://hlsntv-i.akamaihd.net/hls/live/218889/ntv/master.m3u8
+#EXTINF:-1 group-title="德國台",德国Noa 4 Hamburg
+http://hls1.wtnet.de/noa4hh/apple/wifi6500.m3u8
+#EXTINF:-1 group-title="德國台",德国Noa 4 Norderstedt
+http://hls1.wtnet.de/noa4/apple/wifi6500.m3u8
+
 
 #EXTINF:-1 group-title="白俄罗斯台",FirstMusicChannelBielorrusia
 http://hz1.teleport.cc/HLS/SD.m3u8
