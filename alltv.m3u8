@@ -7833,6 +7833,42 @@ https://now14.g-mana.live/media/91517161-44ab-4e46-af70-e9fe26117d2e/mainManifes
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PEdXHSE.png" group-title="以色列台",The Shopping Channel
 https://shoppingil-rewriter.vidnt.com/index.m3u8
 
+
+
+
+#EXTINF:-1 tvg-logo="http://cycnow.com/site/images/system/logo.png" group-title="埃及台", Christian Youth Channel
+http://media.smc-host.com:1935/cycnow.com/cyc2/chunklist_w258510680.m3u8
+#EXTINF:-1 tvg-logo="http://tunisvista.com/medias/mekameleen-tv-live-online-egypt.jpg" group-title="埃及台", Mekameleen News
+http://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="http://www.tvgelive.gq/images/logo-dark.png" group-title="赤道幾內亞台", Televisión de Guinea Ecuatorial
+http://rtmp.ott.mx1.com/tvge1/tvge1multi.smil/chunklist_w2108596902_b1500000.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q82Fl8o.jpg" group-title="利比亞台",One TV
+http://82.212.74.2:8000/live/7308.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://www.rba.co.rw/IMG/rtv_logo.png" group-title="盧旺達台",Rwanda TV
+https://5c46fa289c89f.streamlock.net/rtv/rtv/playlist.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://www.freeetv.com/images/01_logo/africatv_sudan.jpg" group-title="蘇丹台", Africa TV
+http://africatv.live.net.sa:1935/live/africatv/playlist.m3u
+#EXTINF:-1 tvg-logo="https://ik.imagekit.io/ulangotv/image/upload/tr:n-small_tn/3781376_logo_africa_tv_2.png" group-title="蘇丹台", Africa TV 2
+http://africatv.live.net.sa:1935/live/africatv2/playlist.m3u
+#EXTINF:-1 tvg-logo="https://ik.imagekit.io/ulangotv/image/upload/tr:n-small_tn/35706_logo_africa_tv_3_3_2.png" group-title="蘇丹台", Africa TV 3
+http://africatv.live.net.sa:1935/live/africatv3/playlist.m3u
+
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wnpe5i8.png" group-title="索馬里台",MM Somali TV
 https://cdn.mediavisionuk.com:9000/MMTV/index.m3u8
 
