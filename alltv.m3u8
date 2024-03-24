@@ -7810,6 +7810,58 @@ https://stream.skynewsarabia.com/hls/sna_720.m3u8
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_aloula
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/de/Ad-drama.png" group-title="阿聯酋台", Abu Dhabi Drama
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_drama
+#EXTINF:-1 tvg-logo="https://www.alaan.tv/wp-content/themes/alaan-child-tv/assets/img/logo.png" group-title="阿聯酋台", Alaan TV
+http://livecdnh3.tvanywhere.ae/hls/alaantv/index.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/Cb53JquW4AA_-o9.jpg" group-title="阿聯酋台",Al Wousta TV
+https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/chunklist_w1270221403_b764000_t64VVE=.m3u8
+#EXTINF:-1 tvg-logo="http://www.1arablive.com/livetv/assets/images/1523379977.png" group-title="阿聯酋台",Ajman
+http://livecdnh2.tvanywhere.ae/hls/ajman/04.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ae/B4UAflam.ae.png" group-title="阿聯酋台",B4U Aflam
+http://livecdnh3.tvanywhere.ae/hls/b4uaflam/04.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ae/B4UPlus.ae.png" group-title="阿聯酋台",B4U Plus
+http://livecdnh3.tvanywhere.ae/hls/b4uplus/04.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Cartoon_Network_Arabic_logo.png" group-title="阿聯酋台",Cartoon Network كرتون
+http://95.170.215.109:80/hls/m3u8/CNArabica-Backup.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/Logo_Dubai_TV.png" group-title="阿聯酋台", Dubai TV
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaitv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8d/Onetv_Logo_UAE.png" group-title="阿聯酋台", Dubai One
+http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1283_1.png" group-title="阿聯酋台",Dubai Zaman
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaizaman
+#EXTINF:-1  tvg-logo="http://www.emarattv.ae/public/img/branding/logo.png" group-title="阿聯酋台",Emarat TV
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_alemarat
+#EXTINF:-1 tvg-logo="https://majid.ae/wp-content/themes/majid/images/logo.png" group-title="阿聯酋台",Majid Kids
+http://95.170.215.109/hls/Majid-Backup-M.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ae/MBC1.ae.png" group-title="阿聯酋台",MBC 1
+http://livecdnh2.tvanywhere.ae/hls/mbc1/05.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ae/MBC2.ae.png" group-title="阿聯酋台",MBC 2
+http://livecdnh3.tvanywhere.ae:80/hls/mbc2/05.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ae/MBC3.ae.png" group-title="阿聯酋台",MBC 3
+http://livecdnh2.tvanywhere.ae/hls/mbc3/05.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8e/MBC_4_logo.png" group-title="阿聯酋台",MBC 4
+http://livecdnh3.tvanywhere.ae:80/hls/mbc4/05.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.sat.tv/wp-content/uploads/2017/03/MBCAction.png" group-title="阿聯酋台",MBC Action
+http://livecdnh3.tvanywhere.ae:80/hls/mbcaction/05.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.sat.tv/wp-content/uploads/2017/03/MBCDrama.png" group-title="阿聯酋台",MBC Drama
+http://livecdnh2.tvanywhere.ae:80/hls/mbc_drama/05.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.sat.tv/wp-content/uploads/2017/03/MBCBollywoodTV.png" group-title="阿聯酋台", MBC Bollywood
+http://livecdnh2.tvanywhere.ae:80/hls/mbc_bolly/04.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ae/MBCMax.ae.png" group-title="阿聯酋台",MBC Max
+http://livecdnh3.tvanywhere.ae:80/hls/mbcmax/05.m3u8
+#EXTINF:-1 tvg-logo="http://content.osn.com/logo/channel/cropped/NOW.png" group-title="阿聯酋台",OSN Music Now
+http://livecdnh1.tvanywhere.ae/hls/music_now/04.m3u8
+#EXTINF:-1 tvg-logo="http://content.osn.com/logo/channel/cropped/CM1.png" group-title="阿聯酋台", OSN Cinema 1
+http://livecdnh1.tvanywhere.ae/hls/cin1/04.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ae/SamaDubai.ae.png" group-title="阿聯酋台",Sama Dubai
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=samadubai
+#EXTINF:-1 tvg-logo="http://sharjahart.org/images/uploads/site-images/_thumbnail-image-retina/SBA-Logo-Secure-Spaces--Colors-%28002%29.png" group-title="阿聯酋台",Sharjah TV
+https://svs.itworkscdn.net/smc1live/smc1.smil/chunklist_b2000000.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Spacetoon_logo.png" group-title="阿聯酋台",Spacetoon
+http://stream.spacetoon.com:1935/live/stchannel/smil:livesmil.smil/chunklist_w814636843_b1296000_slAR.m3u8
+#EXTINF:-1 tvg-logo="http://img.jetbitts.com/android/thumbs/ico/6/s/wanasah-android.jpg" group-title="阿聯酋台",Wanasah
+http://livecdnh2.tvanywhere.ae/hls/wanasah/04.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/半岛新闻.png" group-title="卡塔爾台",半岛新闻台（英語）（通道1）
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
