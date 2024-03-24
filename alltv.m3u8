@@ -7808,8 +7808,6 @@ https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_
 https://stream.skynewsarabia.com/hls/sna_720.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/Abu_Dhabi_Al_Oula_logo.png" group-title="阿聯酋台", Abu Dhabi TV
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_aloula
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/de/Ad-drama.png" group-title="阿聯酋台", Abu Dhabi Drama
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_drama
 #EXTINF:-1 tvg-logo="https://www.alaan.tv/wp-content/themes/alaan-child-tv/assets/img/logo.png" group-title="阿聯酋台", Alaan TV
 http://livecdnh3.tvanywhere.ae/hls/alaantv/index.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/Cb53JquW4AA_-o9.jpg" group-title="阿聯酋台",Al Wousta TV
