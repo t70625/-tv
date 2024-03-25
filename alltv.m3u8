@@ -6,18 +6,26 @@ http://220.163.178.144:8888/tsfile/live/0001_1.m3u8
 http://39.134.66.110/PLTV/88888888/224/3221225816/index.m3u8
 #EXTINF:-1 group-title="中央電視台" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png",CCTV-1 綜合頻道 HD (緩衝)
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
+#EXTINF:-1 group-title="中央電視台" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png",CCTV-1 綜合頻道 標清
+http://113.195.172.192:808/hls/9/index.m3u8
 #EXTINF:-1 group-title="中央電視台" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png",CCTV-2 財經頻道 HD
 http://220.163.178.144:8888/tsfile/live/0002_1.m3u8
 #EXTINF:-1 group-title="中央電視台" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png",CCTV-2 財經頻道 HD(緩衝)
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
+#EXTINF:-1 group-title="中央電視台" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png",CCTV-2 財經頻道 標清
+http://113.195.172.192:808/hls/10/index.m3u8
 #EXTINF:-1 group-title="中央電視台" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png",CCTV-3 綜藝頻道 HD
 http://220.163.178.144:8888/tsfile/live/0003_1.m3u8
 #EXTINF:-1 group-title="中央電視台" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png",CCTV-3 綜藝頻道 HD(緩衝)
 http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226397/1.m3u8
+#EXTINF:-1 group-title="中央電視台" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png",CCTV-3 綜藝頻道 HD
+http://113.195.172.192:808/hls/11/index.m3u8
 #EXTINF:-1 group-title="中央電視台" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png",CCTV-4 中文國際頻道 HD
 http://220.163.178.144:8888/tsfile/live/0004_1.m3u8
 #EXTINF:-1 group-title="中央電視台" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png",CCTV-4 中文國際頻道 HD(緩衝)
 http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
+#EXTINF:-1 group-title="中央電視台" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png",CCTV-4 標清
+http://113.195.172.192:808/hls/12/index.m3u8
 #EXTINF:-1 group-title="中央電視台" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png",CCTV-5 體育頻道 HD（1）
 http://220.163.178.144:8888/tsfile/live/0005_1.m3u8
 #EXTINF:-1 group-title="中央電視台" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png",CCTV-5 體育頻道 HD（2）
@@ -68,6 +76,8 @@ http://1.195.111.251:11190/tsfile/live/0014_1.m3u8
 http://221.1.210.106:8053/tsfile/live/0015_1.m3u8
 #EXTINF:-1 group-title="中央電視台" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png",CCTV-15 音樂頻道 HD(緩衝)
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225785/1.m3u8
+#EXTINF:-1 group-title="中央電視台" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png",CCTV-16 奧林匹克頻道 HD
+http://113.195.172.192:808/hls/25/index.m3u8
 #EXTINF:-1 group-title="中央電視台" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png",CCTV-16 奧林匹克頻道 HD(緩衝)
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
 #EXTINF:-1 group-title="中央電視台" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png",CCTV-17 農業農村頻道 HD
@@ -465,6 +475,8 @@ http://121.24.99.177:8090/hls/74/index.m3u8
 http://live.bygd.cn/byzh/sd/live.m3u8
 #EXTINF:-1 group-title="甘肅台" tvg-logo="http://tv.haoqu99.com/d/file/2018/0202/small16cda4826ac19685a6cd9e6d004273ae1517563314.jpg",白银公共频道
 http://live.bygd.cn/bygg/sd/live.m3u8
+#EXTINF:-1 group-title="甘肅台",隴西電視台
+http://play.kankanlive.com/live/1669881644081970.m3u8
 #EXTINF:-1 group-title="甘肅台", 崆峒综合
 http://125.74.200.110:10080/hls/001/001_live.m3u8?gansu
 
@@ -1004,8 +1016,41 @@ http://live2.sytv.net.cn/ggpd/playlist.m3u8?sign=52e2ec9b49cd8a9d3f1e8d32619efec
 #EXTINF:-1 group-title="湖南台",溆浦綜合
 http://111.8.242.84:9901/tsfile/live/1004_1.m3u8
 
-#EXTINF:-1 group-title="江西台" tvg-logo="https://live.fanmingming.com/tv/江西卫视.png",江西卫视
+
+
+#EXTINF:-1 group-title="江西台" tvg-logo="https://live.fanmingming.com/tv/江西卫视.png",江西衛視-1（1）
 http://121.24.99.177:8090/hls/55/index.m3u8
+#EXTINF:-1 group-title="江西台" tvg-logo="https://live.fanmingming.com/tv/江西卫视.png",江西衛視-1（2）
+http://113.195.172.192:808/hls/1/index.m3u8
+#EXTINF:-1 group-title="江西台" tvg-logo="https://live.fanmingming.com/tv/江西都市.png",江西都市-2
+http://113.195.172.192:808/hls/2/index.m3u8
+#EXTINF:-1 group-title="江西台" tvg-logo="https://live.fanmingming.com/tv/江西经济生活.png",江西經濟生活-3
+http://113.195.172.192:808/hls/3/index.m3u8
+#EXTINF:-1 group-title="江西台" tvg-logo="https://live.fanmingming.com/tv/江西影视.png",江西影視-4
+http://113.195.172.192:808/hls/4/index.m3u8
+#EXTINF:-1 group-title="江西台" tvg-logo="https://live.fanmingming.com/tv/江西公共.png",江西公共-5
+http://113.195.172.192:808/hls/5/index.m3u8
+#EXTINF:-1 group-title="江西台" tvg-logo="https://live.fanmingming.com/tv/江西少儿.png",江西少兒-6
+http://113.195.172.192:808/hls/35/index.m3u8
+#EXTINF:-1 group-title="江西台" tvg-logo="https://live.fanmingming.com/tv/江西新闻.png",江西新聞-7
+http://113.195.172.192:808/hls/96/index.m3u8
+#EXTINF:-1 group-title="江西台",南昌-1新闻综合
+http://live.cooltv.top/tv/nctv.php?id=1
+#EXTINF:-1 group-title="江西台",南昌-2文旅
+http://live.cooltv.top/tv/nctv.php?id=2
+#EXTINF:-1 group-title="江西台",南昌-3资讯
+http://live.cooltv.top/tv/nctv.php?id=3
+#EXTINF:-1 group-title="江西台",萍乡新闻综合
+http://qrh.yimkj.cn/江西赣云.php?id=pxxwzh
+#EXTINF:-1 group-title="江西台",萍乡公共
+http://qrh.yimkj.cn/江西赣云.php?id=pxgg
+
+#EXTINF:-1 group-title="江西台",赣州公共
+http://wb.jxgztv.com/live/gztv2.flv
+#EXTINF:-1 group-title="江西台",赣州教育
+http://wb.jxgztv.com/live/gztv3.flv
+#EXTINF:-1 group-title="江西台",赣州新闻
+http://wb.jxgztv.com/live/gztv1.flv
 
 #EXTINF:-1 group-title="江蘇台" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png",江苏卫视
 http://121.24.99.177:8090/hls/38/index.m3u8
@@ -1921,9 +1966,7 @@ https://txylivehd.centv.cn/showto/cetv2.m3u8
 #EXTINF:-1 group-title="教育電視台" tvg-logo="https://live.fanmingming.com/tv/CETV3.png",中国教育电视台三套 CETV-3
 https://iptv.luas.edu.cn/liverespath/3a13f3b554cd6c3764599392bb43650e4e015b87/84d91c0626-0-0-738f63a5615990888e791da6a56c7655/index.m3u8
 #EXTINF:-1 group-title="教育電視台" tvg-logo="https://live.fanmingming.com/tv/CETV4.png",中国教育电视台四套 CETV-4
-https://iptv.luas.edu.cn/liverespath/d9fd740848ee6bc5d883832bba7cafb90524390e/7bbaa2f074-0-0-74a0900f276ab7a943937fced10b07a6/index.m3u8
-#EXTINF:-1 group-title="教育電視台" tvg-logo="https://live.fanmingming.com/tv/CETV4.png",中国教育电视台四套 CETV-4（2）
-http://39.134.65.141/PLTV/88888888/224/3221225750/index.m3u8
+http://113.195.172.192:808/hls/8/index.m3u8
 #EXTINF:-1 group-title="教育電視台" tvg-logo="https://www.cec-tv.com.cn/template/eyou/pc/images/head_bg2.jpg",中国国际教育1台：
 http://play.cec-tv.com.cn/channel/cec-tv1.m3u8
  #EXTINF:-1 group-title="教育電視台" tvg-logo="https://www.cec-tv.com.cn/template/eyou/pc/images/head_bg2.jpg",中国国际教育2台：
