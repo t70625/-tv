@@ -240,22 +240,30 @@ http://38.64.72.148:80/hls/modn/list/4003/chunklist0.m3u8
 https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream2/streamPlaylist.m3u8
 #EXTINF:-1 group-title="香港台" tvg-logo="http://gbm.123tv.cn/uploadfile/2023/08-1691324503.jpg",香港 港台电视32
 https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
+#EXTINF:-1 group-title="香港台" tvg-logo="http://gbm.123tv.cn/uploadfile/2023/08-1691324503.jpg",香港 港台电视32（2）
+https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8?$1080P
 #EXTINF:-1 group-title="香港台" tvg-logo="http://gbm.123tv.cn/uploadfile/2023/08-1691325213.jpg",香港 港台电视33
-https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8
+https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8$1080P
 #EXTINF:-1 group-title="香港台" tvg-logo="http://gbm.123tv.cn/uploadfile/2023/08-1691326333.jpg",香港 港台电视34
-https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPlaylist.m3u8
+https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPlaylist.m3u8$1080P
 #EXTINF:-1 group-title="香港台" tvg-logo="http://gbm.123tv.cn/uploadfile/2023/08-1691326645.jpg",香港 港台电视35
-https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
+https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8$1080P
 #EXTINF:1 tvg-logo="https://live.fanmingming.com/tv/TVB翡翠台.png" group-title="香港台",TVB翡翠台（1）
 http://v2h.jdshipin.com/jade/jade.stream/chunklist.m3u8
 #EXTINF:1 tvg-logo="https://live.fanmingming.com/tv/TVB翡翠台.png" group-title="香港台",TVB翡翠台（2）
 https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
 #EXTINF:-1 group-title="香港台",TVB星河
 https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8
+#EXTINF:-1 group-title="香港台",TVB亞洲武俠（1）
+http://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
+#EXTINF:-1 group-title="香港台",TVB亞洲武俠（2）
+https://edge6a.v2h-cdn.com/asia_action/asia_action.stream/chunklist.m3u8
 #EXTINF:-1 group-title="香港台",TVB Live Show
 https://edge6a.v2h-cdn.com/liveshow/liveshow.stream/playlist.m3u8
-#EXTINF:-1 group-title="香港台",TVB娛樂新聞
+#EXTINF:-1 group-title="香港台",TVB娛樂新聞（1）
 https://edge6a.v2h-cdn.com/enew/enew.stream/chunklist.m3u8
+#EXTINF:-1 group-title="香港台",TVB娛樂新聞（2）
+http://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
 #EXTINF:1 tvg-logo="https://i.imgur.com/jaIdkbz.png" group-title="香港台",HKIBC
 https://uc6.i-cable.com/live_freedirect/opentvhd002_h.live/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="香港台",香港 香港電台普通話台（廣播）
@@ -266,6 +274,12 @@ http://js1.amtb.cn/liveedge/_definst_/livetv/chunklist.m3u8
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-samsungnz/playlist.m3u8
 #EXTINF:-1 group-title="香港台" tvg-logo="https://e3f49eaa46b57.cdn.sohucs.com/2022/6/5/18/23/MTAwMTM1XzE2NTQ0MjQ2MjQ4NDk=.jpg",星空衛視
 http://wouu.net:9977/udp/239.93.0.156:2193
+#EXTINF:-1 group-title="香港台",GOOD卡通
+https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
+#EXTINF:-1 group-title="香港台",面包台
+https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
+#EXTINF:-1 group-title="香港台",環球電視台
+http://zb.xzxwhcb.com:9999/hls/world.m3u8
 
 #EXTINF:-1 group-title="澳門台" tvg-logo="https://live.fanmingming.com/tv/澳视澳门.png",澳視
 http://61.244.22.4/ch3/ch3.live/playelist.m3u8
@@ -7924,4 +7938,3 @@ http://ngcdn016.cnr.cn/live/gsgljtgb/index.m3u8
 http://ngcdn017.cnr.cn/live/xczs/index.m3u8
 #EXTINF:-1 group-title="廣播電台", CNR哈薩克語廣播-17
 http://ngcdn025.cnr.cn/live/hygb/index.m3u8
-
