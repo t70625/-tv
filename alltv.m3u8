@@ -274,6 +274,8 @@ http://js1.amtb.cn/liveedge/_definst_/livetv/chunklist.m3u8
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-samsungnz/playlist.m3u8
 #EXTINF:-1 group-title="香港台" tvg-logo="https://e3f49eaa46b57.cdn.sohucs.com/2022/6/5/18/23/MTAwMTM1XzE2NTQ0MjQ2MjQ4NDk=.jpg",星空衛視
 http://wouu.net:9977/udp/239.93.0.156:2193
+#EXTINF:-1 group-title="香港台",C+
+http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 #EXTINF:-1 group-title="香港台",GOOD卡通
 https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 #EXTINF:-1 group-title="香港台",面包台
@@ -281,6 +283,8 @@ https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 #EXTINF:-1 group-title="香港台",環球電視台
 http://zb.xzxwhcb.com:9999/hls/world.m3u8
 
+#EXTINF:-1 group-title="澳門台",澳門衛視
+https://live.mastvnet.com/lsdream/MSTV/1500/live.m3u8
 #EXTINF:-1 group-title="澳門台" tvg-logo="https://live.fanmingming.com/tv/澳视澳门.png",澳視
 http://61.244.22.4/ch3/ch3.live/playelist.m3u8
 #EXTINF:-1 group-title="澳門台" tvg-logo="https://live.fanmingming.com/tv/澳视澳门.png",澳視澳門
