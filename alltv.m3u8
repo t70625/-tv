@@ -78,6 +78,8 @@ http://221.1.210.106:8053/tsfile/live/0015_1.m3u8
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225785/1.m3u8
 #EXTINF:-1 group-title="中央電視台" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png",CCTV-16 奧林匹克頻道 HD
 http://113.195.172.192:808/hls/25/index.m3u8
+#EXTINF:-1 group-title="中央電視台" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png",CCTV-16 奧林匹克頻道 4K
+https://tv.cry33.com/ys4k.php?id=16-4k
 #EXTINF:-1 group-title="中央電視台" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png",CCTV-16 奧林匹克頻道 HD(緩衝)
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
 #EXTINF:-1 group-title="中央電視台" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png",CCTV-17 農業農村頻道 HD
@@ -7861,7 +7863,8 @@ http://91.134.145.75:10001/Dijlah/index.m3u8
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-rokCKG5tCkY/Wws7jGYGULI/AAAAAAAATNU/v80fDLlCGJcN1TvkYVbP9gygG4UIqC7eQCLcBGAs/s1600/al_hadath_news_eg.png" group-title="沙特台", Al Hadath
 https://av.alarabiya.net/alarabiapublish/alhadath.smil/chunklist_b4500000.m3u8
-
+#EXTINF:0 tvg-logo="https://i.imgur.com/5ohs2WT.png" group-title="沙特台",Al Quran Al Kareem(Mecca), Quran
+http://m.live.net.sa:1935/live/quran/playlist.m3u8
 
 #EXTINF:-1 group-title="約旦台",JawharaFM(720p)
 http://streaming.toutech.net:1935/live/mp4:jawharafm.sdp/playlist.m3u8
