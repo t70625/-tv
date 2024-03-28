@@ -119,6 +119,18 @@ http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 
 #EXTINF:-1 group-title="黑龍江台" tvg-logo="https://live.fanmingming.com/tv/黑龙江卫视.png" ,黑龙江卫视 HLJTV-1
 http://[2409:8087:1a01:df::4001]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/1.m3u8
+#EXTINF:-1 group-title="黑龍江台",黑龙江影视 HLJTV-2
+http://[2409:8087:1a01:df::4035]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226298/1.m3u8
+#EXTINF:-1 group-title="黑龍江台" tvg-logo="http://tv.haoqu99.com/d/file/2016/0623/20160623114133434.jpg",黑龙江文体 HLJTV-3
+http://[2409:8087:1a01:df::4025]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226239/1.m3u8
+#EXTINF:-1 group-title="黑龍江台" tvg-logo="http://tv.haoqu99.com/d/file/2016/0623/20160623113805611.jpg",黑龙江都市 HLJTV-4
+http://[2409:8087:1a01:df::4025]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226301/1.m3u8
+#EXTINF:-1 group-title="黑龍江台" tvg-logo="http://tv.haoqu99.com/d/file/2016/0623/20160623113610555.jpg",黑龙江新闻法治 HLJTV-5
+http://[2409:8087:1a01:df::4036]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226330/1.m3u8
+#EXTINF:-1 group-title="黑龍江台" tvg-logo="http://tv.haoqu99.com/d/file/2016/0623/20160623113356882.jpg",黑龙江农业科教 HLJTV-6
+http://[2409:8087:1a01:df::4025]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226242/1.m3u8
+#EXTINF:-1 group-title="黑龍江台",黑龙江少儿 HLJTV-7
+http://[2409:8087:1a01:df::4035]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226304/1.m3u8
 
 
 
