@@ -98,6 +98,9 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001343/index.m3
 
 #EXTINF:-1 group-title="上海台" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png",东方卫视 OTV-1
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001336/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 group-title="上海台" tvg-logo="https://live.fanmingming.com/tv/五星体育.png",五星体育
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000010000017540/1.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=3
+
 
 
 #EXTINF:-1 group-title="重慶台" tvg-logo="https://live.fanmingming.com/tv/重庆卫视.png",重庆卫视 CQTV-1
@@ -244,9 +247,10 @@ http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 
 #EXTINF:-1 group-title="廣東台" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png",广东卫视 GDTV-1
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001337/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-
 #EXTINF:-1 group-title="廣東台" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png",深圳卫视 SZTV-1
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226313/index.m3u8
+#EXTINF:-1 group-title="廣東台" tvg-logo="https://live.fanmingming.com/tv/大湾区卫视.png",大湾区卫视
+http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001305/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 #EXTINF:-1 group-title="廣西台" tvg-logo="https://live.fanmingming.com/tv/广西卫视.png",广西卫视 GXTV-1
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226549/index.m3u8
@@ -266,6 +270,16 @@ http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 
 #EXTINF:-1 group-title="四川台" tvg-logo="https://live.fanmingming.com/tv/四川卫视.png",四川卫视 SCTV-1
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8
+
+
+#EXTINF:-1 group-title="咪咕体育",咪咕体育1
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226124/index.m3u8
+#EXTINF:-1 group-title="咪咕体育",咪咕体育2
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226147/index.m3u8
+#EXTINF:-1 group-title="咪咕体育",咪咕体育3
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226398/index.m3u8
+
+
 
 #EXTINF:-1 group-title="IHOT频道",IHOT爱电竞
 http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000006000230630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000230630&livemode=1&stbId=3
