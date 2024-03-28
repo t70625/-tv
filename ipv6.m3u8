@@ -41,12 +41,42 @@ https://tv.cry33.com/ys4k.php?id=4k
 #EXTINF:-1 group-title="中央電視台" tvg-logo="https://live.fanmingming.com/tv/CCTV8K.png",CCTV-8K
 https://tv.cry33.com/ys4k.php?id=8k
 
+#EXTINF:-1 group-title="中央電視台" tvg-logo="https://live.fanmingming.com/tv/CGTN.png",CGTN
+http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001024/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
-#EXTINF:-1 group-title="中央電視台付費頻道",CHC动作电影
+
+#EXTINF:-1 group-title="中央電視台付費頻道" tvg-logo="https://live.fanmingming.com/tv/电视指南.png",CCTV电视指南
+http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000002545/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 group-title="中央電視台付費頻道" tvg-logo="https://live.fanmingming.com/tv/第一剧场.png",CCTV第一剧场
+http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000002498/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 group-title="中央電視台付費頻道" tvg-logo="https://live.fanmingming.com/tv/怀旧剧场.png",CCTV怀旧剧场
+http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000002495/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 group-title="中央電視台付費頻道" tvg-logo="https://live.fanmingming.com/tv/兵器科技.png",CCTV兵器科技
+http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000002515/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 group-title="中央電視台付費頻道" tvg-logo="https://live.fanmingming.com/tv/风云音乐.png",CCTV风云音乐
+http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000002525/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 group-title="中央電視台付費頻道" tvg-logo="https://live.fanmingming.com/tv/高尔夫网球.png",CCTV高尔夫•网球
+http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000002497/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 group-title="中央電視台付費頻道" tvg-logo="https://live.fanmingming.com/tv/央视文化精品.png",CCTV央视文化精品
+http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000002535/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 group-title="中央電視台付費頻道" tvg-logo="https://live.fanmingming.com/tv/世界地理.png",CCTV世界地理
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002485/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 group-title="中央電視台付費頻道" tvg-logo="https://live.fanmingming.com/tv/风云足球.png",CCTV风云足球
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002499/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 group-title="中央電視台付費頻道" tvg-logo="https://live.fanmingming.com/tv/风云剧场.png",CCTV风云剧场
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002505/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 group-title="中央電視台付費頻道" tvg-logo="https://live.fanmingming.com/tv/风云音乐.png",CCTV风云音乐
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002525/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 group-title="中央電視台付費頻道" tvg-logo="https://live.fanmingming.com/tv/央视台球.png",CCTV央视台球
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002496/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+
+
+
+#EXTINF:-1 group-title="中央電視台付費頻道" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png",CHC动作电影
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 group-title="中央電視台付費頻道",CHC高清电影
+#EXTINF:-1 group-title="中央電視台付費頻道" tvg-logo="https://live.fanmingming.com/tv/CHC高清电影.png",CHC高清电影
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 group-title="中央電視台付費頻道",CHC家庭影院
+#EXTINF:-1 group-title="中央電視台付費頻道" tvg-logo="https://live.fanmingming.com/tv/CHC家庭影院.png",CHC家庭影院
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 
