@@ -69,6 +69,14 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002505/index.m3
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002525/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 group-title="中央電視台付費頻道" tvg-logo="https://live.fanmingming.com/tv/央视台球.png",CCTV央视台球
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002496/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 group-title="中央電視台付費頻道" tvg-logo="https://live.fanmingming.com/tv/女性时尚.png",女性时尚
+http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001316/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 group-title="中央電視台付費頻道" tvg-logo="https://live.fanmingming.com/tv/老故事.png",老故事
+http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001315/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 group-title="中央電視台付費頻道" tvg-logo="https://live.fanmingming.com/tv/发现之旅.png",发现之旅
+http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001314/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 group-title="中央電視台付費頻道" tvg-logo="https://live.fanmingming.com/tv/央广购物.png",央广购物精选
+http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001286/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 group-title="中央電視台付費頻道" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png",CHC动作电影
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 group-title="中央電視台付費頻道" tvg-logo="https://live.fanmingming.com/tv/CHC高清电影.png",CHC高清电影
@@ -91,6 +99,16 @@ http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001308/index.m3
 http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001035/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 group-title="北京台" tvg-logo="https://live.fanmingming.com/tv/北京纪实科教.png",北京纪实科教频道 BTV-11
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001329/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 group-title="北京台" tvg-logo="https://live.fanmingming.com/tv/置业频道.png",置业频道
+http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001318/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 group-title="北京台" tvg-logo="https://live.fanmingming.com/tv/京视剧场.png",京视剧场
+http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001319/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 group-title="北京台" tvg-logo="https://live.fanmingming.com/tv/家庭理财.png",家庭理财
+http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001321/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 group-title="北京台" tvg-logo="https://live.fanmingming.com/tv/弈坛春秋.png",弈坛春秋
+http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001322/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+
+
 
 #EXTINF:-1 group-title="天津台" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png",天津卫视 TJTV-1
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001343/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -100,7 +118,10 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001343/index.m3
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001336/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 group-title="上海台" tvg-logo="https://live.fanmingming.com/tv/五星体育.png",五星体育
 http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000010000017540/1.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=3
-
+#EXTINF:-1 group-title="上海台" tvg-logo="https://live.fanmingming.com/tv/炫动卡通.png",哈哈炫动卡通
+http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001303/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 group-title="上海台" tvg-logo="https://live.fanmingming.com/tv/SITV劲爆体育.png",劲爆体育
+http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001326/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 
 #EXTINF:-1 group-title="重慶台" tvg-logo="https://live.fanmingming.com/tv/重庆卫视.png",重庆卫视 CQTV-1
@@ -117,7 +138,8 @@ http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 
 #EXTINF:-1 group-title="山东台"  tvg-logo="https://live.fanmingming.com/tv/山东卫视.png",山东卫视 SDTV-1
 http://[2409:8087:7001:20:3::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226209/index.m3u8
-
+#EXTINF:-1 group-title="山东台"  tvg-logo="https://live.fanmingming.com/tv/山东教育.png",山东教育卫视
+http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001317/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 #EXTINF:-1 group-title="河南台"  tvg-logo="https://live.fanmingming.com/tv/河南卫视.png",河南卫视 HENTV-1
 http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8
@@ -149,7 +171,7 @@ http://[2409:8087:1a0b:df::4020]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001307/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 #EXTINF:-1 group-title="遼寧台" tvg-logo="https://live.fanmingming.com/tv/辽宁卫视.png",辽宁卫视 LNTV-1
-http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001340/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001296/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 
 #EXTINF:-1 group-title="陕西台" tvg-logo="https://live.fanmingming.com/tv/陕西卫视.png",陕西卫视 SXBC-1
@@ -270,6 +292,8 @@ http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001029/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 group-title="廣東台" tvg-logo="https://live.fanmingming.com/tv/大湾区卫视.png",大湾区卫视
 http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001305/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 group-title="廣東台" tvg-logo="https://live.fanmingming.com/tv/嘉佳卡通.png",嘉佳卡通
+http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001310/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 #EXTINF:-1 group-title="廣西台" tvg-logo="https://live.fanmingming.com/tv/广西卫视.png",广西卫视 GXTV-1
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226549/index.m3u8
@@ -295,10 +319,18 @@ http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 
 #EXTINF:-1 group-title="四川台" tvg-logo="https://live.fanmingming.com/tv/四川卫视.png",四川卫视 SCTV-1
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8
+#EXTINF:-1 group-title="四川台" tvg-logo="https://live.fanmingming.com/tv/康巴卫视.png",康巴卫视
+http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001313/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+
 
 #EXTINF:-1 group-title="青海台" tvg-logo="https://live.fanmingming.com/tv/青海卫视.png",青海卫视 QHTV-1
 http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001033/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 group-title="青海台" tvg-logo="https://live.fanmingming.com/tv/安多卫视.png",安多卫视
+http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001311/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
+
+#EXTINF:-1 group-title="新疆台" tvg-logo="https://live.fanmingming.com/tv/新疆卫视.png",新疆卫视 XJTV-1
+http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001047/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 group-title="新疆台" tvg-logo="https://live.fanmingming.com/tv/兵团卫视.png",兵团卫视
 http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001304/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
