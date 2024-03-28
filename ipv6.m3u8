@@ -69,9 +69,6 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002505/index.m3
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002525/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 group-title="中央電視台付費頻道" tvg-logo="https://live.fanmingming.com/tv/央视台球.png",CCTV央视台球
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002496/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-
-
-
 #EXTINF:-1 group-title="中央電視台付費頻道" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png",CHC动作电影
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 group-title="中央電視台付費頻道" tvg-logo="https://live.fanmingming.com/tv/CHC高清电影.png",CHC高清电影
@@ -80,11 +77,14 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002065/index.m3
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 
-#EXTINF:-1 group-title="教育電視台",CETV1
+#EXTINF:-1 group-title="教育電視台" tvg-logo="https://live.fanmingming.com/tv/CETV1.png",CETV1
 http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001063/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 group-title="教育電視台",CETV2
+#EXTINF:-1 group-title="教育電視台" tvg-logo="https://live.fanmingming.com/tv/CETV2.png",CETV2
 http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001064/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 group-title="教育電視台",CETV3
+#EXTINF:-1 group-title="教育電視台" tvg-logo="https://live.fanmingming.com/tv/CETV3.png",CETV3
 http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001309/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 group-title="教育電視台",CETV4
+#EXTINF:-1 group-title="教育電視台" tvg-logo="https://live.fanmingming.com/tv/CETV4.png",CETV4
 http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001308/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+
+#EXTINF:-1 group-title="安徽台"  tvg-logo="https://live.fanmingming.com/tv/安徽卫视.png",安徽卫视
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001298/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
