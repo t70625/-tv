@@ -144,7 +144,72 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001340/index.m3
 
 #EXTINF:-1 group-title="陕西台" tvg-logo="https://live.fanmingming.com/tv/陕西卫视.png",陕西卫视 SXBC-1
 http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001062/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-
+#EXTINF:-1 group-title="陝西台",宝鸡综合-1
+http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226383/index.m3u8
+#EXTINF:-1 group-title="陝西台",宝鸡公共-2
+http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226384/index.m3u8
+#EXTINF:-1 group-title="陝西台",安康综合-1
+http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226385/index.m3u8
+#EXTINF:-1 group-title="陝西台",西乡融媒-1
+http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226556/index.m3u8
+#EXTINF:-1 group-title="陝西台",商洛
+http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226378/index.m3u8
+#EXTINF:-1 group-title="陝西台",城园
+http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226920/index.m3u8
+#EXTINF:-1 group-title="陝西台",扶风
+http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221227005/index.m3u8
+#EXTINF:-1 group-title="陝西台",汉中综合-1
+http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226331/index.m3u8
+#EXTINF:-1 group-title="陝西台",汉中公共-2
+http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225990/index.m3u8
+#EXTINF:-1 group-title="陝西台",汉中教育-3
+http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225991/index.m3u8
+#EXTINF:-1 group-title="陝西台",千阳
+http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226945/index.m3u8
+#EXTINF:-1 group-title="陝西台",神木-1
+http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226993/index.m3u8
+#EXTINF:-1 group-title="陝西台",石泉
+http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226965/index.m3u8
+#EXTINF:-1 group-title="陝西台",岐山
+http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226982/index.m3u8
+#EXTINF:-1 group-title="陝西台",吴起
+http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226967/index.m3u8
+#EXTINF:-1 group-title="陝西台",洋县-1
+http://[2409:8087:7002:20::3]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226938/index.m3u8
+#EXTINF:-1 group-title="陝西台",紫阳综合
+http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221227002/index.m3u8
+#EXTINF:-1 group-title="陝西台",FGTV 1
+http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226990/index.m3u8
+#EXTINF:-1 group-title="陝西台",佛坪
+http://[2409:8087:7002:20::3]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226454/index.m3u8
+#EXTINF:-1 group-title="陝西台",麟游
+http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221227072/index.m3u8
+#EXTINF:-1 group-title="陝西台",旬邑
+http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221227077/1.m3u8
+#EXTINF:-1 group-title="陝西台",横山
+http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221227054/1.m3u8
+#EXTINF:-1 group-title="陝西台",佛坪
+http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226454/1.m3u8
+#EXTINF:-1 group-title="陝西台",西乡
+http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226556/1.m3u8
+#EXTINF:-1 group-title="陝西台",石泉
+http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226965/1.m3u8
+#EXTINF:-1 group-title="陝西台",镇坪
+http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221227032/1.m3u8
+#EXTINF:-1 group-title="陝西台",宁陕
+http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226998/index.m3u8
+#EXTINF:-1 group-title="陝西台",彬州
+http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221227087/index.m3u8
+#EXTINF:-1 group-title="陝西台",黄陵
+http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226992/index.m3u8
+#EXTINF:-1 group-title="陝西台",岚皋
+http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221227057/index.m3u8
+#EXTINF:-1 group-title="陝西台",旬阳
+http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221227090/index.m3u8
+#EXTINF:-1 group-title="陝西台",子洲
+http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221227104/index.m3u8
+#EXTINF:-1 group-title="陝西台",韩城
+http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221227107/index.m3u8
 
 
 #EXTINF:-1 group-title="江苏台" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png",江苏卫视 JSTV-1
@@ -202,3 +267,111 @@ http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 #EXTINF:-1 group-title="四川台" tvg-logo="https://live.fanmingming.com/tv/四川卫视.png",四川卫视 SCTV-1
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8
 
+#EXTINF:-1 group-title="IHOT频道",IHOT爱电竞
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000006000230630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000230630&livemode=1&stbId=3
+#EXTINF:-1 group-title="IHOT频道",IHOT爱谍战
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000006000070630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000070630&livemode=1&stbId=3
+#EXTINF:-1 group-title="IHOT频道",IHOT爱动漫
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000006000280630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000280630&livemode=1&stbId=3
+#EXTINF:-1 group-title="IHOT频道",IHOT爱怀旧
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000006000260630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000260630&livemode=1&stbId=3
+#EXTINF:-1 group-title="IHOT频道",IHOT爱经典
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000006000060630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000060630&livemode=1&stbId=3
+#EXTINF:-1 group-title="IHOT频道",IHOT爱科幻
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000006000020630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000020630&livemode=1&stbId=3
+#EXTINF:-1 group-title="IHOT频道",IHOT爱科学
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000006000160630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000160630&livemode=1&stbId=3
+#EXTINF:-1 group-title="IHOT频道",IHOT爱浪漫
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000006000040630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000040630&livemode=1&stbId=3
+#EXTINF:-1 group-title="IHOT频道",IHOT爱历史
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000006000150630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000150630&livemode=1&stbId=3
+#EXTINF:-1 group-title="IHOT频道",IHOT爱旅行
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000006000250630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000250630&livemode=1&stbId=3
+#EXTINF:-1 group-title="IHOT频道",IHOT爱奇谈
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000006000270630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000270630&livemode=1&stbId=3
+#EXTINF:-1 group-title="IHOT频道",IHOT爱青春
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000006000100630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000100630&livemode=1&stbId=3
+#EXTINF:-1 group-title="IHOT频道",IHOT爱赛车
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000006000240630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000240630&livemode=1&stbId=3
+#EXTINF:-1 group-title="IHOT频道",IHOT爱体育
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000006000290630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000290630&livemode=1&stbId=3
+#EXTINF:-1 group-title="IHOT频道",IHOT爱玩具
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000006000220630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000220630&livemode=1&stbId=3
+#EXTINF:-1 group-title="IHOT频道",IHOT爱喜剧
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000006000010630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000010630&livemode=1&stbId=3
+#EXTINF:-1 group-title="IHOT频道",IHOT爱悬疑
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000006000050630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000050630&livemode=1&stbId=3
+#EXTINF:-1 group-title="IHOT频道",IHOT爱院线
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000006000030630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000030630&livemode=1&stbId=3
+#EXTINF:-1 group-title="IHOT频道",IHOT爱电竞
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000004000000054/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000054&livemode=1&stbId=3
+#EXTINF:-1 group-title="IHOT频道",IHOT爱谍战
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000004000000038/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000038&livemode=1&stbId=3
+#EXTINF:-1 group-title="IHOT频道",IHOT爱动漫
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000004000000059/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000059&livemode=1&stbId=3
+#EXTINF:-1 group-title="IHOT频道",IHOT爱怀旧
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000004000000057/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000057&livemode=1&stbId=3
+#EXTINF:-1 group-title="IHOT频道",IHOT爱经典
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000004000000037/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000037&livemode=1&stbId=3
+#EXTINF:-1 group-title="IHOT频道",IHOT爱科幻
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000004000000033/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000033&livemode=1&stbId=3
+#EXTINF:-1 group-title="IHOT频道",IHOT爱科学
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000004000000047/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000047&livemode=1&stbId=3
+#EXTINF:-1 group-title="IHOT频道",IHOT爱浪漫
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000004000000035/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000035&livemode=1&stbId=3
+#EXTINF:-1 group-title="IHOT频道",IHOT爱历史
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000004000000046/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000046&livemode=1&stbId=3
+#EXTINF:-1 group-title="IHOT频道",IHOT爱旅行
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000004000000056/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000056&livemode=1&stbId=3
+#EXTINF:-1 group-title="IHOT频道",IHOT爱奇谈
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000004000000058/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000058&livemode=1&stbId=3
+#EXTINF:-1 group-title="IHOT频道",IHOT爱青春
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000004000000041/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000041&livemode=1&stbId=3
+#EXTINF:-1 group-title="IHOT频道",IHOT爱赛车
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000004000000055/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000055&livemode=1&stbId=3
+#EXTINF:-1 group-title="IHOT频道",IHOT爱体育
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000004000000060/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000060&livemode=1&stbId=3
+#EXTINF:-1 group-title="IHOT频道",IHOT爱玩具
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000004000000053/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000053&livemode=1&stbId=3
+#EXTINF:-1 group-title="IHOT频道",IHOT爱喜剧
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000004000000032/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000032&livemode=1&stbId=3
+#EXTINF:-1 group-title="IHOT频道",IHOT爱悬疑
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000004000000036/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000036&livemode=1&stbId=3
+#EXTINF:-1 group-title="IHOT频道",IHOT爱院线
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000004000000034/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000034&livemode=1&stbId=3
+#EXTINF:-1 group-title="IHOT频道",IHOT爱动漫
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000280630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000280630&livemode=1&stbId=3
+#EXTINF:-1 group-title="IHOT频道",IHOT爱悬疑
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000050630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000050630&livemode=1&stbId=3
+#EXTINF:-1 group-title="IHOT频道",IHOT爱电竞
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000230630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000230630&livemode=1&stbId=3
+#EXTINF:-1 group-title="IHOT频道",IHOT爱谍战
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000070630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000070630&livemode=1&stbId=3
+#EXTINF:-1 group-title="IHOT频道",IHOT爱怀旧
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000260630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000260630&livemode=1&stbId=3
+#EXTINF:-1 group-title="IHOT频道",IHOT爱经典
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000060630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000060630&livemode=1&stbId=3
+#EXTINF:-1 group-title="IHOT频道",IHOT爱科幻
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000020630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000020630&livemode=1&stbId=3
+#EXTINF:-1 group-title="IHOT频道",IHOT爱科学
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000160630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000160630&livemode=1&stbId=3
+#EXTINF:-1 group-title="IHOT频道",IHOT爱浪漫
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000040630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000040630&livemode=1&stbId=3
+#EXTINF:-1 group-title="IHOT频道",IHOT爱历史
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000150630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000150630&livemode=1&stbId=3
+#EXTINF:-1 group-title="IHOT频道",IHOT爱旅行
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000250630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000250630&livemode=1&stbId=3
+#EXTINF:-1 group-title="IHOT频道",IHOT爱奇谈
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000270630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000270630&livemode=1&stbId=3
+#EXTINF:-1 group-title="IHOT频道",IHOT爱青春
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000100630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000100630&livemode=1&stbId=3
+#EXTINF:-1 group-title="IHOT频道",IHOT爱赛车
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000240630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000240630&livemode=1&stbId=3
+#EXTINF:-1 group-title="IHOT频道",IHOT爱体育
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000290630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000290630&livemode=1&stbId=3
+#EXTINF:-1 group-title="IHOT频道",IHOT爱玩具
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000220630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000220630&livemode=1&stbId=3
+#EXTINF:-1 group-title="IHOT频道",IHOT爱喜剧
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000010630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000010630&livemode=1&stbId=3
+#EXTINF:-1 group-title="IHOT频道",IHOT爱院线
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000030630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000030630&livemode=1&stbId=3
