@@ -24,8 +24,10 @@ http://113.195.172.192:808/hls/11/index.m3u8
 http://220.163.178.144:8888/tsfile/live/0004_1.m3u8
 #EXTINF:-1 group-title="中央電視台" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png",CCTV-4 中文國際頻道 HD(緩衝)
 http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
-#EXTINF:-1 group-title="中央電視台" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png",CCTV-4 標清
+#EXTINF:-1 group-title="中央電視台" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png",CCTV-4 中文國際頻道 標清
 http://113.195.172.192:808/hls/12/index.m3u8
+#EXTINF:-1 group-title="中央電視台" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png",CCTV-4 中文國際美洲
+https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 #EXTINF:-1 group-title="中央電視台" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png",CCTV-5 體育頻道 HD（1）
 http://220.163.178.144:8888/tsfile/live/0005_1.m3u8
 #EXTINF:-1 group-title="中央電視台" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png",CCTV-5 體育頻道 HD（2）
