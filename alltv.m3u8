@@ -1877,7 +1877,7 @@ https://live3.hnntv.cn/srs/tv/xwpd.m3u8
 #EXTINF:-1 group-title="海南台" tvg-logo="https://live.fanmingming.com/tv/海南自贸.png",海南自贸
 https://live3.hnntv.cn/srs/tv/jjpd.m3u8
 #EXTINF:-1 group-title="海南台" tvg-logo="https://live.fanmingming.com/tv/三沙卫视.png",三沙卫视
-https://pullsstv90080111.ssws.tv/live/SSTV20220729.m3u8
+http://140.249.247.163/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/sswshd8m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="海南台" tvg-logo="http://tv.haoqu99.com/d/file/2018/0201/smalla2ad1cf2b8f858b1d0b00c51fea1c2271517494297.jpg",海口一套综合频道
 http://124.225.35.97:16080/live/tv2401.m3u8
 #EXTINF:-1 group-title="海南台" tvg-logo="http://tv.haoqu99.com/d/file/2018/0201/small1a7e13a782f5d8212de10bff5b56ce4e1517494375.jpg",海口二套生活娱乐频道
@@ -7874,5 +7874,4 @@ http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/vision4/hls_video/index.m
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 group-title="其他外國台",123 GO! Live
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV58.m3u8
-
 
