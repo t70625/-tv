@@ -86,5 +86,107 @@ http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001309/index.m3
 #EXTINF:-1 group-title="教育電視台" tvg-logo="https://live.fanmingming.com/tv/CETV4.png",CETV4
 http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001308/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
-#EXTINF:-1 group-title="安徽台"  tvg-logo="https://live.fanmingming.com/tv/安徽卫视.png",安徽卫视
-http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001298/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+
+#EXTINF:-1 group-title="北京台" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png",北京卫视 BTV-1
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001335/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 group-title="北京台" tvg-logo="https://live.fanmingming.com/tv/北京纪实科教.png",北京纪实科教频道 BTV-11
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001329/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+
+#EXTINF:-1 group-title="天津台" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png",天津卫视 TJTV-1
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001343/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+
+
+#EXTINF:-1 group-title="上海台" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png",东方卫视 OTV-1
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001336/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+
+
+#EXTINF:-1 group-title="重慶台" tvg-logo="https://live.fanmingming.com/tv/重庆卫视.png",重庆卫视 CQTV-1
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8
+
+
+
+#EXTINF:-1 group-title="河北台"  tvg-logo="https://live.fanmingming.com/tv/河北卫视.png",河北卫视 HEBTV-1
+http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8
+
+
+#EXTINF:-1 group-title="山东台"  tvg-logo="https://live.fanmingming.com/tv/山东卫视.png",山东卫视 SDTV-1
+http://[2409:8087:7001:20:3::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226209/index.m3u8
+
+
+#EXTINF:-1 group-title="河南台"  tvg-logo="https://live.fanmingming.com/tv/河南卫视.png",河南卫视 HENTV-1
+http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8
+
+
+#EXTINF:-1 group-title="黑龍江台" tvg-logo="https://live.fanmingming.com/tv/黑龙江卫视.png" ,黑龙江卫视 HLJTV-1
+http://[2409:8087:1a01:df::4001]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/1.m3u8
+
+
+
+#EXTINF:-1 group-title="吉林台" tvg-logo="https://live.fanmingming.com/tv/吉林卫视.png",吉林卫视 JLTV-1
+http://[2409:8087:1a0b:df::4020]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8
+
+
+#EXTINF:-1 group-title="遼寧台" tvg-logo="https://live.fanmingming.com/tv/辽宁卫视.png",辽宁卫视 LNTV-1
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001340/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+
+
+#EXTINF:-1 group-title="陕西台" tvg-logo="https://live.fanmingming.com/tv/陕西卫视.png",陕西卫视 SXBC-1
+http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001062/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+
+
+
+#EXTINF:-1 group-title="江苏台" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png",江苏卫视 JSTV-1
+http://[2409:8087:7000:20::17]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225800/index.m3u8
+
+
+#EXTINF:-1 group-title="浙江台" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png",浙江卫视 ZJTV-1
+http://[2409:8087:7001:20:3::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225798/index.m3u8
+
+
+#EXTINF:-1 group-title="安徽台"  tvg-logo="https://live.fanmingming.com/tv/安徽卫视.png",安徽卫视 AHTV-1
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001346/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+
+
+#EXTINF:-1 group-title="湖北台" tvg-logo="https://live.fanmingming.com/tv/湖北卫视.png",湖北卫视 HBTV-1
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001299/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+
+
+#EXTINF:-1 group-title="湖南台" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png",湖南卫视 HNTV-1
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001027/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 group-title="湖南台" tvg-logo="https://live.fanmingming.com/tv/金鹰纪实.png",金鹰纪实 HNTV-10
+http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001699/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 group-title="湖南台" tvg-logo="https://live.fanmingming.com/tv/快乐垂钓.png",快乐垂钓 HNTV-11
+http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000002264/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 group-title="湖南台" tvg-logo="https://live.fanmingming.com/tv/茶.png",茶频道 HNTV-14
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002305/index.m3u8/?virtualDomain=yinhe.live_hls.zte.com
+
+
+#EXTINF:-1 group-title="江西台" tvg-logo="https://live.fanmingming.com/tv/江西卫视.png",江西卫视
+http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8
+
+
+#EXTINF:-1 group-title="廣東台" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png",广东卫视 GDTV-1
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001337/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+
+#EXTINF:-1 group-title="廣東台" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png",深圳卫视 SZTV-1
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226313/index.m3u8
+
+#EXTINF:-1 group-title="廣西台" tvg-logo="https://live.fanmingming.com/tv/广西卫视.png",广西卫视 GXTV-1
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226549/index.m3u8
+
+
+#EXTINF:-1 group-title="福建台" tvg-logo="https://live.fanmingming.com/tv/东南卫视.png",东南卫视 SETV-1
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8
+
+
+#EXTINF:-1 group-title="海南台" tvg-logo="https://live.fanmingming.com/tv/海南卫视.png",海南卫视 HAITV-1
+http://[2409:8087:1a0b:df::4020]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
+
+
+#EXTINF:-1 group-title="贵州台" tvg-logo="https://live.fanmingming.com/tv/贵州卫视.png",贵州卫视 GZTV-1
+http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226474/index.m3u8
+
+
+#EXTINF:-1 group-title="四川台" tvg-logo="https://live.fanmingming.com/tv/四川卫视.png",四川卫视 SCTV-1
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8
+
